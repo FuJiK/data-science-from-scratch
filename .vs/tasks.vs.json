@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "タスク-rgby_3D_plt",
+      "appliesTo": "Learning/rgby_3D_plt.py",
+      "type": "launch"
+    }
+  ]
+}
