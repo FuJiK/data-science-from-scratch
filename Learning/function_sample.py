@@ -183,7 +183,11 @@ tweet_items = tweet.items() # tuple(key,value) list
 
 "user" in tweet_keys #　"user" is 
 "user" in tweet # Python的な手法であり、高速な辞書に格納される
+<<<<<<< HEAD
 "joelgrus" in tweet_values # 
+=======
+"joelgrus" in tweet_values # True
+>>>>>>> 211f8264f952a96db1b61183906efa29416a8efe
 """
  辞書のキーは変更不能なオブジェクトでなければならない
  具体的にいうと、リストはキーとして使う事が出来ない。
@@ -222,4 +226,8 @@ for word in document:
  
 from collections import defaultdict
     
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> 211f8264f952a96db1b61183906efa29416a8efe
