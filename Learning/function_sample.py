@@ -226,8 +226,4 @@ for word in document:
  
 from collections import defaultdict
     
-<<<<<<< HEAD
-    
-=======
-    
->>>>>>> 211f8264f952a96db1b61183906efa29416a8efe
+
