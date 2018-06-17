@@ -183,6 +183,43 @@ tweet_items = tweet.items() # tuple(key,value) list
 
 "user" in tweet_keys #　"user" is 
 "user" in tweet # Python的な手法であり、高速な辞書に格納される
-"joelgrus" in tweet_values # 
+"joelgrus" in tweet_values # True
+"""
+ 辞書のキーは変更不能なオブジェクトでなければならない
+ 具体的にいうと、リストはキーとして使う事が出来ない。
+ キーの値として複数組み合わせる必要が有るなら、タプルを使うか文字列としての表現を検討しなければならない
+"""
 
+# defaultdict class
+# 以下の３つはスマートな方法ではない、
+# 単語の出現数を数える
+document = """Here's all the code and examples from my book Data Science from Scratch. The code directory contains Python 2.7 versions, and the code-python3 direction contains the Python 3 equivalents. (I tested them in 3.5, but they should work in any 3.x.) 
+Each can be imported as a module, for example (after you cd into the /code directory):"""
 
+#1 すでに登録されているなら１を加え、登録されていないなら１として登録
+word_counts = {}
+for word in document:
+    if word in word_counts:
+        word_counts[word] += 1
+    else:
+        word_counts[word] = 1
+
+#2 登録していないキーにアクセスした際の例外を処理する方法
+word_counts = {}
+for word in document:
+    try:
+        word_counts[word] += 1
+    except KeyError:
+        word_counts[word] = 1
+
+#3 キーが登録されていない場合でもエラーとならないgetメソッドを使う方法
+word_counts = {}
+for word in document:
+    previous_count = word_counts.get(word, 0)
+    word_counts[word] = previous_count + 1
+
+# defaultdict 
+ 
+from collections import defaultdict
+    
+    
