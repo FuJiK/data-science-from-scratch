@@ -183,11 +183,8 @@ tweet_items = tweet.items() # tuple(key,value) list
 
 "user" in tweet_keys #　"user" is 
 "user" in tweet # Python的な手法であり、高速な辞書に格納される
-<<<<<<< HEAD
 "joelgrus" in tweet_values # 
-=======
 "joelgrus" in tweet_values # True
->>>>>>> 211f8264f952a96db1b61183906efa29416a8efe
 """
  辞書のキーは変更不能なオブジェクトでなければならない
  具体的にいうと、リストはキーとして使う事が出来ない。
@@ -226,4 +223,139 @@ for word in document:
  
 from collections import defaultdict
     
+word_counts = defaultdict(int) # int()は0を返す
+for word in document:
+    word_counts[word] += 1
+print(word_counts)
+
+dd_list = defaultdict(list) #list()は空のリストを返す
+dd_list[2].append(1) #dd_listは、{2:[1]}を含む
+print(dd_list) 
+
+dd_dict = defaultdict(dict) # dict()は空の辞書を返す
+dd_dict["Joel"]["City"] = "Seattle" # dd_dict　は,{"Joel" : {"City":"Seattle"}}を含む
+print(dd_dict)
+
+dd_pair = defaultdict(lambda: [0,0])
+dd_pair[2][1] = 1 # dd_pairは、{2 : [0,1]}を含む
+print(dd_pair)
+# これらの方法は、何らかのキーごとの値を収集する際に、そのキーがすでに辞書に登録されているかを都度確認したくない場合に使用される
+
+# Counterクラス
+# Counterは、1続きの値をdefaultdict(init)
+from collections import Counter
+c = Counter([0, 1, 2, 0,3 ]) # c は {0:2, 1:1, 2:1, 3:1}となる。
+word_counts = Counter(document) # 単語の出現数を数える問題
+print(c)
+print(word_counts)
+
+# Counterオブジェクトには、出現数の多い順に要素を返すmost_commonメソッドが用意されている。
+# 出現数の多い順にベスト10を表示する
+for word, count in word_counts.most_common(10):
+    print (word, count)
+
+# 集合
+"""
+集合を使う主な理由
+１．非常に高速に動作する点(大量のデータの中から要素が含まれる必要があるなら、集合は最も適したデータ構造)
+２．重複のない集まりが得られる
+"""
+s = set()
+s.add(1) # s は{1}
+s.add(2) # {1, 2}となる
+s.add(2) # ここでもまだ{1, 2}のまま
+x = len(s) # x = 2
+y = 2 in s # y = True
+z = 3 in s # z = False
+
+# １つ目の理由
+stopwords_list = ["a", "an", "at"] + list("hundreds_of_other_words") + ["yet", "you"] #Python3だと、型指定をしっかり
+"zip" in stopwords_list # Falseとなる。すべての要素でチェックされる。
+stopwords_set = set(stopwords_list)
+"zip" in stopwords_set # "zip"が含まれるか否かは高速にチェック可能
+print(stopwords_list)
+print(stopwords_set)
+# ２つ目の理由
+item_list = [1, 2, 3, 1, 2, 3]
+num_items = len(item_list)
+item_set = set(item_list)
+num_distinct_items = len(item_set)
+distinct_item_list = list(item_set)
+print(item_list)
+print(num_items,",要素数は６")
+print(item_set,",集合すると重複が取り除かれ、{1, 2, 3}となる")
+print(num_distinct_items, ",要素数は３")
+print(distinct_item_list, ",重複のないリスト[1, 2, 3]")
+
+# 実行順制御
+if 1 > 2:
+    message = "もし、１が２より大きいとしたら"
+elif 1 > 3:
+    message = "elif は”else if”を表す"
+else:
+    message = "すべての条件に当てはまらなければ、elseが該当する(なくてもいい)"
+print(message) # "すべての条件に当てはまらなければ、elseが該当する(なくてもいい)"
+
+# 1行でif-then-elseを書く
+x = 2
+parity = "even" if x % 2 == 0 else "odd"
+print(parity)
+
+# Whileループ
+x = 0
+while x < 10:
+    print(x)
+    x += 1
+# for , inの組み合わせがポピュラー
+
+for x in range(10):
+    print(x, " は、10より小さい")
+"""
+0  は、10より小さい
+1  は、10より小さい
+･・・
+9  は、10より小さい
+"""
+
+# より複雑な処理なら、continue,break
+for x in range(10):
+    if x == 3:
+        continue # 実行中のループの先頭に戻り、処理を継続する
+    if x == 5:
+        break # ループを脱出する
+    print(x) # 0,1,2,4
+
+# True, False
+one_is_less_than_two = 1 < 2 # 代入される値はTrue
+true_equals_false = True == False # 代入される値はFalse
+
+# 値が指定されていないものは、Noneで表す。他の言語ではNull
+x = None
+print (x) == None #Python的ではないコード(True)
+print (x) is None #Python的なコード(True)
+
+# Falseの例
+"""
+・False
+・None
+・[]空のリスト
+・{}空の辞書
+・""
+・set()
+・０
+・0.0
+"""
+
+# Falseの例以外はTrueとして扱われる、つまりリスト、辞書、文字列などがからであるか否かをifを使って簡単に調べられる
+# pp32
+def some_function_that_returns_a_string():
+    s =  some_function_that_returns_a_string()
+    if s:
+        first_char = s and s[0]
+    else:
+        first_char = ""
+print(s)
+
+# all関数（リストの要素全てがTrueとして扱える場合にTrueを返す）
+# any関数（要素のいずれか一つがTrueならば、Trueを返すany関数）
 
