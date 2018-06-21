@@ -1,4 +1,4 @@
-# coding: UTF-8
+﻿# coding: UTF-8
 
 # x = 4
 def double(x): # double function
@@ -31,23 +31,23 @@ double_quoted_string = "data science"
 print(single_quoted_string)
 print(double_quoted_string)
 
-tab_string = "\t" # tab記号を表す
-print(len(tab_string))  # 文字列の長さは１
+tab_string = "\t" # tab險伜捷繧定｡ｨ縺・
+print(len(tab_string))  # 譁・ｭ怜・縺ｮ髟ｷ縺輔・・・
 
-not_tab_string = r"\t" # '\'と't'の2文字を表す
-print(len(not_tab_string)) # 文字列の長さは2
+not_tab_string = r"\t" # '\'縺ｨ't'縺ｮ2譁・ｭ励ｒ陦ｨ縺・
+print(len(not_tab_string)) # 譁・ｭ怜・縺ｮ髟ｷ縺輔・2
 
 multi_line_string = """
 =================
-最初の行
-2番めの行
-3番めの行
+譛蛻昴・陦・
+2逡ｪ繧√・陦・
+3逡ｪ繧√・陦・
 """
 print(multi_line_string)
 
 """
-Pythonでは、エラーが発生していなくてもコードを明快にするために
-例外を使うことがある。
+Python縺ｧ縺ｯ縲√お繝ｩ繝ｼ縺檎匱逕溘＠縺ｦ縺・↑縺上※繧ゅさ繝ｼ繝峨ｒ譏主ｿｫ縺ｫ縺吶ｋ縺溘ａ縺ｫ
+萓句､悶ｒ菴ｿ縺・％縺ｨ縺後≠繧九・
 """
 
 try:
@@ -55,7 +55,7 @@ try:
 except ZeroDivisionError:
     print("cannnot divide by zero")
 
-# リスト
+# 繝ｪ繧ｹ繝・
 
 integer_list = [1,2,3]
 heterogeneous_list = ["string", 0.1, True]
@@ -65,19 +65,19 @@ list_length = len(integer_list)
 list_sum = sum(integer_list)
 print(list_length, list_sum)
 
-# n番目の要素の値を取り出したり、値を設定するには角カッコを使います。
+# n逡ｪ逶ｮ縺ｮ隕∫ｴ縺ｮ蛟､繧貞叙繧雁・縺励◆繧翫∝､繧定ｨｭ螳壹☆繧九↓縺ｯ隗偵き繝・さ繧剃ｽｿ縺・∪縺吶・
 
-x = list(range(10)) # Python3では、リスト型は以下のように書く　http://blog.tstylestudio.com/2017/04/04/python2%E3%81%A83%E3%81%A7range%E3%82%92%E4%BD%BF%E3%81%86%E6%99%82%E3%81%AE%E9%81%95%E3%81%84%E3%81%A8%E3%80%81typeerror%E3%81%AE%E6%99%82/
-# x = range(10) 
-# Python2では、このように書く
+x = list(range(10)) # Python3縺ｧ縺ｯ縲√Μ繧ｹ繝亥梛縺ｯ莉･荳九・繧医≧縺ｫ譖ｸ縺上http://blog.tstylestudio.com/2017/04/04/python2%E3%81%A83%E3%81%A7range%E3%82%92%E4%BD%BF%E3%81%86%E6%99%82%E3%81%AE%E9%81%95%E3%81%84%E3%81%A8%E3%80%81typeerror%E3%81%AE%E6%99%82/
+# ﾂx = range(10) 
+# Python2縺ｧ縺ｯ縲√％縺ｮ繧医≧縺ｫ譖ｸ縺・
 zero = x[0]
 one = x[1]
-nine = x[-1] # Pythonでは、最後の要素を表すので9
-eight = x[-2] # Pythonには、最後の1つ前の要素を表すので、8
-x[0] = -1 # without first and last [-1,1,2,･･･,9]
+nine = x[-1] # Python縺ｧ縺ｯ縲∵怙蠕後・隕∫ｴ繧定｡ｨ縺吶・縺ｧ9
+eight = x[-2] # Python縺ｫ縺ｯ縲∵怙蠕後・1縺､蜑阪・隕∫ｴ繧定｡ｨ縺吶・縺ｧ縲・
+x[0] = -1 # without first and last [-1,1,2,・･・･・･,9]
 print(x[0])
 
-# 繝ｪ繧ｹ繝医・繧ｹ繝ｩ繧､繧ｹ(蠢・ｦ・Κ蛻・・縺ｿ蜃ｺ縺励◆繧ゅ・)
+# 郢晢ｽｪ郢ｧ・ｹ郢晏現繝ｻ郢ｧ・ｹ郢晢ｽｩ郢ｧ・､郢ｧ・ｹ(陟｢繝ｻ・ｦ繝ｻﾎ夊崕繝ｻ繝ｻ邵ｺ・ｿ陷・ｽｺ邵ｺ蜉ｱ笳・ｹｧ繧・・)
 
 first_three = x[:3]
 three_to_end = x[3:]
@@ -93,36 +93,36 @@ print(last_three)
 print(without_first_and_last)
 print(copy_of_x)
 
-# in演算子を使って、リストに要素が含まれることを調べる
+# in貍皮ｮ怜ｭ舌ｒ菴ｿ縺｣縺ｦ縲√Μ繧ｹ繝医↓隕∫ｴ縺悟性縺ｾ繧後ｋ縺薙→繧定ｪｿ縺ｹ繧・
 1 in [1, 2, 3] #True
 0 in [1, 2, 3] #False
 
-# listの連結
+# list縺ｮ騾｣邨・
 x = [1,2,3]
 x.extend([4, 5, 6])
 print(x)
 
-# listの変更をしたくない場合はlistの加算を行う
+# list縺ｮ螟画峩繧偵＠縺溘￥縺ｪ縺・ｴ蜷医・list縺ｮ蜉邂励ｒ陦後≧
 x = [1,2,3]
 y = x + [4,5,6]
 print(y)
 
-# 要素の追加は頻繁に行われる
+# 隕∫ｴ縺ｮ霑ｽ蜉縺ｯ鬆ｻ郢√↓陦後ｏ繧後ｋ
 x = [1,2,3]
 x.append(0) # [1,2,3,0]
 y = x[-1] # 0
 z = len(x) # 4
 
-# list展開
+# list螻暮幕
 x, y = [1, 2] # x = 1, y = 2
-# 不要な値には、アンダースコアを割り当てたりする
-_, y = [1, 2] # y = 2, _ は無視
+# 荳崎ｦ√↑蛟､縺ｫ縺ｯ縲√い繝ｳ繝繝ｼ繧ｹ繧ｳ繧｢繧貞牡繧雁ｽ薙※縺溘ｊ縺吶ｋ
+_, y = [1, 2] # y = 2, _ 縺ｯ辟｡隕・
 
 """
-・タプル リストに似ているが、要素が変更できない
-・要素を変更すること以外にリストに対して可能な操作は、タプルに対しても可能
-・リストには[]角カッコを使いますが、
-・タプルは()丸括弧またカッコを使わない方法で示す
+繝ｻ繧ｿ繝励Ν 繝ｪ繧ｹ繝医↓莨ｼ縺ｦ縺・ｋ縺後∬ｦ∫ｴ縺悟､画峩縺ｧ縺阪↑縺・
+繝ｻ隕∫ｴ繧貞､画峩縺吶ｋ縺薙→莉･螟悶↓繝ｪ繧ｹ繝医↓蟇ｾ縺励※蜿ｯ閭ｽ縺ｪ謫堺ｽ懊・縲√ち繝励Ν縺ｫ蟇ｾ縺励※繧ょ庄閭ｽ
+繝ｻ繝ｪ繧ｹ繝医↓縺ｯ[]隗偵き繝・さ繧剃ｽｿ縺・∪縺吶′縲・
+繝ｻ繧ｿ繝励Ν縺ｯ()荳ｸ諡ｬ蠑ｧ縺ｾ縺溘き繝・さ繧剃ｽｿ繧上↑縺・婿豕輔〒遉ｺ縺・
 """
 
 my_list = [1, 2] #list
@@ -134,7 +134,7 @@ print(my_list) # [1, 3]
 try:
     my_tuple[1] = 3
 except TypeError:
-    print("タプルは変更できない")
+    print("繧ｿ繝励Ν縺ｯ螟画峩縺ｧ縺阪↑縺・)
 
 def sum_and_product(x, y):
     return(x + y),(x * y)
@@ -142,20 +142,20 @@ sp = sum_and_product(2,3)
 s, p = sum_and_product(5,10)
 print(sp , s, p) # (5, 6) 15 50
 
-# タプル(及びリストには)、多重割当が可能
+# 繧ｿ繝励Ν(蜿翫・繝ｪ繧ｹ繝医↓縺ｯ)縲∝､夐㍾蜑ｲ蠖薙′蜿ｯ閭ｽ
 x, y = 1, 2
 x, y = y, x
-print(x,y) # Python的な値の交換。Ｙ = 2, y = 1
+print(x,y) # Python逧・↑蛟､縺ｮ莠､謠帙ゑｼｹ = 2, y = 1
 
-# 辞書型;Key Value型の構造を持つ、キーに対する値を即座に取り出せる
-empty_dict = {} # Python的
-empty_dict2 = dict() # ややPython的
-grades = {"joel" : 80 , "Tim" : 95} # 辞書のリテラル表現
-#[]を使ってキーに対する値を取りだせる
+# 霎樊嶌蝙・Key Value蝙九・讒矩繧呈戟縺､縲√く繝ｼ縺ｫ蟇ｾ縺吶ｋ蛟､繧貞叉蠎ｧ縺ｫ蜿悶ｊ蜃ｺ縺帙ｋ
+empty_dict = {} # Python逧・
+empty_dict2 = dict() # 繧・ｄPython逧・
+grades = {"joel" : 80 , "Tim" : 95} # 霎樊嶌縺ｮ繝ｪ繝・Λ繝ｫ陦ｨ迴ｾ
+#[]繧剃ｽｿ縺｣縺ｦ繧ｭ繝ｼ縺ｫ蟇ｾ縺吶ｋ蛟､繧貞叙繧翫□縺帙ｋ
 joels_grade = grades["joel"] 
 print(joels_grade)
 
-# 辞書に存在しないキーを指定した場合、KeyErrorになる。
+# 霎樊嶌縺ｫ蟄伜惠縺励↑縺・く繝ｼ繧呈欠螳壹＠縺溷ｴ蜷医゜eyError縺ｫ縺ｪ繧九・
 try:
     kates_grade = grades["Kate"]
 except KeyError:
@@ -177,27 +177,27 @@ tweet = {
 	"hashtags" : ["#data", "#science", "#datascience", "#awesome", "#yolo"]
 	}
 # dictionary can search All elements.
-tweet_keys = tweet.keys() # キーのリスト
+tweet_keys = tweet.keys() # 繧ｭ繝ｼ縺ｮ繝ｪ繧ｹ繝・
 tweet_values = tweet.values() # value list
 tweet_items = tweet.items() # tuple(key,value) list
 
-"user" in tweet_keys #　"user" is 
-"user" in tweet # Python的な手法であり、高速な辞書に格納される
+"user" in tweet_keys #縲"user" is 
+"user" in tweet # Python逧・↑謇区ｳ輔〒縺ゅｊ縲・ｫ倬溘↑霎樊嶌縺ｫ譬ｼ邏阪＆繧後ｋ
 "joelgrus" in tweet_values # 
 "joelgrus" in tweet_values # True
 """
- 辞書のキーは変更不能なオブジェクトでなければならない
- 具体的にいうと、リストはキーとして使う事が出来ない。
- キーの値として複数組み合わせる必要が有るなら、タプルを使うか文字列としての表現を検討しなければならない
+ 霎樊嶌縺ｮ繧ｭ繝ｼ縺ｯ螟画峩荳崎・縺ｪ繧ｪ繝悶ず繧ｧ繧ｯ繝医〒縺ｪ縺代ｌ縺ｰ縺ｪ繧峨↑縺・
+ 蜈ｷ菴鍋噪縺ｫ縺・≧縺ｨ縲√Μ繧ｹ繝医・繧ｭ繝ｼ縺ｨ縺励※菴ｿ縺・ｺ九′蜃ｺ譚･縺ｪ縺・・
+ 繧ｭ繝ｼ縺ｮ蛟､縺ｨ縺励※隍・焚邨・∩蜷医ｏ縺帙ｋ蠢・ｦ√′譛峨ｋ縺ｪ繧峨√ち繝励Ν繧剃ｽｿ縺・°譁・ｭ怜・縺ｨ縺励※縺ｮ陦ｨ迴ｾ繧呈､懆ｨ弱＠縺ｪ縺代ｌ縺ｰ縺ｪ繧峨↑縺・
 """
 
 # defaultdict class
-# 以下の３つはスマートな方法ではない、
-# 単語の出現数を数える
+# 莉･荳九・・薙▽縺ｯ繧ｹ繝槭・繝医↑譁ｹ豕輔〒縺ｯ縺ｪ縺・・
+# 蜊倩ｪ槭・蜃ｺ迴ｾ謨ｰ繧呈焚縺医ｋ
 document = """Here's all the code and examples from my book Data Science from Scratch. The code directory contains Python 2.7 versions, and the code-python3 direction contains the Python 3 equivalents. (I tested them in 3.5, but they should work in any 3.x.) 
 Each can be imported as a module, for example (after you cd into the /code directory):"""
 
-#1 すでに登録されているなら１を加え、登録されていないなら１として登録
+#1 縺吶〒縺ｫ逋ｻ骭ｲ縺輔ｌ縺ｦ縺・ｋ縺ｪ繧会ｼ代ｒ蜉縺医∫匳骭ｲ縺輔ｌ縺ｦ縺・↑縺・↑繧会ｼ代→縺励※逋ｻ骭ｲ
 word_counts = {}
 for word in document:
     if word in word_counts:
@@ -205,7 +205,7 @@ for word in document:
     else:
         word_counts[word] = 1
 
-#2 登録していないキーにアクセスした際の例外を処理する方法
+#2 逋ｻ骭ｲ縺励※縺・↑縺・く繝ｼ縺ｫ繧｢繧ｯ繧ｻ繧ｹ縺励◆髫帙・萓句､悶ｒ蜃ｦ逅・☆繧区婿豕・
 word_counts = {}
 for word in document:
     try:
@@ -213,7 +213,7 @@ for word in document:
     except KeyError:
         word_counts[word] = 1
 
-#3 キーが登録されていない場合でもエラーとならないgetメソッドを使う方法
+#3 繧ｭ繝ｼ縺檎匳骭ｲ縺輔ｌ縺ｦ縺・↑縺・ｴ蜷医〒繧ゅお繝ｩ繝ｼ縺ｨ縺ｪ繧峨↑縺・et繝｡繧ｽ繝・ラ繧剃ｽｿ縺・婿豕・
 word_counts = {}
 for word in document:
     previous_count = word_counts.get(word, 0)
@@ -223,130 +223,130 @@ for word in document:
  
 from collections import defaultdict
     
-word_counts = defaultdict(int) # int()は0を返す
+word_counts = defaultdict(int) # int()縺ｯ0繧定ｿ斐☆
 for word in document:
     word_counts[word] += 1
 print(word_counts)
 
-dd_list = defaultdict(list) #list()は空のリストを返す
-dd_list[2].append(1) #dd_listは、{2:[1]}を含む
+dd_list = defaultdict(list) #list()縺ｯ遨ｺ縺ｮ繝ｪ繧ｹ繝医ｒ霑斐☆
+dd_list[2].append(1) #dd_list縺ｯ縲＋2:[1]}繧貞性繧
 print(dd_list) 
 
-dd_dict = defaultdict(dict) # dict()は空の辞書を返す
-dd_dict["Joel"]["City"] = "Seattle" # dd_dict　は,{"Joel" : {"City":"Seattle"}}を含む
+dd_dict = defaultdict(dict) # dict()縺ｯ遨ｺ縺ｮ霎樊嶌繧定ｿ斐☆
+dd_dict["Joel"]["City"] = "Seattle" # dd_dict縲縺ｯ,{"Joel" : {"City":"Seattle"}}繧貞性繧
 print(dd_dict)
 
 dd_pair = defaultdict(lambda: [0,0])
-dd_pair[2][1] = 1 # dd_pairは、{2 : [0,1]}を含む
+dd_pair[2][1] = 1 # dd_pair縺ｯ縲＋2 : [0,1]}繧貞性繧
 print(dd_pair)
-# これらの方法は、何らかのキーごとの値を収集する際に、そのキーがすでに辞書に登録されているかを都度確認したくない場合に使用される
+# 縺薙ｌ繧峨・譁ｹ豕輔・縲∽ｽ輔ｉ縺九・繧ｭ繝ｼ縺斐→縺ｮ蛟､繧貞庶髮・☆繧矩圀縺ｫ縲√◎縺ｮ繧ｭ繝ｼ縺後☆縺ｧ縺ｫ霎樊嶌縺ｫ逋ｻ骭ｲ縺輔ｌ縺ｦ縺・ｋ縺九ｒ驛ｽ蠎ｦ遒ｺ隱阪＠縺溘￥縺ｪ縺・ｴ蜷医↓菴ｿ逕ｨ縺輔ｌ繧・
 
-# Counterクラス
-# Counterは、1続きの値をdefaultdict(init)
+# Counter繧ｯ繝ｩ繧ｹ
+# Counter縺ｯ縲・邯壹″縺ｮ蛟､繧壇efaultdict(init)
 from collections import Counter
-c = Counter([0, 1, 2, 0,3 ]) # c は {0:2, 1:1, 2:1, 3:1}となる。
-word_counts = Counter(document) # 単語の出現数を数える問題
+c = Counter([0, 1, 2, 0,3 ]) # c 縺ｯ {0:2, 1:1, 2:1, 3:1}縺ｨ縺ｪ繧九・
+word_counts = Counter(document) # 蜊倩ｪ槭・蜃ｺ迴ｾ謨ｰ繧呈焚縺医ｋ蝠城｡・
 print(c)
 print(word_counts)
 
-# Counterオブジェクトには、出現数の多い順に要素を返すmost_commonメソッドが用意されている。
-# 出現数の多い順にベスト10を表示する
+# Counter繧ｪ繝悶ず繧ｧ繧ｯ繝医↓縺ｯ縲∝・迴ｾ謨ｰ縺ｮ螟壹＞鬆・↓隕∫ｴ繧定ｿ斐☆most_common繝｡繧ｽ繝・ラ縺檎畑諢上＆繧後※縺・ｋ縲・
+# 蜃ｺ迴ｾ謨ｰ縺ｮ螟壹＞鬆・↓繝吶せ繝・0繧定｡ｨ遉ｺ縺吶ｋ
 for word, count in word_counts.most_common(10):
     print (word, count)
 
-# 集合
+# 髮・粋
 """
-集合を使う主な理由
-１．非常に高速に動作する点(大量のデータの中から要素が含まれる必要があるなら、集合は最も適したデータ構造)
-２．重複のない集まりが得られる
+髮・粋繧剃ｽｿ縺・ｸｻ縺ｪ逅・罰
+・托ｼ朱撼蟶ｸ縺ｫ鬮倬溘↓蜍穂ｽ懊☆繧狗せ(螟ｧ驥上・繝・・繧ｿ縺ｮ荳ｭ縺九ｉ隕∫ｴ縺悟性縺ｾ繧後ｋ蠢・ｦ√′縺ゅｋ縺ｪ繧峨・寔蜷医・譛繧る←縺励◆繝・・繧ｿ讒矩)
+・抵ｼ朱㍾隍・・縺ｪ縺・寔縺ｾ繧翫′蠕励ｉ繧後ｋ
 """
 s = set()
-s.add(1) # s は{1}
-s.add(2) # {1, 2}となる
-s.add(2) # ここでもまだ{1, 2}のまま
+s.add(1) # s 縺ｯ{1}
+s.add(2) # {1, 2}縺ｨ縺ｪ繧・
+s.add(2) # 縺薙％縺ｧ繧ゅ∪縺{1, 2}縺ｮ縺ｾ縺ｾ
 x = len(s) # x = 2
 y = 2 in s # y = True
 z = 3 in s # z = False
 
-# １つ目の理由
-stopwords_list = ["a", "an", "at"] + list("hundreds_of_other_words") + ["yet", "you"] #Python3だと、型指定をしっかり
-"zip" in stopwords_list # Falseとなる。すべての要素でチェックされる。
+# ・代▽逶ｮ縺ｮ逅・罰
+stopwords_list = ["a", "an", "at"] + list("hundreds_of_other_words") + ["yet", "you"] #Python3縺縺ｨ縲∝梛謖・ｮ壹ｒ縺励▲縺九ｊ
+"zip" in stopwords_list # False縺ｨ縺ｪ繧九ゅ☆縺ｹ縺ｦ縺ｮ隕∫ｴ縺ｧ繝√ぉ繝・け縺輔ｌ繧九・
 stopwords_set = set(stopwords_list)
-"zip" in stopwords_set # "zip"が含まれるか否かは高速にチェック可能
+"zip" in stopwords_set # "zip"縺悟性縺ｾ繧後ｋ縺句凄縺九・鬮倬溘↓繝√ぉ繝・け蜿ｯ閭ｽ
 print(stopwords_list)
 print(stopwords_set)
-# ２つ目の理由
+# ・偵▽逶ｮ縺ｮ逅・罰
 item_list = [1, 2, 3, 1, 2, 3]
 num_items = len(item_list)
 item_set = set(item_list)
 num_distinct_items = len(item_set)
 distinct_item_list = list(item_set)
 print(item_list)
-print(num_items,",要素数は６")
-print(item_set,",集合すると重複が取り除かれ、{1, 2, 3}となる")
-print(num_distinct_items, ",要素数は３")
-print(distinct_item_list, ",重複のないリスト[1, 2, 3]")
+print(num_items,",隕∫ｴ謨ｰ縺ｯ・・)
+print(item_set,",髮・粋縺吶ｋ縺ｨ驥崎､・′蜿悶ｊ髯､縺九ｌ縲＋1, 2, 3}縺ｨ縺ｪ繧・)
+print(num_distinct_items, ",隕∫ｴ謨ｰ縺ｯ・・)
+print(distinct_item_list, ",驥崎､・・縺ｪ縺・Μ繧ｹ繝・1, 2, 3]")
 
-# 実行順制御
+# 螳溯｡碁・宛蠕｡
 if 1 > 2:
-    message = "もし、１が２より大きいとしたら"
+    message = "繧ゅ＠縲・ｼ代′・偵ｈ繧雁､ｧ縺阪＞縺ｨ縺励◆繧・
 elif 1 > 3:
-    message = "elif は”else if”を表す"
+    message = "elif 縺ｯ窶抛lse if窶昴ｒ陦ｨ縺・
 else:
-    message = "すべての条件に当てはまらなければ、elseが該当する(なくてもいい)"
-print(message) # "すべての条件に当てはまらなければ、elseが該当する(なくてもいい)"
+    message = "縺吶∋縺ｦ縺ｮ譚｡莉ｶ縺ｫ蠖薙※縺ｯ縺ｾ繧峨↑縺代ｌ縺ｰ縲‘lse縺瑚ｩｲ蠖薙☆繧・縺ｪ縺上※繧ゅ＞縺・"
+print(message) # "縺吶∋縺ｦ縺ｮ譚｡莉ｶ縺ｫ蠖薙※縺ｯ縺ｾ繧峨↑縺代ｌ縺ｰ縲‘lse縺瑚ｩｲ蠖薙☆繧・縺ｪ縺上※繧ゅ＞縺・"
 
-# 1行でif-then-elseを書く
+# 1陦後〒if-then-else繧呈嶌縺・
 x = 2
 parity = "even" if x % 2 == 0 else "odd"
 print(parity)
 
-# Whileループ
+# While繝ｫ繝ｼ繝・
 x = 0
 while x < 10:
     print(x)
     x += 1
-# for , inの組み合わせがポピュラー
+# for , in縺ｮ邨・∩蜷医ｏ縺帙′繝昴ヴ繝･繝ｩ繝ｼ
 
 for x in range(10):
-    print(x, " は、10より小さい")
+    print(x, " 縺ｯ縲・0繧医ｊ蟆上＆縺・)
 """
-0  は、10より小さい
-1  は、10より小さい
-･・・
-9  は、10より小さい
+0  縺ｯ縲・0繧医ｊ蟆上＆縺・
+1  縺ｯ縲・0繧医ｊ蟆上＆縺・
+・･繝ｻ繝ｻ
+9  縺ｯ縲・0繧医ｊ蟆上＆縺・
 """
 
-# より複雑な処理なら、continue,break
+# 繧医ｊ隍・尅縺ｪ蜃ｦ逅・↑繧峨…ontinue,break
 for x in range(10):
     if x == 3:
-        continue # 実行中のループの先頭に戻り、処理を継続する
+        continue # 螳溯｡御ｸｭ縺ｮ繝ｫ繝ｼ繝励・蜈磯ｭ縺ｫ謌ｻ繧翫∝・逅・ｒ邯咏ｶ壹☆繧・
     if x == 5:
-        break # ループを脱出する
+        break # 繝ｫ繝ｼ繝励ｒ閼ｱ蜃ｺ縺吶ｋ
     print(x) # 0,1,2,4
 
 # True, False
-one_is_less_than_two = 1 < 2 # 代入される値はTrue
-true_equals_false = True == False # 代入される値はFalse
+one_is_less_than_two = 1 < 2 # 莉｣蜈･縺輔ｌ繧句､縺ｯTrue
+true_equals_false = True == False # 莉｣蜈･縺輔ｌ繧句､縺ｯFalse
 
-# 値が指定されていないものは、Noneで表す。他の言語ではNull
+# 蛟､縺梧欠螳壹＆繧後※縺・↑縺・ｂ縺ｮ縺ｯ縲¨one縺ｧ陦ｨ縺吶ゆｻ悶・險隱槭〒縺ｯNull
 x = None
-print (x) == None #Python的ではないコード(True)
-print (x) is None #Python的なコード(True)
+print (x) == None #Python逧・〒縺ｯ縺ｪ縺・さ繝ｼ繝・True)
+print (x) is None #Python逧・↑繧ｳ繝ｼ繝・True)
 
-# Falseの例
+# False縺ｮ萓・
 """
-・False
-・None
-・[]空のリスト
-・{}空の辞書
-・""
-・set()
-・０
-・0.0
+繝ｻFalse
+繝ｻNone
+繝ｻ[]遨ｺ縺ｮ繝ｪ繧ｹ繝・
+繝ｻ{}遨ｺ縺ｮ霎樊嶌
+繝ｻ""
+繝ｻset()
+繝ｻ・・
+繝ｻ0.0
 """
 
-# Falseの例以外はTrueとして扱われる、つまりリスト、辞書、文字列などがからであるか否かをifを使って簡単に調べられる
+# False縺ｮ萓倶ｻ･螟悶・True縺ｨ縺励※謇ｱ繧上ｌ繧九√▽縺ｾ繧翫Μ繧ｹ繝医∬ｾ樊嶌縲∵枚蟄怜・縺ｪ縺ｩ縺後°繧峨〒縺ゅｋ縺句凄縺九ｒif繧剃ｽｿ縺｣縺ｦ邁｡蜊倥↓隱ｿ縺ｹ繧峨ｌ繧・
 # pp32
 def some_function_that_returns_a_string():
     s =  some_function_that_returns_a_string()
@@ -356,6 +356,10 @@ def some_function_that_returns_a_string():
         first_char = ""
 print(s)
 
-# all関数（リストの要素全てがTrueとして扱える場合にTrueを返す）
-# any関数（要素のいずれか一つがTrueならば、Trueを返すany関数）
-
+# all髢｢謨ｰ・医Μ繧ｹ繝医・隕∫ｴ蜈ｨ縺ｦ縺卦rue縺ｨ縺励※謇ｱ縺医ｋ蝣ｴ蜷医↓True繧定ｿ斐☆・・
+# any髢｢謨ｰ・郁ｦ∫ｴ縺ｮ縺・★繧後°荳縺､縺卦rue縺ｪ繧峨・縲ゝrue繧定ｿ斐☆any髢｢謨ｰ・・
+all([True, 1, { 3 }]) # True
+all([True, 1, {}]) # {}縺ｯFalse縺ｨ隗｣驥医＆繧後ｋ縺ｮ縺ｧ縲∫ｵ先棡縺ｯFalse
+any([True, 1, {}]) # True縺鯉ｼ代▽縺ゅｋ縺ｮ縺ｧ縲∫ｵ先棡縺ｯTrue
+all([]) # 繝ｪ繧ｹ繝亥・縺ｫFalse縺ｨ隗｣驥医＆繧後ｋ隕∫ｴ縺後↑縺・・縺ｧ縲∫ｵ先棡縺ｯTrue
+any([]) # 繝ｪ繧ｹ繝亥・縺ｫTrue縺ｨ隗｣驥医＆繧後ｋ隕∫ｴ縺後↑縺・・縺ｧ縲∫ｵ先棡縺ｯFalse
