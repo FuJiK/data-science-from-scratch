@@ -1,4 +1,4 @@
-﻿# coding: UTF-8
+# coding: UTF-8
 
 # x = 4
 def double(x): # double function
@@ -358,3 +358,11 @@ print(s)
 
 # all関数（リストの要素全てがTrueとして扱える場合にTrueを返す）
 # any関数（要素のいずれか一つがTrueならば、Trueを返すany関数）
+
+all([True, 1, { 3 }])
+all([True, 1, {}])
+any([True, 1, {}])
+all([])
+any([])
+
+# 2.2.1 Sort
