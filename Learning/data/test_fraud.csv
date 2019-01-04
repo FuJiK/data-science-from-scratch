@@ -1,0 +1,1572 @@
+トランザクションID,InAuthデバイスID,InAuth デバイス 実IPアドレス,InAuth デバイス 実IP 国名,InAuth ブラウザ ナビゲータ 言語,InAuth ユーザエージェント OS,InAuth デバイス位置情報 国コード,InAuth デバイス位置情報 都市,InAuth デバイス位置情報 地域,InAuth デバイス位置緯度,InAuth デバイス位置経度,InAuthブラウザクライアント情報言語
+2.0171E+19,bb190722-5c52-4363-86ae-65b56300e317,111.239.105.13,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01709E+19,58036441-d84f-4f1f-82bf-23c0ba9d2ab2,222.240.103.236,china,zh-CN,Windows,cn,changsha,hunan,28.192,112.988,
+2.0171E+19,1a5ac555-091f-4f0b-ae2b-d494e1800806,106.154.15.11,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.01711E+19,28bba04a-9917-4971-aa3c-e0b42091fb36,121.113.119.160,japan,zh-CN,Windows 8.1,jp,iwaki,fukushima,37.065,140.938,zh-CN
+2.01709E+19,ffffe83e-b6f9-4c4b-a068-70218e74e8ff,106.154.14.128,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,5a396b04-2a3d-47a8-9f22-e97e4dcfc877,106.154.19.39,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,48c43aba-ffc8-403f-a271-89848dbe7753,106.154.14.80,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.01801E+19,9b78dcf6-e546-4baf-af49-dc1ec8197f0d,60.42.171.133,japan,ja,Windows 8.1,jp,kumamoto-shi,kumamoto,32.807,130.709,ja
+2.01801E+19,6002f269-c6e1-48c9-8b16-3a2d7678d637,122.214.118.71,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01709E+19,ffffe83e-b6f9-4c4b-a068-70218e74e8ff,106.154.14.128,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,d1400fca-f23d-4e5b-b0ee-ff9eda9241fe,106.154.11.250,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,4d8c310f-3cce-4d6b-90ad-7fc6906e18f0,106.154.6.148,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,ce4d5d64-2792-40c7-88fc-72d6f65866a0,106.154.19.63,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,ce4d5d64-2792-40c7-88fc-72d6f65866a0,106.154.19.63,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,a3d598e1-9520-4e69-a16b-1cdafea93501,106.154.2.162,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,c11a8815-e7b9-4827-b26d-b0cbd2a29057,106.154.9.167,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01711E+19,0e80f04c-5e9a-4c3d-942c-f5e070eff5bb,104.37.5.179,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01801E+19,f20fe2d2-8a46-4c24-8aed-58458364d221,60.101.191.221,Japan,ja,Windows 8.1,,Tokyo,Tokyo,35.643,139.768,ja
+2.01801E+19,1cfe5c0f-487d-4409-8998-153f988987c9,61.22.197.11,japan,ja,Windows 8.1,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.0171E+19,4d488e11-7605-4ae8-b5e6-248b46d409f7,106.154.7.208,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,4d488e11-7605-4ae8-b5e6-248b46d409f7,106.154.7.208,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,1cf79519-6b9b-4cb9-9218-f84a793ae0ab,106.154.4.219,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,350649b6-3106-4660-aae9-dd1c56f5e2cf,106.154.0.167,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,d88cc839-2382-453c-a4c0-8dcbd27d9fc0,106.154.19.139,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,997bd71e-17d3-449e-a6ae-0fcd2c5dd333,106.154.19.163,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,a7e906f5-1056-4881-ab64-b7b462b34a50,106.154.4.130,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01711E+19,a7dd9a4b-58fd-4127-904c-f024feb0de84,104.37.5.147,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.0171E+19,c4b2454f-efd2-4957-8990-ac28d286d173,106.154.0.88,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,c4b2454f-efd2-4957-8990-ac28d286d173,106.154.0.88,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,204e883d-e0b9-4f99-93bb-a0b803ac5485,106.154.3.210,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,4806e1e3-7433-47a5-82e3-7c0a9266acfe,106.154.16.128,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,32a5f144-18e1-4ad2-8993-f9e5c529568f,106.154.12.155,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,92d60cf7-eaf9-47ce-a606-6a366034b363,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.0171E+19,92d60cf7-eaf9-47ce-a606-6a366034b363,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.0171E+19,3800d46c-9ad3-4e17-a0a1-05fe8bec5711,106.154.16.146,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,126066d6-ec57-4831-967b-9df34be6065c,106.154.5.150,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.01711E+19,5e7ca1fc-9c2a-487d-8917-e00cb1c51189,103.17.196.237,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,836a6f80-30e1-49a8-88a2-550a0dd57bc2,104.37.5.179,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,979f0c92-5077-4219-856a-1297fb88881d,104.37.5.150,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,7ac77c1d-7a81-4028-b1b5-b4c81e50d27b,180.7.26.188,japan,zh-CN,Windows 8.1,jp,kumamoto-shi,kumamoto,32.807,130.709,zh-CN
+2.01711E+19,6b568a09-0a27-45fb-81db-96a8807b759e,125.4.137.102,japan,zh-CN,Windows 8.1,jp,kita-ku (osaka),osaka,34.693,135.494,zh-CN
+2.01711E+19,badc6ab6-c5b7-47ab-9fb5-04e57dd4281b,163.58.229.165,japan,zh-CN,Windows 8.1,jp,shibuya-ku,tokyo,35.667,139.705,zh-CN
+2.01711E+19,7122404a-6c3c-4702-b3f6-17b55354f4dc,180.19.111.91,japan,zh-CN,Windows 8.1,jp,kita-ku (osaka),osaka,34.693,135.494,zh-CN
+2.01711E+19,545cd670-216b-4797-9a04-53414674829c,125.3.49.161,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01711E+19,2e2a369f-ee87-4ba7-a4ce-4416eb14e3f0,124.110.165.85,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01711E+19,bdaf6c53-4396-496d-ab4d-d7b15748209a,124.213.7.222,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01711E+19,166f57b1-f97d-496c-9e1d-39b7df942c01,126.3.208.186,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,e7717cc4-0ddc-4065-91e9-5794bcfa45ba,111.102.200.225,japan,zh-CN,Windows 8.1,jp,nerima-ku,tokyo,35.739,139.656,zh-CN
+2.01711E+19,b3bdcadd-7d5b-4168-a453-b20f80dd9cc8,126.243.98.85,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,f22cf378-4254-4242-9e14-7bf637e48336,180.4.128.63,japan,zh-CN,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,zh-CN
+2.01712E+19,280527bc-ebbf-4740-a405-2612f37898bf,111.96.120.22,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01712E+19,d19e16cc-8b93-40bd-8876-7a43bf6cb2b7,219.111.104.79,japan,zh-CN,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,zh-CN
+2.01712E+19,c56a144c-8b26-41ac-bba4-0dd142778634,111.216.93.10,japan,zh-CN,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,zh-CN
+2.01712E+19,65c8e5c5-e84f-4c15-893d-cf86daadd64d,60.126.56.195,japan,zh-CN,Windows 8.1,jp,nagasaki-shi,nagasaki,32.765,129.889,zh-CN
+2.01712E+19,8e584898-cdeb-4537-998e-ea9c6e0b083e,60.90.201.135,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,04675559-3848-48bb-a2ac-a5846f03ab1d,126.125.114.233,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,29af87a8-e323-4cda-b018-bb084ce3c604,183.77.13.213,japan,zh-CN,Windows 8.1,jp,kumamoto-shi,kumamoto,32.807,130.709,zh-CN
+2.01712E+19,1f604f6f-e20b-472f-b691-7d740cd7a5d5,111.104.163.175,japan,zh-CN,Windows 8.1,jp,shiki,saitama,35.849,139.583,zh-CN
+2.01712E+19,383aa4eb-a878-44d4-b75a-5bcc81031260,126.76.248.184,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,6ac71183-4af2-4c50-b40d-f3d8e8cb54dd,180.3.21.22,japan,zh-CN,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,zh-CN
+2.01712E+19,725783ec-49a4-4e58-a59b-18d620b3185f,222.168.216.193,china,zh-CN,Windows 8.1,cn,tonghua,jilin,41.714,125.934,zh-CN
+2.01712E+19,99b19a78-d784-4d17-94ea-6eb4a0f9303e,60.112.141.59,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,51b70690-cc3d-422b-a2c0-3233b19c2121,61.12.255.32,japan,zh-CN,Windows 8.1,jp,aomori-shi,aomori,40.804,140.727,zh-CN
+2.01712E+19,eab37d09-1efe-44af-9070-e51ea6630194,221.77.179.164,japan,zh-CN,Windows 8.1,jp,nagasaki-shi,nagasaki,32.765,129.889,zh-CN
+2.01712E+19,511ac632-28ec-4f16-b768-30cffcb53639,14.9.1.224,japan,zh-CN,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,zh-CN
+2.01712E+19,89494f29-8ec5-4bf0-bfc9-5f749de7cb32,153.191.96.91,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01712E+19,d53cc19a-c51d-411c-b564-1230623e7081,203.104.117.134,japan,ja,Windows 8.1,jp,kani,gifu,35.458,137.093,ja
+2.01712E+19,00f287db-ead7-449f-90da-ccc8fb9fe5f8,59.147.172.160,japan,ja,Windows 8.1,jp,aomori-shi,aomori,40.804,140.727,ja
+2.01712E+19,68207052-c0fa-47ca-82a3-0a38b51e3285,117.74.30.98,japan,ja,Windows 8.1,jp,kariya,aichi,34.976,137.028,ja
+2.01712E+19,a7d57e77-a5d0-456f-8ef4-21edaefcb3f6,115.163.0.199,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01712E+19,49c48865-b2bd-4810-91ea-f5944b0c334b,111.97.182.3,japan,ja,Windows 8.1,jp,shinjuku-ku,tokyo,35.693,139.724,ja
+2.01712E+19,a7d57e77-a5d0-456f-8ef4-21edaefcb3f6,115.163.0.199,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01712E+19,b2da6e71-b7f0-4196-8f14-39a5bfb288ae,118.241.25.78,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01712E+19,00f287db-ead7-449f-90da-ccc8fb9fe5f8,59.147.172.160,japan,ja,Windows 8.1,jp,aomori-shi,aomori,40.804,140.727,ja
+2.01712E+19,68207052-c0fa-47ca-82a3-0a38b51e3285,117.74.30.98,japan,ja,Windows 8.1,jp,kariya,aichi,34.976,137.028,ja
+2.01801E+19,5db4fff5-50f9-46bf-941e-70ecdab80e62,111.125.33.58,japan,ja,Windows 8.1,jp,suginami-ku,tokyo,35.706,139.635,ja
+2.01801E+19,6f7de017-52f3-46e6-b8be-4a5b842e8be6,118.243.239.237,Japan,ja,Windows 8.1,,Saitama,Saitama,35.857,139.649,ja
+2.01801E+19,e56bbe15-51af-4166-9fbd-ba438e605980,112.68.189.207,Japan,ja,Windows 8.1,,Suita,？saka,34.75,135.533,ja
+2.01801E+19,2809e901-2462-4302-ada2-9b927e580d7f,60.113.197.136,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,b4e1c0da-c5aa-40ab-88e3-8312177d6806,182.158.80.6,japan,ja,Windows 8.1,jp,yamagata-shi,yamagata,38.286,140.321,ja
+2.01801E+19,5fe6d76f-7177-459e-aa67-93907da7f57d,126.7.225.213,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,ef123890-df07-4924-bc97-b58463b7e4f2,219.17.118.213,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,c223e299-45f3-471a-a5c0-d6239c649124,106.154.0.130,japan,ja,Windows 8.1,jp,itabashi-ku,tokyo,35.759,139.708,ja
+2.01709E+19,0e15fd48-35a9-428c-aa8a-875ebeb2bb39,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.01709E+19,b4c633a5-e7ae-486f-81a8-e7eacdf63a3f,106.165.227.229,japan,zh-CN,Windows 7,jp,hiroshima-shi,hiroshima,34.415,132.458,
+2.01709E+19,97c85655-bc9c-42fc-9431-64b5518f7633,60.113.49.214,japan,zh-CN,Windows 7,jp,kanazawa,ishikawa,36.567,136.588,zh-CN
+2.01709E+19,b9a0b5d0-05e0-4c10-945f-02001105df74,27.133.131.218,japan,zh-CN,Windows 8.1,jp,kita-ku (osaka),osaka,34.702,135.492,
+2.0171E+19,55a82c15-a51f-42ab-9f38-2fcadf8bce4d,210.165.4.182,japan,zh-CN,Windows 7,jp,osaka-shi,osaka,34.671,135.508,
+2.0171E+19,55a82c15-a51f-42ab-9f38-2fcadf8bce4d,14.3.135.54,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.0171E+19,55a82c15-a51f-42ab-9f38-2fcadf8bce4d,14.3.135.54,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.0171E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,219.107.130.48,japan,zh-CN,Windows 7,jp,yokohama,kanagawa,35.46,139.596,zh-CN
+2.0171E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,219.107.130.48,japan,zh-CN,Windows 7,jp,yokohama,kanagawa,35.46,139.596,zh-CN
+2.0171E+19,0b3e350f-168f-4325-bb96-2e67b7938706,180.10.50.106,japan,ja,Windows,jp,yamaguchi-shi,yamaguchi,34.189,131.656,
+2.0171E+19,8171a966-cbe7-487b-ba14-55bca3e8cdd5,182.43.222.50,china,zh-CN,Windows 7,cn,jinan,shandong,36.683,117,zh-CN
+2.0171E+19,829c905c-dfeb-4686-bac5-bf54a5ca1f92,182.251.183.10,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.0171E+19,829c905c-dfeb-4686-bac5-bf54a5ca1f92,182.251.183.56,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.0171E+19,3e99670d-c32f-40a4-90a2-24b905670bfc,111.239.108.229,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,3e99670d-c32f-40a4-90a2-24b905670bfc,111.239.108.229,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01712E+19,a53d71b1-19dc-4743-bb5d-a2279f639c18,114.174.77.22,japan,ja,Windows,jp,yamaguchi-shi,yamaguchi,34.189,131.656,ja
+2.01712E+19,2be0b0db-e4ea-4598-8fee-47b456779742,114.175.145.173,japan,ja-JP,iOS,jp,niigata-shi,niigata,37.856,139.041,ja-JP
+2.01712E+19,87669003-0e86-464a-95f8-9d2ebc4e61b7,61.199.148.114,japan,ja,Windows 8.1,jp,kofu,yamanashi,35.685,138.56,ja
+2.01712E+19,f92583b3-8241-4eb1-9f08-77d9d7c430bc,222.147.38.56,japan,ja,Windows 8.1,jp,utsunomiya,tochigi,36.561,139.853,ja
+2.01801E+19,5cc2288e-a1e2-46ac-9ed9-cb1f79f5fde1,180.21.83.55,Japan,ja,Windows 8.1,,Takamatsu,Kagawa,34.34,134.043,ja
+2.0171E+19,eac13e81-acd1-4bdb-9157-2a7c23342835,111.239.97.245,japan,zh-CN,Windows 7,jp,chiyoda-ku,tokyo,35.689,139.763,zh-CN
+2.0171E+19,eac13e81-acd1-4bdb-9157-2a7c23342835,111.239.97.245,japan,zh-CN,Windows 7,jp,chiyoda-ku,tokyo,35.689,139.763,zh-CN
+2.0171E+19,eac13e81-acd1-4bdb-9157-2a7c23342835,111.239.97.245,japan,zh-CN,Windows 7,jp,chiyoda-ku,tokyo,35.689,139.763,zh-CN
+2.0171E+19,eac13e81-acd1-4bdb-9157-2a7c23342835,111.239.102.223,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,581f53e6-f557-41eb-9af2-74b12c3d7cc6,111.239.93.147,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01801E+19,792d73aa-1267-46ae-87b4-dbb507864380,122.31.126.39,Japan,ja,Windows 8.1,,Tsushima,Aichi,35.167,136.717,ja
+2.0171E+19,3e99670d-c32f-40a4-90a2-24b905670bfc,111.239.108.229,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,71b8b5c0-3509-40ba-bff3-6e5d0aae2145,111.87.214.30,japan,ja-JP,iOS,jp,nagoya,aichi,35.149,136.919,ja-JP
+2.0171E+19,bb190722-5c52-4363-86ae-65b56300e317,111.239.105.13,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,,,,,,,,,0,0,
+2.01711E+19,86b20eed-3a3d-4c16-b24d-32651e44ebaa,123.152.37.154,china,zh-CN,Windows 7,cn,zhenhai qu,zhejiang,29.949,121.717,zh-CN
+2.01711E+19,41a2fcdc-72dc-4a4e-aad8-656bd2a6c54b,183.67.49.155,china,zh-CN,Windows,cn,chongqing,chongqing,29.579,106.561,zh-CN
+2.0171E+19,0b3e350f-168f-4325-bb96-2e67b7938706,180.32.114.156,japan,ja,Windows,jp,yamaguchi-shi,yamaguchi,34.189,131.656,ja
+2.0171E+19,829c905c-dfeb-4686-bac5-bf54a5ca1f92,182.251.194.16,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.0171E+19,c7e74649-e6b3-4b16-8ad7-6569f8570d17,106.154.10.28,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,c7e74649-e6b3-4b16-8ad7-6569f8570d17,106.154.10.28,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,0b3e350f-168f-4325-bb96-2e67b7938706,180.10.50.106,japan,ja,Windows,jp,yamaguchi-shi,yamaguchi,34.189,131.656,ja
+2.0171E+19,73ec036f-4e1b-4ce3-9a2c-df7ad62f4ade,106.154.5.42,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,2a25e4d3-9be8-4325-992f-d0de0ae72bed,182.135.239.170,china,zh-CN,Windows 7,cn,jianchengzhen,sichuan,30.392,104.55,zh-CN
+2.0171E+19,8797cfbe-6f11-4769-8af0-1b3ed4aa2f66,126.199.88.232,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.0171E+19,0b3e350f-168f-4325-bb96-2e67b7938706,180.10.52.7,japan,ja,Windows,jp,yamaguchi-shi,yamaguchi,34.189,131.656,ja
+2.0171E+19,829c905c-dfeb-4686-bac5-bf54a5ca1f92,182.251.185.160,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01711E+19,caa4a750-a0fe-4307-b276-39c0ec1d50e3,118.12.46.77,japan,ja-JP,iOS,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01711E+19,829c905c-dfeb-4686-bac5-bf54a5ca1f92,182.251.188.136,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01711E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,39.110.215.52,japan,zh-CN,Windows 7,jp,shinagawa-ku,tokyo,35.621,139.745,
+2.01711E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,211.5.104.185,japan,zh-CN,Windows 7,jp,chiyoda-ku,tokyo,35.691,139.769,
+2.01711E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,211.5.104.185,japan,zh-CN,Windows 7,jp,chiyoda-ku,tokyo,35.691,139.769,zh-CN
+2.01711E+19,839bcad5-f878-4ad1-b4f8-6c2f3455d4b9,126.244.139.110,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01711E+19,839bcad5-f878-4ad1-b4f8-6c2f3455d4b9,126.246.161.116,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01711E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,60.40.42.111,japan,zh-CN,Windows 7,jp,matsue,shimane,35.43,133.152,
+2.01711E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,153.195.163.108,japan,zh-CN,Windows 7,jp,osaka-shi,osaka,34.671,135.508,
+2.01711E+19,387d979e-05ce-4fe4-b31f-c90bdb48efac,59.46.38.49,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,88c9ef9a-1d10-4254-9e87-09b7b52b5f1d,103.5.140.136,japan,ja-JP,iOS,jp,chuo-ku (tokyo),tokyo,35.691,139.779,ja-JP
+2.01711E+19,88c9ef9a-1d10-4254-9e87-09b7b52b5f1d,118.243.93.101,japan,ja-JP,iOS,jp,chiyoda-ku,tokyo,35.689,139.763,ja-JP
+2.01711E+19,95b90eb7-b1ed-4689-835d-6ac0514277e8,183.67.51.189,japan,zh-CN,Windows,jp,chiyoda-ku,tokyo,35.689,139.763,zh-CN
+2.01711E+19,95b90eb7-b1ed-4689-835d-6ac0514277e8,183.67.51.189,japan,zh-CN,Windows,jp,chiyoda-ku,tokyo,35.689,139.763,zh-CN
+2.01711E+19,49e5312f-f716-490a-9c7d-fbed3b055a7d,111.239.141.213,japan,zh-CN,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,078770db-35ed-4650-91aa-6d78763eeff7,118.87.100.124,japan,zh-CN,Windows 8.1,jp,suginami-ku,tokyo,35.706,139.635,zh-CN
+2.01801E+19,3802f2a3-fc06-432f-8df3-20b442297cf2,180.2.154.248,japan,ja,Windows 8.1,jp,sendai,miyagi,38.272,140.878,ja
+2.01801E+19,50b18fd5-e68a-4daa-9ec5-d609ad243d73,119.104.3.57,japan,ja,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01709E+19,6535a551-4571-4b52-b9f3-f86d6958a861,180.25.1.96,japan,zh-CN,Windows 7,jp,naha,okinawa,26.242,127.68,
+2.01709E+19,6535a551-4571-4b52-b9f3-f86d6958a861,180.25.1.96,japan,zh-CN,Windows 7,jp,naha,okinawa,26.242,127.68,zh-CN
+2.01709E+19,0e15fd48-35a9-428c-aa8a-875ebeb2bb39,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.01709E+19,661a16f3-39f2-4964-b76b-8e66a5f75dbb,175.133.85.130,japan,zh-CN,Windows 7,jp,kimitsu,chiba,35.344,140.057,zh-CN
+2.01709E+19,661a16f3-39f2-4964-b76b-8e66a5f75dbb,175.133.85.130,japan,zh-CN,Windows 7,jp,kimitsu,chiba,35.344,140.057,zh-CN
+2.01709E+19,661a16f3-39f2-4964-b76b-8e66a5f75dbb,175.133.85.130,japan,zh-CN,Windows 7,jp,kimitsu,chiba,35.344,140.057,zh-CN
+2.01709E+19,661a16f3-39f2-4964-b76b-8e66a5f75dbb,175.133.85.130,japan,zh-CN,Windows 7,jp,kimitsu,chiba,35.344,140.057,zh-CN
+2.01709E+19,98fd45da-17ea-4083-9b60-e49c284692d5,60.86.163.110,japan,zh-CN,Windows 7,jp,saitama-shi,saitama,35.909,139.657,zh-CN
+2.01709E+19,ee2f98ea-d97a-4085-a7dc-ba35d9fdfd17,180.63.16.223,japan,zh-CN,Windows 7,jp,gifu-shi,gifu,35.411,136.713,zh-CN
+2.01709E+19,98bd43e7-1cab-4c62-bfb8-5725b22482ae,126.123.16.26,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,98bd43e7-1cab-4c62-bfb8-5725b22482ae,126.123.16.26,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,ce6ef468-3dd9-4238-a70e-099d176f56d6,153.133.198.85,japan,zh-CN,Windows 7,jp,nakagyo-ku,kyoto,35.017,135.758,zh-CN
+2.01709E+19,b59de685-108d-477a-8f2d-df9d7f827e15,126.235.235.44,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,,,,,,,,,0,0,
+2.01709E+19,82db6ede-8812-47a7-ab45-cbafbcb8aa0b,111.169.4.197,japan,zh-CN,Windows 7,jp,fukuoka-shi,fukuoka,33.585,130.381,
+2.01709E+19,0fe37472-5088-4afe-b541-b422a5ffa344,126.31.254.167,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,0fe37472-5088-4afe-b541-b422a5ffa344,126.31.254.167,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.0171E+19,d1400fca-f23d-4e5b-b0ee-ff9eda9241fe,106.154.11.250,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,10246656-dea6-4abc-a035-8f25a181398e,123.224.2.143,japan,zh-CN,Windows 7,jp,utsunomiya,tochigi,36.561,139.853,
+2.0171E+19,dbba5356-206c-4880-9f5f-9cde46189022,118.82.48.98,japan,zh-CN,Windows 7,jp,tochigi-shi,tochigi,36.356,139.759,
+2.0171E+19,dbba5356-206c-4880-9f5f-9cde46189022,14.12.130.192,japan,zh-CN,Windows 7,jp,osaka-shi,osaka,34.671,135.508,
+2.0171E+19,55a82c15-a51f-42ab-9f38-2fcadf8bce4d,210.165.4.182,japan,zh-CN,Windows 7,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.0171E+19,55a82c15-a51f-42ab-9f38-2fcadf8bce4d,61.89.123.43,japan,zh-CN,Windows 7,jp,kyoto-shi,kyoto,35.005,135.752,
+2.0171E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,60.110.216.164,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.0171E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,60.110.216.164,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.0171E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,60.110.216.164,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.0171E+19,7050bf83-1ded-4634-8c37-f925cb7f92ca,27.253.251.33,japan,ja-JP,iOS,jp,minato-ku (tokyo),tokyo,35.668,139.75,ja-JP
+2.0171E+19,7050bf83-1ded-4634-8c37-f925cb7f92ca,106.181.221.30,japan,ja-JP,iOS,jp,chuo-ku (osaka),osaka,34.692,135.532,ja-JP
+2.0171E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,106.161.128.216,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.0171E+19,57a148fd-27d2-4483-810e-d5d6b1ca3746,27.253.251.9,japan,ja-JP,iOS,jp,minato-ku (tokyo),tokyo,35.668,139.75,ja-JP
+2.0171E+19,6bbe82ce-e5df-48a4-9000-4c1439671873,106.154.3.133,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,192092b0-7dfb-47cc-be84-5258ee31494a,106.154.0.40,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,11d7c5d6-37af-4092-820b-12950a9ec195,103.239.175.190,india,ja-jp,iOS,in,chennai,tamil nadu,13.052,80.251,ja-jp
+2.0171E+19,9c345dd4-9b73-4ee7-bb74-dc61a0e5b4bc,49.98.149.133,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.0171E+19,0b3e350f-168f-4325-bb96-2e67b7938706,116.91.159.231,japan,ja,Windows,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.0171E+19,55a82c15-a51f-42ab-9f38-2fcadf8bce4d,61.89.123.43,japan,zh-CN,Windows 7,jp,kyoto-shi,kyoto,35.005,135.752,zh-CN
+2.01801E+19,4b6773d6-537d-4ec0-abba-5c6cdbfaec0c,126.36.116.45,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,4c45c87c-e20d-4ade-879c-1d031bf965e6,223.135.201.116,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.0171E+19,4377bac6-0e79-47ce-8fc7-a1ee85404969,106.154.9.29,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,c964959e-f292-4ef6-8d73-954ba7aa35ef,124.18.2.80,japan,ja,Windows 8.1,jp,gifu-shi,gifu,35.411,136.713,ja
+2.01712E+19,b91a9ee3-7f62-4dd0-a5fe-5b1f79903fe9,118.18.10.196,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,82c32e33-7a3f-4630-830f-691700c2e922,114.158.126.132,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01712E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,49.104.50.201,japan,ja-JP,Android 4.4 KitKat,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01712E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,49.104.50.201,japan,ja-JP,Android 4.4 KitKat,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01712E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,49.106.206.229,japan,ja-JP,Android 4.4 KitKat,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.180.161,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01712E+19,bafd38c9-8e1c-4e41-b09f-1df9c0af5176,119.81.135.38,hong kong,ja,OS X,hk,tsuen wan,none,22.367,114.1,ja
+2.01712E+19,a500f5e1-6719-4696-81b7-7f735b8b3b9f,121.114.208.161,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01801E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.192.28,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01801E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.192.28,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.01801E+19,92c03de1-d430-47e9-9583-736bec02311e,121.113.222.107,Japan,ja,Windows 8.1,,Kyoto,Kyoto,35.021,135.756,ja
+2.01801E+19,a53d71b1-19dc-4743-bb5d-a2279f639c18,124.97.47.25,Japan,ja,Windows,,Fukuoka,Fukuoka,33.606,130.418,
+2.01801E+19,e0906d25-ac41-4d92-b0bf-9562ae9587cf,124.255.122.26,Japan,ja,Windows 8.1,,Kokubunji,Tokyo,35.702,139.476,ja
+2.01801E+19,1c9952b5-47f3-4a8e-81dd-4110089c80a9,114.188.31.176,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01801E+19,59133b3a-c281-4d7e-9505-3045216e2d54,202.225.164.131,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01801E+19,1165e954-00d8-4137-8026-59e0a2ebf33d,153.169.245.83,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01801E+19,1165e954-00d8-4137-8026-59e0a2ebf33d,153.169.245.83,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01801E+19,65f809d2-5f29-4699-a071-5a3d233c04d5,180.46.60.159,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01801E+19,ac2f082d-ccd6-4306-89ef-f6c79adcf24c,202.189.199.114,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja
+2.01801E+19,a53d71b1-19dc-4743-bb5d-a2279f639c18,124.99.85.38,japan,ja,Windows,jp,nagoya,aichi,35.149,136.919,ja
+2.01801E+19,308fe37b-192f-4070-88e1-90fba5acf79c,222.10.33.175,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01801E+19,a53d71b1-19dc-4743-bb5d-a2279f639c18,124.99.85.38,japan,ja,Windows,jp,nagoya,aichi,35.149,136.919,
+2.01801E+19,a53d71b1-19dc-4743-bb5d-a2279f639c18,124.99.85.38,japan,ja,Windows,jp,nagoya,aichi,35.149,136.919,ja
+2.01801E+19,839de1c9-2266-4baf-9a28-3cb48c48a3ea,60.112.155.14,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,c4e8532b-62f0-4e39-be38-a194c6eab314,123.230.208.157,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01801E+19,4f6fea77-3921-44f4-8e3d-2bccf9fbe6ab,125.203.136.215,japan,ja,Windows 8.1,jp,toshima-ku,tokyo,35.741,139.728,ja
+2.01801E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.190.17,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.01801E+19,69d397af-7782-4563-b87d-f2d03ed91728,130.34.18.182,japan,ja,Windows 8.1,jp,aoba-ku,miyagi,38.268,140.869,ja
+2.01801E+19,94b390ad-d11e-4402-9c3e-a1c1b3752045,121.200.163.191,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01801E+19,9fc08471-237d-43c5-ac5d-cafdee3c4cf4,180.28.223.16,japan,ja,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,ja
+2.01801E+19,1ee2138f-c589-4b74-a282-16ec8134b1d0,125.206.100.72,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,4cca2359-1cb2-4f64-8916-60f4b905a328,59.84.77.216,japan,ja,Windows 8.1,jp,hamamatsu,shizuoka,34.782,137.747,ja
+2.01801E+19,bfb2360d-ac17-460a-a8f0-30d48318e677,182.22.129.39,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.663,139.761,ja
+2.01801E+19,7555dd75-4c93-4e86-934b-90fc4ad51a0f,126.47.120.161,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.189.253,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01801E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.189.253,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01709E+19,32f9d508-7605-4c19-889e-36036315b2af,180.110.19.244,china,zh-CN,Windows 8.1,cn,nanjing,jiangsu,32.046,118.784,zh-CN
+2.01801E+19,4f19c066-15b2-4b86-81fd-4b331ce704bf,126.233.213.178,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01801E+19,75c09595-3ad8-49d5-b4a1-27e8b15ad261,124.18.50.149,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01801E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.189.253,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01801E+19,c562f934-a154-4878-b58b-1781f787046b,114.168.150.228,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,
+2.01801E+19,da825c51-53f5-40a4-adb9-a256c365b6e2,58.191.33.215,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,
+2.01801E+19,77b2d1fc-6020-4127-a91f-42d34799fa41,118.106.145.183,japan,ja,Windows 8.1,jp,ichinomiya,aichi,35.332,136.836,ja
+2.01801E+19,c459730e-be95-4406-ad73-79cb912b3912,59.137.146.191,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,
+2.01801E+19,c8c7e53c-80ba-4472-81f0-8555da137a1d,114.186.232.246,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,e66d2871-a696-468d-bdc8-b05ff39c4b48,133.218.165.173,japan,ja,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,
+2.01801E+19,e66d2871-a696-468d-bdc8-b05ff39c4b48,133.218.165.173,japan,ja,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,ja
+2.01801E+19,f69df37c-1d6d-4207-b2c9-d5b9b20b44c3,210.139.167.148,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,
+2.01801E+19,9050f23c-a06a-4510-a4fc-6fc9d5c721f9,221.65.7.149,japan,ja,Windows 8.1,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01801E+19,9050f23c-a06a-4510-a4fc-6fc9d5c721f9,221.65.7.149,japan,ja,Windows 8.1,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01801E+19,f086bc0a-29af-4430-9544-8537c8b56e91,125.192.178.140,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01801E+19,f6f73d6b-b605-4fc2-8744-b7898f35c980,153.208.201.85,japan,ja,Windows 8.1,jp,fukushima-shi,fukushima,37.805,140.491,
+2.01802E+19,e388fc39-6d97-415f-ad78-9bfd7660daa4,153.219.57.219,japan,ja,Windows 8.1,jp,aoba-ku,miyagi,38.268,140.869,
+2.01802E+19,f9ec192d-5769-48d8-9b23-a4101af69f56,220.145.132.248,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,c70b195b-9fc7-4fcf-90c7-d69dc56bc69e,222.150.50.123,japan,ja,Windows 8.1,jp,aomori-shi,aomori,40.804,140.727,ja
+2.01802E+19,b20d5951-7e84-48ee-8c8d-e2795a7e6f3c,126.204.196.210,japan,ja,Android,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,b20d5951-7e84-48ee-8c8d-e2795a7e6f3c,126.204.196.210,japan,ja,Android,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,7e7a4208-b8b5-4a4c-a84b-b637b50abd7b,133.218.143.212,japan,ja,Windows 8.1,jp,sendai,miyagi,38.272,140.878,ja
+2.01802E+19,23d7013f-91fb-474a-ad86-9c76372ab958,106.181.151.87,japan,ja-JP,iOS,jp,chuo-ku (osaka),osaka,34.692,135.532,ja-JP
+2.01802E+19,cf889f92-5703-48eb-b848-d516a6d14ff2,60.106.132.125,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,23d7013f-91fb-474a-ad86-9c76372ab958,131.129.219.134,japan,ja-JP,iOS,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01802E+19,8a10b3de-6f74-4cf0-9527-fd1571837a4d,60.124.54.209,japan,ja,Windows 8.1,jp,miyazaki-shi,miyazaki,44.683,142.701,ja
+2.01802E+19,23d7013f-91fb-474a-ad86-9c76372ab958,126.196.60.240,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01802E+19,b20d5951-7e84-48ee-8c8d-e2795a7e6f3c,203.139.63.73,japan,ja,Android,jp,nagoya,aichi,35.149,136.919,ja
+2.01802E+19,b20d5951-7e84-48ee-8c8d-e2795a7e6f3c,203.139.63.73,japan,ja,Android,jp,nagoya,aichi,35.149,136.919,ja
+2.01802E+19,40e7c444-e214-4fc9-a8ef-0b843987251e,125.2.213.61,japan,ja-JP,iOS,jp,gifu-shi,gifu,35.411,136.713,ja-JP
+2.01802E+19,40e7c444-e214-4fc9-a8ef-0b843987251e,125.2.213.61,japan,ja-JP,iOS,jp,gifu-shi,gifu,35.411,136.713,ja-JP
+2.01802E+19,9769590d-dabd-4346-b721-45a8459e0da7,125.204.193.42,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01802E+19,3673aaa8-9de4-471c-ab66-ede9c2ab6d34,101.142.77.74,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01802E+19,6b4a3f25-c869-4426-bd4d-1fa1c5810144,60.114.188.226,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,d81446ca-e7ce-4c7b-bd7a-959258cace2c,150.147.115.64,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01803E+19,f8f08f29-30c9-4154-874e-a7c67154cd66,101.128.165.212,japan,ja,Windows 8.1,jp,iwaki,fukushima,37.065,140.938,ja
+2.01803E+19,f141ec46-8be1-4c1d-a280-5403884181d7,180.27.67.173,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01803E+19,f141ec46-8be1-4c1d-a280-5403884181d7,180.27.67.173,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01803E+19,35747001-dcad-4839-ba56-5bba65d391ff,58.189.60.38,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,852943e1-9d80-41ef-9ba6-766fd3986493,180.36.223.45,japan,ja,Windows 8.1,jp,takamatsu,kagawa,34.353,134.026,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,59c8fb7d-3487-4e8b-bee6-d387f8e5ea0e,115.179.223.10,japan,en-US,Windows 7,jp,nagoya,aichi,35.149,136.919,en-US
+2.01712E+19,e6b3e86f-96a3-490c-aef5-07d51a9d6221,1.72.8.67,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,6ba91261-d7d7-4f4d-9665-491e0c3d83ea,121.116.127.51,japan,zh-CN,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,zh-CN
+2.01712E+19,e6b3e86f-96a3-490c-aef5-07d51a9d6221,122.31.93.42,japan,ja-JP,iOS,jp,okayama-shi,okayama,34.68,133.94,ja-JP
+2.01712E+19,3a9a496b-0bf7-4d9c-8929-09f46a30c95f,14.9.101.0,japan,zh-CN,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,zh-CN
+2.01712E+19,6c37a9dd-9d33-4dc8-855b-d7d1748dc00c,180.196.114.140,japan,zh-CN,Windows 8.1,jp,ichinomiya,aichi,35.332,136.836,zh-CN
+2.01712E+19,e6b3e86f-96a3-490c-aef5-07d51a9d6221,122.31.93.42,japan,ja-JP,iOS,jp,okayama-shi,okayama,34.68,133.94,
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,20ffe27e-d054-4f78-b8b8-59bf7e51341c,14.101.83.143,japan,ja,Windows 8.1,jp,kokurakita-ku,fukuoka,33.888,130.882,ja
+2.01712E+19,20ffe27e-d054-4f78-b8b8-59bf7e51341c,14.101.83.143,japan,ja,Windows 8.1,jp,kokurakita-ku,fukuoka,33.888,130.882,ja
+2.01712E+19,20ffe27e-d054-4f78-b8b8-59bf7e51341c,14.101.83.143,japan,ja,Windows 8.1,jp,kokurakita-ku,fukuoka,33.888,130.882,ja
+2.01712E+19,7d3c8f01-a8af-4c2d-82fa-b9a0bd60a751,126.169.60.75,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,7d3c8f01-a8af-4c2d-82fa-b9a0bd60a751,126.169.60.75,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,87b760cb-1fa9-47d7-a431-b797b1d5b609,121.118.8.32,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01712E+19,87b760cb-1fa9-47d7-a431-b797b1d5b609,121.118.8.32,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01712E+19,18c825ee-aad8-4d5f-8ead-3a58c14a17d1,218.47.249.177,japan,ja-JP,OS X,jp,iwaki,fukushima,37.065,140.938,ja-JP
+2.01712E+19,a53d71b1-19dc-4743-bb5d-a2279f639c18,124.97.47.25,japan,ja,Windows,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,f043fc5d-2623-4fa1-bba8-d3b71b0806e8,182.164.15.113,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,efd33fff-3359-4c54-b656-7fa8f233a647,150.249.122.133,japan,ja,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,ja
+2.01712E+19,e6b3e86f-96a3-490c-aef5-07d51a9d6221,110.163.11.7,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01712E+19,db780124-10a2-4f7d-b60f-c3e69acbfa80,58.190.175.60,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01801E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.199.69,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01801E+19,91993a05-2b84-4312-bc99-52973e5febd4,106.132.84.187,japan,ja-JP,iOS,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01801E+19,71771ea5-8b41-4620-9624-fbcb89f5f088,115.177.194.245,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01801E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,49.104.24.174,japan,ja-JP,Android 4.4 KitKat,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01801E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,49.104.24.174,japan,ja-JP,Android 4.4 KitKat,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01801E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,49.104.5.100,Japan,ja-JP,Android 4.4 KitKat,,Tokyo,Tokyo,35.643,139.768,ja-JP
+2.01801E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,49.104.5.100,Japan,ja-JP,Android 4.4 KitKat,,Tokyo,Tokyo,35.643,139.768,ja-JP
+2.01801E+19,b3e13e22-89e6-4809-81b8-095df0c7489f,180.11.237.158,Japan,ja,Windows 8.1,,Watari,Miyagi,38.035,140.851,ja
+2.01801E+19,b3e13e22-89e6-4809-81b8-095df0c7489f,126.126.228.122,Japan,ja,Windows 8.1,,Saitama,Saitama,35.857,139.649,ja
+2.01801E+19,a74a3179-eb99-489d-ba3d-d8a8c34bca63,123.48.48.215,Japan,ja,Windows 8.1,,Nagoya,Aichi,35.18,136.907,ja
+2.01801E+19,20206573-c13f-4ffe-93e2-1f6da9b10ee8,153.185.105.71,Japan,ja,Windows 8.1,,Ginowan,Okinawa,26.263,127.762,ja
+2.01801E+19,a845bcda-9992-4d01-aba9-7468d5b09880,153.205.202.70,Japan,ja,Windows 8.1,,Tokyo,Tokyo,35.643,139.768,ja
+2.01801E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,Japan,ja,Windows 7,,Yamashitacho,Kagoshima,31.583,130.55,ja
+2.01801E+19,adaf598d-3fdb-4954-b343-58fd0bc38190,106.168.58.80,Japan,ja,Windows 8.1,,Yokohama,Kanagawa,35.448,139.642,ja
+2.01801E+19,ec94f0de-e6ea-4072-a518-fcd029adc46f,120.50.234.19,Japan,ja,Windows 8.1,,Iga,Mie,34.774,136.13,ja
+2.01801E+19,ec94f0de-e6ea-4072-a518-fcd029adc46f,120.50.234.19,Japan,ja,Windows 8.1,,Iga,Mie,34.774,136.13,ja
+2.01801E+19,0d15bd68-1976-4e90-9c8b-07fe7c66356c,60.93.63.121,Japan,ja,Windows 8.1,,Kyoto,Kyoto,35.021,135.756,ja
+2.01801E+19,e56bbe15-51af-4166-9fbd-ba438e605980,112.68.189.207,Japan,ja,Windows 8.1,,Suita,？saka,34.75,135.533,ja
+2.01801E+19,82c2f98f-4d0c-45f5-9130-cab1c81cbd16,114.19.168.39,Japan,ja,Windows 8.1,,Chiba,Chiba,35.605,140.123,ja
+2.01801E+19,1837010a-f749-4ac0-9eb4-f1b00d888253,110.54.2.58,Japan,ja,Windows 8.1,,Fukuoka,Fukuoka,33.606,130.418,ja
+2.01801E+19,ccedadf7-fe20-4966-8461-3159dea4277d,60.101.73.58,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01801E+19,4538c337-9ff4-46e9-a01a-f5b430288527,59.139.228.28,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,a7003858-62e7-499c-a7c4-165e4d421199,58.95.141.135,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01801E+19,1165e954-00d8-4137-8026-59e0a2ebf33d,153.169.245.83,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01801E+19,e6663071-31b2-4067-9f5f-cf8e987bbea9,180.2.63.44,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01801E+19,e6663071-31b2-4067-9f5f-cf8e987bbea9,180.2.63.44,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01803E+19,d1e4a777-41d7-43b8-bb40-07b9b2477239,180.35.187.25,japan,ja,Windows 8.1,jp,funabashi,chiba,35.788,140.074,ja
+2.01803E+19,a81eeed1-39b7-46ba-9439-7e4ed2079859,180.63.236.97,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01709E+19,0e15fd48-35a9-428c-aa8a-875ebeb2bb39,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,b185d38b-2e7d-4a52-86df-5ab75c9653d8,124.213.17.169,japan,zh-CN,Windows 7,jp,osaka-shi,osaka,34.671,135.508,
+2.01709E+19,b185d38b-2e7d-4a52-86df-5ab75c9653d8,124.213.17.169,japan,zh-CN,Windows 7,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01709E+19,2136901d-0e70-4917-95b3-72c88df1300f,14.133.214.163,japan,zh-CN,Windows 7,jp,hamamatsu,shizuoka,34.782,137.747,
+2.01709E+19,88daff67-9113-4acc-907b-b249597b08aa,119.30.216.125,japan,zh-CN,Windows 7,jp,nagoya,aichi,35.149,136.919,
+2.01709E+19,88daff67-9113-4acc-907b-b249597b08aa,119.30.216.125,japan,zh-CN,Windows 7,jp,nagoya,aichi,35.149,136.919,
+2.01709E+19,88daff67-9113-4acc-907b-b249597b08aa,119.30.216.125,japan,zh-CN,Windows 7,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01709E+19,88daff67-9113-4acc-907b-b249597b08aa,119.30.216.125,japan,zh-CN,Windows 7,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01709E+19,39790ea1-ff8f-4b54-bfab-899e1a4408ed,221.17.86.13,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,057cdadc-25aa-48f0-acc7-b82db647af71,49.240.105.247,japan,zh-CN,Windows 7,jp,naha,okinawa,26.242,127.68,zh-CN
+2.0171E+19,47f436f1-5ab7-40f0-9fb6-f4b5e2058962,42.127.139.181,japan,zh-CN,Windows 7,jp,yaizu,shizuoka,34.854,138.285,
+2.0171E+19,2a72af89-85b9-442f-9e9b-46f95f8fdf91,106.154.19.152,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.0171E+19,2a72af89-85b9-442f-9e9b-46f95f8fdf91,106.154.19.152,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,e0591723-274a-464c-b0dc-19c75b8c25e2,126.200.3.174,japan,ja,Android,jp,tokyo,tokyo,35.696,139.739,ja
+2.0171E+19,0b3e350f-168f-4325-bb96-2e67b7938706,116.91.159.231,japan,ja,Windows,jp,chiyoda-ku,tokyo,35.689,139.763,
+2.0171E+19,a3ed77c0-c168-44f2-b43e-4215b8d0bc4d,221.115.95.242,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.0171E+19,a3ed77c0-c168-44f2-b43e-4215b8d0bc4d,221.115.95.242,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.0171E+19,d944c144-0f45-4782-adfa-8992762afc7a,122.103.208.98,japan,ja,Windows,jp,osaka-shi,osaka,34.671,135.508,ja
+2.0171E+19,e3a82db7-f14e-4ee9-b88c-9d13d2ed75be,172.94.27.155,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.0171E+19,973c964d-591d-45ec-a5d9-378f3f3805ca,111.239.102.203,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,2a9582f1-ceb6-4244-a508-1a65d181a70f,59.46.35.197,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,2a9582f1-ceb6-4244-a508-1a65d181a70f,59.46.35.197,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,a8759dfc-743e-44c9-a2b4-18b61e223699,59.46.35.197,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,a8759dfc-743e-44c9-a2b4-18b61e223699,59.46.35.197,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,4852264e-173c-4f25-9fee-9e2c42741c87,112.85.86.242,china,zh-CN,Windows 7,cn,lianyungang,jiangsu,34.733,119.445,zh-CN
+2.01711E+19,4852264e-173c-4f25-9fee-9e2c42741c87,112.85.86.242,china,zh-CN,Windows 7,cn,lianyungang,jiangsu,34.733,119.445,zh-CN
+2.01711E+19,23533ec9-3436-493d-933a-1dcd123d76c9,27.95.113.17,japan,zh-CN,Windows,jp,fuji,shizuoka,35.184,138.637,zh-CN
+2.01711E+19,23533ec9-3436-493d-933a-1dcd123d76c9,118.240.76.164,japan,zh-CN,Windows,jp,shinagawa-ku,tokyo,35.621,139.745,zh-CN
+2.01711E+19,e6ef84b2-cbd3-46fd-bb6e-4662ea352e75,125.54.103.34,japan,zh-CN,Windows,jp,asahi-ku,kanagawa,35.5,139.538,zh-CN
+2.01711E+19,d74358be-a883-4425-a32a-256d7deca2ce,104.37.5.210,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,f9f1c93b-ae3f-4113-9cfa-a0ed75cc176b,49.97.103.59,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01711E+19,5a42fd62-012b-4f8c-8898-95d5d4431e58,172.94.27.58,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,8ef9e650-4514-45e3-8137-77be0b4c4c14,128.90.64.67,united states,zh-CN,Windows 8.1,us,pittsburgh,pennsylvania,40.443,-79.955,zh-CN
+2.01711E+19,62f41219-ee7d-415e-ae2b-b8e9127103e0,172.94.27.46,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,57fa5467-9119-4dce-9310-a4c422542edb,173.245.217.130,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,9a82f0c2-2f4b-41b1-b4ec-30bc5b1dfb63,104.37.5.165,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,85d34186-d11b-4c8d-ab85-62ef17beb3a2,1.79.89.16,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01711E+19,85d34186-d11b-4c8d-ab85-62ef17beb3a2,49.98.128.97,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01711E+19,d5e60385-6d25-4046-a8ab-e4b2b18c0ed7,173.245.217.36,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,292fc9a1-4e7a-4e18-b35b-0d4990566bdc,36.2.111.151,japan,zh-CN,Windows 8.1,jp,hyogo-ku,hyogo,34.705,135.156,zh-CN
+2.01711E+19,9485031f-2b3f-481e-8a56-6910d0377a01,114.186.49.2,japan,zh-CN,Windows 8.1,jp,utsunomiya,tochigi,36.561,139.853,zh-CN
+2.01711E+19,41b50bb6-4d57-4219-93e7-c1adf17377f1,1.75.249.31,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01711E+19,6cd09919-06d9-41e5-8dd7-4e1128a2d8e1,153.167.244.3,japan,zh-CN,Windows 8.1,jp,funabashi,chiba,35.788,140.074,zh-CN
+2.01712E+19,d98f41ef-8208-4afa-9085-aaa0918221f4,121.2.250.99,japan,zh-CN,Windows 8.1,jp,kanagawa-ku,kanagawa,35.497,139.647,zh-CN
+2.01712E+19,d98f41ef-8208-4afa-9085-aaa0918221f4,121.2.250.99,japan,zh-CN,Windows 8.1,jp,kanagawa-ku,kanagawa,35.497,139.647,zh-CN
+2.01712E+19,a8270872-377d-48f6-be71-c17f7fe9c0a8,202.229.215.188,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,bd930c64-c657-41da-b757-38d89752a5d7,14.13.209.64,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,d72422af-e70c-4578-b636-3cf5971f9b28,124.98.97.40,japan,ja-JP,iOS,jp,kagoshima-shi,kagoshima,31.562,130.523,
+2.01712E+19,d72422af-e70c-4578-b636-3cf5971f9b28,1.75.3.34,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01712E+19,d72422af-e70c-4578-b636-3cf5971f9b28,49.106.207.171,japan,ja-JP,iOS,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01712E+19,d146b10a-0085-4275-9c28-f2d58125411d,126.161.141.133,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,a83d22ab-ca44-417b-9fe8-47f36d835de9,218.226.95.240,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,94899a8a-580f-4eda-8dd9-2f54ec2e1ef9,60.93.148.142,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01712E+19,94899a8a-580f-4eda-8dd9-2f54ec2e1ef9,60.93.148.142,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01712E+19,0e179c18-48b2-4f08-b6c6-8db6004ed5d2,14.11.164.224,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,0e179c18-48b2-4f08-b6c6-8db6004ed5d2,14.11.164.224,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,bca03dd5-438c-470a-b960-9ac77f15cf0d,182.158.232.237,japan,zh-CN,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,zh-CN
+2.01712E+19,6368994f-3a74-4e35-8c77-2f004c37b7c6,219.110.70.218,japan,zh-CN,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,zh-CN
+2.01712E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.187.23,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01712E+19,6145a60d-364a-4791-b9a3-e76d985f73a3,221.113.49.208,japan,ja-JP,OS X,jp,nagoya,aichi,35.149,136.919,ja-JP
+2.01712E+19,1695db4d-4f93-4749-8dd8-7f4fdfa10332,153.156.252.23,japan,ja-JP,iOS,jp,nakamura-ku,aichi,35.173,136.89,
+2.01712E+19,bd8c4664-4d5c-48f9-b380-ae49d82281e7,119.245.22.47,japan,zh-CN,Windows 8.1,jp,iwaki,fukushima,37.065,140.938,zh-CN
+2.01712E+19,83933b9b-5c4d-4707-8637-5846ec7cac6d,59.140.190.147,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,dcacbb51-8d85-42f1-8dd2-159185b71685,122.208.38.42,japan,zh-CN,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,zh-CN
+2.01712E+19,62257d1a-aba2-4166-ba49-72ac8cb40652,211.9.57.169,japan,ja,Windows 7,jp,chiyoda-ku,tokyo,35.691,139.769,ja
+2.01712E+19,92d7d6dd-e57b-4f2e-a3d1-15d5fd841195,175.108.238.243,japan,zh-CN,Windows 8.1,jp,nakayama,yamagata,38.335,140.28,zh-CN
+2.01712E+19,a53d71b1-19dc-4743-bb5d-a2279f639c18,114.174.77.22,japan,ja,Windows,jp,yamaguchi-shi,yamaguchi,34.189,131.656,ja
+2.01712E+19,b41205e0-d1e6-49b7-81c3-e2763988c002,153.162.217.100,japan,zh-CN,Windows 8.1,jp,aoba-ku,miyagi,38.268,140.869,zh-CN
+2.01712E+19,855d8f50-f428-4c2a-8355-0bcbdd2a1aca,125.170.196.184,japan,zh-CN,Windows 8.1,jp,kanazawa,ishikawa,36.567,136.588,zh-CN
+2.01712E+19,64cb4c83-46d9-4124-9743-f9bede0f2930,61.213.137.137,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,e87ff405-97d8-43e3-9f71-6cd9f02a47c6,153.214.171.162,japan,ja,Windows,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01712E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.183.100,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.01712E+19,c05451fc-7659-4bb3-9ce7-5a49af546481,114.142.28.185,japan,zh-CN,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,zh-CN
+2.01712E+19,c05451fc-7659-4bb3-9ce7-5a49af546481,114.142.28.185,japan,zh-CN,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,zh-CN
+2.01712E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,49.106.216.133,japan,ja-JP,Android 4.4 KitKat,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01712E+19,8451c128-1a99-4ebb-ae63-3585e2a0db03,60.61.122.156,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,fb562572-4167-44f4-a8ec-c7fe13fe48a7,220.216.102.83,japan,zh-CN,Windows 8.1,jp,kumagaya,saitama,36.179,139.405,zh-CN
+2.01712E+19,e5b71829-fdb6-4070-b252-041aa3546c11,183.76.96.187,japan,zh-CN,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,zh-CN
+2.01712E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.187.21,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.01712E+19,2b586309-f6ef-437f-962c-44e5a90d72d8,80.215.180.117,france,ja-JP,iOS,fr,paris,paris,48.86,2.341,ja-JP
+2.01712E+19,2b586309-f6ef-437f-962c-44e5a90d72d8,80.215.180.117,france,ja-JP,iOS,fr,paris,paris,48.86,2.341,ja-JP
+2.01712E+19,96b31b8f-7198-48d5-9f1e-72570eb16664,180.21.189.61,japan,zh-CN,Windows 8.1,jp,kanazawa,ishikawa,36.567,136.588,zh-CN
+2.01712E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.189.21,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01712E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,49.104.46.114,japan,ja-JP,Android 4.4 KitKat,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01712E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,49.104.46.114,japan,ja-JP,Android 4.4 KitKat,jp,osaka-shi,osaka,34.671,135.508,ja-JP
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,1d612c88-3af4-43b1-a191-a04309cd12dc,106.73.193.192,japan,zh-CN,Windows 8.1,jp,chiyoda-ku,tokyo,35.686,139.768,zh-CN
+2.01712E+19,00d507d1-6a0e-4165-bcc0-dc0a91e711d0,121.106.175.193,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,b4e09d24-15de-4baa-86ab-c611b1f3b651,42.126.98.28,japan,zh-CN,Windows 8.1,jp,yaizu,shizuoka,34.854,138.285,zh-CN
+2.01712E+19,8a9599ae-2e50-4c2a-b90a-7fec29d68bff,220.97.233.81,japan,zh-CN,Windows 8.1,jp,fukui-shi,fukui,36.084,136.229,zh-CN
+2.01712E+19,1526bbe4-6ce5-453e-be2f-08b472217f5c,61.199.159.180,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,8d9d5bab-d963-45aa-a772-d11695974ad7,60.134.79.251,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,14c8fae2-b72b-471a-aabc-d8dfb55abb4f,220.151.251.90,japan,zh-CN,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,zh-CN
+2.01712E+19,58a2b762-427f-4310-a224-a809abc596e7,59.85.106.192,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,982163b4-6a72-4858-9a6d-bcaddfb0df75,122.216.241.194,japan,ja,Windows 7,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja
+2.01712E+19,8ce4b9d3-95c3-48be-a339-8e1237f059a5,27.138.188.184,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,7b332d1f-0f6b-4ed9-a54b-d48f96cd892f,118.241.68.55,japan,zh-CN,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,zh-CN
+2.01712E+19,9c554848-ddf3-4308-9b19-409b6b1bb844,153.195.123.237,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,83332961-79bd-4be0-816c-e27c06ac3cc1,202.175.167.102,macau,zh-CN,Windows,mo,macau,macau,22.204,113.545,zh-CN
+2.01712E+19,2a8b6ffb-425f-4002-9c07-f54f78b839c8,153.196.130.158,japan,ja-JP,Android 4.4 KitKat,jp,kagoshima-shi,kagoshima,31.562,130.523,ja-JP
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.0171E+19,0b3e350f-168f-4325-bb96-2e67b7938706,180.32.114.156,japan,ja,Windows,jp,yamaguchi-shi,yamaguchi,34.189,131.656,ja
+2.0171E+19,1420a840-37e8-4d7d-9110-c05eff2b5093,183.177.245.20,japan,ja,Windows 7,jp,minato-ku (tokyo),tokyo,35.666,139.756,
+2.0171E+19,618869a9-0085-485c-a1ef-be60287cd02e,111.239.96.236,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,0f6d1ebe-a1e2-428f-89d9-db977b2d5640,111.239.95.110,japan,zh-CN,Windows 7,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01711E+19,f9f1c93b-ae3f-4113-9cfa-a0ed75cc176b,1.75.9.206,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01711E+19,7835305c-efd3-4776-a9fb-17f600a92aa6,111.239.107.88,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,f9f1c93b-ae3f-4113-9cfa-a0ed75cc176b,106.161.230.226,japan,ja-JP,iOS,jp,chuo-ku (osaka),osaka,34.692,135.532,ja-JP
+2.01711E+19,387d979e-05ce-4fe4-b31f-c90bdb48efac,59.46.38.49,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01712E+19,b67ba253-4b4a-4e6a-9988-1bc4e7b6992e,221.254.227.2,japan,ja-jp,iOS,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja-jp
+2.01712E+19,d99f114a-cbfb-4a75-bade-5f6dabd90467,49.98.170.197,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01712E+19,14187ac3-dcb2-46b3-93fb-2ef9dbf5d9af,113.146.22.181,japan,zh-CN,Windows 8.1,jp,koshigaya,saitama,35.942,139.785,zh-CN
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,67b30324-9ea2-4144-ad35-c6c019fe9ea6,153.196.130.158,japan,ja,Windows 7,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01712E+19,e037a6f9-e21a-43da-a678-6ea6a039dd16,114.145.228.219,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,18c825ee-aad8-4d5f-8ead-3a58c14a17d1,124.98.97.40,japan,ja-JP,OS X,jp,kagoshima-shi,kagoshima,31.562,130.523,ja-JP
+2.01712E+19,6bc723c8-ff9d-482d-8c2c-dc5c20ea60e3,153.220.194.86,japan,zh-CN,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,zh-CN
+2.01709E+19,f21cea57-5134-4639-a02c-62a39ba45955,124.215.108.180,japan,zh-CN,Windows 7,jp,yokohama,kanagawa,35.46,139.596,
+2.01709E+19,855ad708-5032-4528-998d-5516f5f39d33,113.157.237.254,japan,ja,OS X,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01709E+19,aa39ec87-536a-406a-a637-0d148f74cd67,121.93.117.130,japan,zh-CN,Windows 7,jp,hamamatsu,shizuoka,34.782,137.747,
+2.01709E+19,aa39ec87-536a-406a-a637-0d148f74cd67,121.93.117.130,japan,zh-CN,Windows 7,jp,hamamatsu,shizuoka,34.782,137.747,
+2.01709E+19,,,,,,,,,0,0,
+2.01709E+19,829c905c-dfeb-4686-bac5-bf54a5ca1f92,182.251.181.119,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.0171E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,124.110.202.80,japan,zh-CN,Windows 7,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.0171E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,124.110.202.80,japan,zh-CN,Windows 7,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.0171E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,124.110.202.80,japan,zh-CN,Windows 7,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.0171E+19,88fca290-88e3-4d73-86f0-530389c7e1e9,60.103.201.221,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.0171E+19,829c905c-dfeb-4686-bac5-bf54a5ca1f92,182.251.196.209,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.0171E+19,829c905c-dfeb-4686-bac5-bf54a5ca1f92,182.251.197.160,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.0171E+19,c33351b6-5f34-41c1-a970-63386fc063db,106.154.5.210,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,0b3e350f-168f-4325-bb96-2e67b7938706,180.10.50.106,japan,ja,Windows,jp,yamaguchi-shi,yamaguchi,34.189,131.656,ja
+2.0171E+19,cd0792af-d301-4175-ac72-1114a3d011bf,106.181.217.60,japan,ja-jp,iOS,jp,chuo-ku (osaka),osaka,34.692,135.532,ja-jp
+2.0171E+19,2d756798-5749-412b-b10b-c5cd83ed3d37,5.189.136.131,germany,ja,Windows 7,de,frankfurt am main,hessen,50.111,8.682,ja
+2.0171E+19,3e99670d-c32f-40a4-90a2-24b905670bfc,111.239.108.229,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,3e99670d-c32f-40a4-90a2-24b905670bfc,111.239.108.229,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,829c905c-dfeb-4686-bac5-bf54a5ca1f92,182.251.193.186,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01711E+19,d2572b12-67e9-4737-ae35-dc46242d7110,111.239.98.188,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,d2572b12-67e9-4737-ae35-dc46242d7110,111.239.98.188,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,b1b301ed-6af5-4252-9a87-4ca6a8334712,111.239.102.11,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,aead9151-3891-4567-ab47-da322b5ac4ea,111.239.101.223,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,f062d586-6601-4e53-be11-457808598529,119.172.64.58,japan,ja-JP,iOS,jp,saitama-shi,saitama,35.909,139.657,ja-JP
+2.01711E+19,7835305c-efd3-4776-a9fb-17f600a92aa6,111.239.107.88,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,7835305c-efd3-4776-a9fb-17f600a92aa6,111.239.107.88,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,7835305c-efd3-4776-a9fb-17f600a92aa6,111.239.107.88,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,7835305c-efd3-4776-a9fb-17f600a92aa6,111.239.107.88,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,193b5cd9-2111-4e77-86a0-7a17ab9a6f04,111.239.98.16,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,193b5cd9-2111-4e77-86a0-7a17ab9a6f04,111.239.98.16,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,e4308e7d-729c-4ade-ab85-91669922a2b7,210.248.148.148,japan,ja-JP,iOS,jp,chiyoda-ku,tokyo,35.691,139.769,
+2.01711E+19,a1c189aa-7b2d-4c3f-96fa-8555c3a55e76,123.152.37.74,china,zh-CN,Windows 7,cn,zhenhai qu,zhejiang,29.949,121.717,zh-CN
+2.01711E+19,e4308e7d-729c-4ade-ab85-91669922a2b7,202.212.16.13,japan,ja-JP,iOS,jp,chiyoda-ku,tokyo,35.689,139.763,ja-JP
+2.01711E+19,e4308e7d-729c-4ade-ab85-91669922a2b7,202.212.16.13,japan,ja-JP,iOS,jp,chiyoda-ku,tokyo,35.689,139.763,ja-JP
+2.01711E+19,e1d5e66e-b4f0-46f6-9927-26c36e0765c1,59.46.65.168,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,e1d5e66e-b4f0-46f6-9927-26c36e0765c1,59.46.65.168,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,e1d5e66e-b4f0-46f6-9927-26c36e0765c1,59.46.65.168,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,e1d5e66e-b4f0-46f6-9927-26c36e0765c1,59.46.65.168,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,895974c1-3e55-4fe8-be71-202ef4489aef,202.216.13.18,japan,zh-CN,Windows 7,jp,osaka-shi,osaka,34.671,135.508,
+2.01711E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.191.204,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01711E+19,0bf0b150-476c-44ff-9342-2ba3eed60f11,182.251.191.204,japan,ja,Android,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01711E+19,387d979e-05ce-4fe4-b31f-c90bdb48efac,59.46.38.49,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,,,,,,,,,0,0,
+2.01711E+19,4852264e-173c-4f25-9fee-9e2c42741c87,112.85.86.242,china,zh-CN,Windows 7,cn,lianyungang,jiangsu,34.733,119.445,zh-CN
+2.01711E+19,790391cb-3546-4e97-b77f-b258fb79261b,1.75.0.239,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01711E+19,20b1e3ed-2e95-421f-8093-3c3a849c4a7c,113.120.61.51,china,zh-CN,Windows 7,cn,jinan,shandong,36.683,117,zh-CN
+2.01711E+19,20b1e3ed-2e95-421f-8093-3c3a849c4a7c,113.120.61.51,china,zh-CN,Windows 7,cn,jinan,shandong,36.683,117,zh-CN
+2.01711E+19,20b1e3ed-2e95-421f-8093-3c3a849c4a7c,113.120.61.51,china,zh-CN,Windows 7,cn,jinan,shandong,36.683,117,zh-CN
+2.01711E+19,a8759dfc-743e-44c9-a2b4-18b61e223699,59.46.35.197,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,a8759dfc-743e-44c9-a2b4-18b61e223699,59.46.35.197,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.01711E+19,83d2f43f-fa69-4ff8-a48c-0c6bc3726046,101.67.248.74,china,zh-CN,Windows 7,cn,shaoxing,zhejiang,30.013,120.567,zh-CN
+2.0171E+19,cd0792af-d301-4175-ac72-1114a3d011bf,106.181.217.60,japan,ja-jp,iOS,jp,chuo-ku (osaka),osaka,34.692,135.532,ja-jp
+2.0171E+19,,,,,,,,,0,0,
+2.0171E+19,c6aacca7-7b46-448c-aa6b-3254c5cb117c,42.178.195.116,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.0171E+19,2d756798-5749-412b-b10b-c5cd83ed3d37,5.189.136.131,germany,ja,Windows 7,de,frankfurt am main,hessen,50.111,8.682,ja
+2.01712E+19,20ffe27e-d054-4f78-b8b8-59bf7e51341c,14.101.83.143,japan,ja,Windows 8.1,jp,kokurakita-ku,fukuoka,33.888,130.882,ja
+2.01806E+19,e42be516-0e90-4fc6-b15a-7d76679c5134,117.102.193.64,japan,ja,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.0171E+19,1e90d2a3-521b-4ded-8664-4716d3ff0f1e,182.32.185.18,china,zh-CN,Windows 7,cn,qingdao,shandong,36.078,120.337,zh-CN
+2.01711E+19,724819de-1174-40d2-bc94-52bc78555ea5,153.225.126.144,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01806E+19,8b974fa2-2dd9-415c-8bf3-c5c9e6ab9657,210.165.144.163,japan,ja,Windows 7,jp,iwaki,fukushima,37.065,140.938,
+2.01806E+19,bb10aace-2e91-42d2-9921-fc4f29db4cf5,131.213.132.110,japan,ja,Windows 7,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01805E+19,,,,,,,,,0,0,
+2.01805E+19,14d8d93c-d181-4f9b-bce0-6ec1bdeb73b9,114.172.86.113,japan,ja,Windows 7,jp,nakagyo-ku,kyoto,35.017,135.758,
+2.01711E+19,13312eb8-5e00-41e9-91f3-f582e53437e1,172.94.27.21,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.0171E+19,6869c392-5d7d-4548-bc9c-c6a5906f82d1,101.67.255.48,china,zh-CN,Windows 7,cn,shaoxing,zhejiang,30.013,120.567,zh-CN
+2.01806E+19,cbc26e23-91cb-482e-a683-213be9665da9,114.160.4.74,japan,ja,Windows 7,jp,tokyo,tokyo,35.696,139.739,ja
+2.01806E+19,fe6b1405-45ca-452b-b554-331a3ab886df,60.117.78.169,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.0171E+19,7780cca6-99d7-4553-86a7-b7211ae306dd,103.17.196.7,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.0171E+19,dd6314f7-18de-46f5-9b28-2cf44ccba7f3,106.154.16.198,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,92d60cf7-eaf9-47ce-a606-6a366034b363,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.0171E+19,e2174616-eea2-4feb-a511-9a571ead4c12,106.154.15.96,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,1a5ac555-091f-4f0b-ae2b-d494e1800806,106.154.15.11,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,122ded60-76ff-42c4-84a2-b126a2805b2d,106.154.1.17,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,e359d29f-08a8-4b8e-b7df-bd69da023873,218.224.59.131,japan,ja-JP,Windows,jp,kobe,hyogo,34.693,135.14,
+2.0171E+19,f22fe0ec-ad72-4780-bc76-e53a8523c620,220.202.152.91,china,zh-CN,Windows 7,cn,changsha,hunan,28.192,112.988,
+2.0171E+19,59e94191-dbe2-415e-b9c1-a00e9075c777,106.154.9.15,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.01801E+19,8d94d9a2-0051-4f8b-8505-f283cab4265c,126.60.196.121,Japan,ja,Windows 8.1,,Osaka,？saka,34.686,135.52,ja
+2.01709E+19,0e15fd48-35a9-428c-aa8a-875ebeb2bb39,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.01709E+19,0e15fd48-35a9-428c-aa8a-875ebeb2bb39,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,0e15fd48-35a9-428c-aa8a-875ebeb2bb39,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.01709E+19,0e15fd48-35a9-428c-aa8a-875ebeb2bb39,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,0e15fd48-35a9-428c-aa8a-875ebeb2bb39,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,0e15fd48-35a9-428c-aa8a-875ebeb2bb39,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,0e15fd48-35a9-428c-aa8a-875ebeb2bb39,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,ffffe83e-b6f9-4c4b-a068-70218e74e8ff,106.154.14.128,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.01709E+19,ffffe83e-b6f9-4c4b-a068-70218e74e8ff,106.154.14.128,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,ffffe83e-b6f9-4c4b-a068-70218e74e8ff,106.154.14.128,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,32f9d508-7605-4c19-889e-36036315b2af,180.109.37.11,china,zh-CN,Windows 8.1,cn,nanjing,jiangsu,32.046,118.784,zh-CN
+2.01709E+19,91be84bc-27a7-4ea2-826a-7ab3e7cd0a5b,106.154.5.220,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.01709E+19,d42b6890-8865-4a3f-aba1-a72b5f006003,106.154.6.176,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.01709E+19,8a0d580c-1ea8-4292-8fed-64a50488f4ba,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,8a0d580c-1ea8-4292-8fed-64a50488f4ba,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,8a0d580c-1ea8-4292-8fed-64a50488f4ba,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,8a0d580c-1ea8-4292-8fed-64a50488f4ba,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.01709E+19,8a0d580c-1ea8-4292-8fed-64a50488f4ba,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01709E+19,8a0d580c-1ea8-4292-8fed-64a50488f4ba,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.01709E+19,4f9bc7e3-1e14-4c5e-b139-18be8162cbb7,220.166.182.167,china,zh-CN,Windows 8.1,cn,ziyang,sichuan,30.14,104.64,zh-CN
+2.01709E+19,5a396b04-2a3d-47a8-9f22-e97e4dcfc877,106.154.19.39,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01709E+19,d37aa2ce-7de0-45fd-8c89-bae8a0753dcd,106.154.11.48,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,d37aa2ce-7de0-45fd-8c89-bae8a0753dcd,106.154.11.48,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,d37aa2ce-7de0-45fd-8c89-bae8a0753dcd,106.154.11.48,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,f568670b-07f4-4eda-a080-f85002c89650,106.154.13.45,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,27d26806-4d13-4458-8b24-014f06a672b6,106.154.8.15,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,571ff908-6ce9-4962-b5f0-a1b78353f4f2,106.154.3.187,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.01709E+19,571ff908-6ce9-4962-b5f0-a1b78353f4f2,106.154.3.187,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,a19ad63f-b801-409f-8ad2-5a09f0d83117,106.154.12.248,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,a19ad63f-b801-409f-8ad2-5a09f0d83117,106.154.12.248,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,a19ad63f-b801-409f-8ad2-5a09f0d83117,106.154.12.248,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,a19ad63f-b801-409f-8ad2-5a09f0d83117,106.154.12.248,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01709E+19,2eae202a-f6d6-4f2c-9625-1c73684ade7a,106.154.5.155,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,a1a3fbcc-a3e7-47d9-b382-303f0add81a5,106.154.12.241,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,82c3abdb-dbfa-44e7-922d-b2109048a01e,106.154.4.43,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.0171E+19,82c3abdb-dbfa-44e7-922d-b2109048a01e,106.154.4.43,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,82c3abdb-dbfa-44e7-922d-b2109048a01e,106.154.4.43,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,821f8de7-3e78-4b14-8e81-f2c02fa9d29b,106.154.7.164,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,87cb50ad-d68a-4b08-b558-9b806e4586f4,106.154.2.92,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,87cb50ad-d68a-4b08-b558-9b806e4586f4,106.154.2.92,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,d1400fca-f23d-4e5b-b0ee-ff9eda9241fe,106.154.11.250,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,e38c989c-4b65-4528-8919-42d26e4b6f42,106.154.8.34,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,4d8c310f-3cce-4d6b-90ad-7fc6906e18f0,106.154.6.148,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,4d8c310f-3cce-4d6b-90ad-7fc6906e18f0,106.154.6.148,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,a5b9fc64-31f8-45fb-8ee2-e85c2d372095,106.154.13.96,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,ce4d5d64-2792-40c7-88fc-72d6f65866a0,106.154.19.63,japan,zh-CN,Windows 7,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.0171E+19,05bc0cf6-4d4e-4a34-a7a1-e21faf58140a,106.154.15.227,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,62c4f16f-e840-4db1-a46d-9d6ffb1f15bd,106.154.1.77,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,a3d598e1-9520-4e69-a16b-1cdafea93501,106.154.2.162,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,a9cbeb9e-29cc-4efb-bea9-7e322b998d6c,106.154.17.46,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,a9cbeb9e-29cc-4efb-bea9-7e322b998d6c,106.154.17.46,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,9fbd3121-fd07-40e0-8fd4-baea04a382c7,106.154.3.19,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,9fbd3121-fd07-40e0-8fd4-baea04a382c7,106.154.3.19,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,6bbe82ce-e5df-48a4-9000-4c1439671873,106.154.3.133,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,192092b0-7dfb-47cc-be84-5258ee31494a,106.154.0.40,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,192092b0-7dfb-47cc-be84-5258ee31494a,106.154.0.40,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,409d5eda-a8a1-452b-a723-926c31d203b4,106.154.6.128,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,409d5eda-a8a1-452b-a723-926c31d203b4,106.154.6.128,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,c11a8815-e7b9-4827-b26d-b0cbd2a29057,106.154.9.167,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,e02a7777-28d6-495b-8943-544b9132f2a3,106.154.17.140,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,e02a7777-28d6-495b-8943-544b9132f2a3,106.154.17.140,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,1d05d7ad-a02b-4ffc-a67c-54ddd58a0208,106.154.19.142,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,84da697e-c4df-416d-ac5b-0f4a3094f967,106.154.10.155,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,c4b2454f-efd2-4957-8990-ac28d286d173,106.154.0.88,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,204e883d-e0b9-4f99-93bb-a0b803ac5485,106.154.3.210,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,204e883d-e0b9-4f99-93bb-a0b803ac5485,106.154.3.210,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,4806e1e3-7433-47a5-82e3-7c0a9266acfe,106.154.16.128,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,32a5f144-18e1-4ad2-8993-f9e5c529568f,106.154.12.155,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,32a5f144-18e1-4ad2-8993-f9e5c529568f,106.154.12.155,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,92d60cf7-eaf9-47ce-a606-6a366034b363,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.0171E+19,485f19cd-ba09-476b-aac7-c3ea580f85d0,106.154.14.180,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,87ca15dd-57b5-4983-8783-6da2dc076c5e,106.154.6.130,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,87ca15dd-57b5-4983-8783-6da2dc076c5e,106.154.6.130,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,87ca15dd-57b5-4983-8783-6da2dc076c5e,106.154.6.130,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,92d60cf7-eaf9-47ce-a606-6a366034b363,60.99.64.232,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.0171E+19,c72a27a7-a765-4e5d-a1a3-92b9573118ee,106.154.15.41,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,c72a27a7-a765-4e5d-a1a3-92b9573118ee,106.154.15.41,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,4d488e11-7605-4ae8-b5e6-248b46d409f7,106.154.7.208,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,fc04328d-ad10-4ded-ba91-c06231cd52f9,106.154.14.179,japan,zh-CN,Windows 7,jp,chiyoda-ku,tokyo,35.689,139.763,
+2.0171E+19,3800d46c-9ad3-4e17-a0a1-05fe8bec5711,106.154.16.146,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,3800d46c-9ad3-4e17-a0a1-05fe8bec5711,106.154.16.146,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,3e20520a-dbcd-4eba-b98f-c5b5fd686b52,106.154.13.147,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,3e20520a-dbcd-4eba-b98f-c5b5fd686b52,106.154.13.147,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,eb3365fe-fa13-400a-b26d-afb940b029a8,106.154.14.43,japan,zh-CN,Windows 7,jp,chiyoda-ku,tokyo,35.689,139.763,
+2.0171E+19,eb3365fe-fa13-400a-b26d-afb940b029a8,106.154.14.43,japan,zh-CN,Windows 7,jp,chiyoda-ku,tokyo,35.689,139.763,zh-CN
+2.0171E+19,39f9c862-a07e-4c38-a423-01c44ca1c0fc,106.154.6.213,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,39f9c862-a07e-4c38-a423-01c44ca1c0fc,106.154.6.213,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,39f9c862-a07e-4c38-a423-01c44ca1c0fc,106.154.6.213,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,39f9c862-a07e-4c38-a423-01c44ca1c0fc,106.154.6.213,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,1cf79519-6b9b-4cb9-9218-f84a793ae0ab,106.154.4.219,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,b7063993-3f8c-42b5-a7f6-6bb3b8ac280e,106.154.18.158,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,350649b6-3106-4660-aae9-dd1c56f5e2cf,106.154.0.167,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,ea9b5b31-097d-4f8e-8805-13983c497759,106.154.11.171,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,ea9b5b31-097d-4f8e-8805-13983c497759,106.154.11.171,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,6dbb3a34-9a80-4b0d-a860-e8e6e4b5360b,106.154.13.132,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,c4f7bed0-7158-4355-98bb-018678632062,106.154.11.72,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,59f92552-62d2-42a7-8592-478ad5731c5a,106.154.5.249,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,59f92552-62d2-42a7-8592-478ad5731c5a,106.154.5.249,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,59f92552-62d2-42a7-8592-478ad5731c5a,106.154.5.249,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,59f92552-62d2-42a7-8592-478ad5731c5a,106.154.5.249,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,126066d6-ec57-4831-967b-9df34be6065c,106.154.5.150,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,1a5ac555-091f-4f0b-ae2b-d494e1800806,106.154.15.11,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,06747437-02de-4af6-869b-9f944db25256,106.154.17.101,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,8bb2a02a-9ef8-4e36-b39a-96c010df31be,106.154.7.125,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,f31adc92-634b-4d45-a2ad-806626c14d9f,106.154.6.57,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,65573ad2-eca6-4f10-80e0-6074cde5a19b,106.154.19.100,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,5435d305-8203-4df6-9397-9cf6564fe8aa,106.154.13.178,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,c7e74649-e6b3-4b16-8ad7-6569f8570d17,106.154.10.28,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,c7e74649-e6b3-4b16-8ad7-6569f8570d17,106.154.10.28,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,ac6ba264-4822-4a4f-92ec-9a39205890dd,106.154.18.184,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,ac6ba264-4822-4a4f-92ec-9a39205890dd,106.154.18.184,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,ac6ba264-4822-4a4f-92ec-9a39205890dd,106.154.18.184,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,213bfd24-978c-449f-9efd-63937f46397c,106.154.7.182,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,,,,,,,,,0,0,
+2.0171E+19,a7e906f5-1056-4881-ab64-b7b462b34a50,106.154.4.130,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,a7e906f5-1056-4881-ab64-b7b462b34a50,106.154.4.130,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,a6d61820-fd71-4466-8717-5faa38095d99,106.154.8.34,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,dd6314f7-18de-46f5-9b28-2cf44ccba7f3,106.154.16.198,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,dd6314f7-18de-46f5-9b28-2cf44ccba7f3,106.154.16.198,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,dd6314f7-18de-46f5-9b28-2cf44ccba7f3,106.154.16.198,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,ac96361e-aca1-4086-94d4-ded09dd85383,106.154.11.7,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,ac96361e-aca1-4086-94d4-ded09dd85383,106.154.11.7,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,ac96361e-aca1-4086-94d4-ded09dd85383,106.154.11.7,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,ac96361e-aca1-4086-94d4-ded09dd85383,106.154.11.7,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,adfc7972-1bdd-4945-800f-4e7db037004d,106.154.7.209,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,3f89729c-00db-4d70-a565-d6e6eafd8b03,106.154.10.49,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,3f89729c-00db-4d70-a565-d6e6eafd8b03,106.154.10.49,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,a38e3fe2-33d6-451b-97ec-f42072a0f131,106.154.3.73,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,a38e3fe2-33d6-451b-97ec-f42072a0f131,106.154.3.73,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.0171E+19,3e6f2f32-4b97-4f0f-86c2-f5e0a07cc246,106.154.19.154,japan,zh-CN,Windows 7,jp,itabashi-ku,tokyo,35.759,139.708,
+2.0171E+19,1f72bbb1-9913-4d52-8ae1-d2ee9b43df44,119.52.248.226,china,zh-CN,Windows 7,cn,meihekou,jilin,42.525,125.689,zh-CN
+2.0171E+19,,,,,,,,,0,0,
+2.0171E+19,6869c392-5d7d-4548-bc9c-c6a5906f82d1,101.67.255.48,china,zh-CN,Windows 7,cn,shaoxing,zhejiang,30.013,120.567,zh-CN
+2.0171E+19,7bad2079-074b-4d0c-b121-94e962fedb58,110.187.40.38,china,zh-CN,Windows 7,cn,jianchengzhen,sichuan,30.392,104.55,zh-CN
+2.0171E+19,7bad2079-074b-4d0c-b121-94e962fedb58,110.187.40.38,china,zh-CN,Windows 7,cn,jianchengzhen,sichuan,30.392,104.55,zh-CN
+2.0171E+19,2a25e4d3-9be8-4325-992f-d0de0ae72bed,182.135.239.170,china,zh-CN,Windows 7,cn,jianchengzhen,sichuan,30.392,104.55,zh-CN
+2.0171E+19,,,,,,,,,0,0,
+2.0171E+19,8a5b35dd-32cf-4b0c-92f9-17c045bb20bf,42.178.192.68,china,zh-CN,Windows 7,cn,shenyang,liaoning,41.801,123.402,zh-CN
+2.0171E+19,1ed8eaf3-8d4d-4b40-afb1-3e66faeba418,123.156.176.110,china,zh-CN,Windows 7,cn,jinhua,zhejiang,29.116,119.651,zh-CN
+2.0171E+19,,,,,,,,,0,0,
+2.0171E+19,990a8d91-bc4b-4d83-8802-9d75bec22587,182.32.185.55,china,zh-CN,Windows 7,cn,qingdao,shandong,36.078,120.337,zh-CN
+2.0171E+19,70abceca-fa28-487b-8901-24c3adafc188,172.94.27.152,japan,zh-CN,Windows 7,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.0171E+19,2788f22d-30b9-41b8-a443-e5f5ab71947b,222.168.214.204,china,zh-CN,Windows 8.1,cn,tonghua,jilin,41.714,125.934,zh-CN
+2.0171E+19,4e528355-2547-4a06-923b-afa1a89e80c6,153.99.188.243,china,zh-CN,Windows 8.1,cn,nanjing,jiangsu,32.046,118.784,zh-CN
+2.0171E+19,4e528355-2547-4a06-923b-afa1a89e80c6,153.99.188.243,china,zh-CN,Windows 8.1,cn,nanjing,jiangsu,32.046,118.784,zh-CN
+2.0171E+19,4e528355-2547-4a06-923b-afa1a89e80c6,153.99.188.243,china,zh-CN,Windows 8.1,cn,nanjing,jiangsu,32.046,118.784,zh-CN
+2.01711E+19,23533ec9-3436-493d-933a-1dcd123d76c9,221.170.13.56,japan,zh-CN,Windows,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,,,,,,,,,0,0,
+2.01711E+19,23533ec9-3436-493d-933a-1dcd123d76c9,60.98.182.70,japan,zh-CN,Windows,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,e6ef84b2-cbd3-46fd-bb6e-4662ea352e75,180.10.169.37,japan,zh-CN,Windows,jp,wakayama-shi,wakayama,34.307,135.089,zh-CN
+2.01711E+19,e6ef84b2-cbd3-46fd-bb6e-4662ea352e75,125.54.103.34,japan,zh-CN,Windows,jp,asahi-ku,kanagawa,35.5,139.538,zh-CN
+2.01711E+19,e6ef84b2-cbd3-46fd-bb6e-4662ea352e75,125.54.103.34,japan,zh-CN,Windows,jp,asahi-ku,kanagawa,35.5,139.538,zh-CN
+2.01711E+19,789fd7d9-4132-4b8d-9427-8e1e1835a3a7,104.37.5.213,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,789fd7d9-4132-4b8d-9427-8e1e1835a3a7,104.37.5.213,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,d74358be-a883-4425-a32a-256d7deca2ce,104.37.5.210,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,e6ef84b2-cbd3-46fd-bb6e-4662ea352e75,42.127.200.69,japan,zh-CN,Windows,jp,yaizu,shizuoka,34.854,138.285,zh-CN
+2.01711E+19,4136c3fb-16b9-4a9c-a531-beb68c49a34f,104.37.5.174,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,4136c3fb-16b9-4a9c-a531-beb68c49a34f,104.37.5.174,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,72cd852c-bca7-435d-bc57-5d4f1db81aac,104.37.5.140,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,2ddeeeec-97a5-4483-896c-73fb00f55976,104.37.5.145,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,0e80f04c-5e9a-4c3d-942c-f5e070eff5bb,104.37.5.179,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,533cc8cd-6f55-4ac8-8dff-216f4a68f101,104.37.5.219,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,d00cf904-1574-4c52-8910-8ab80a73d8c8,128.90.65.184,united states,zh-CN,Windows 8.1,us,pittsburgh,pennsylvania,40.443,-79.955,zh-CN
+2.01711E+19,f1dc32cd-6994-4b4b-90ef-c9d59db10678,103.27.221.254,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,71f28664-8be3-4886-9a67-bd98ff6cbe25,104.37.5.175,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,5a42fd62-012b-4f8c-8898-95d5d4431e58,172.94.27.58,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,c9cbbbac-072a-4744-92a8-63da6c9d9468,173.245.217.45,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,c9cbbbac-072a-4744-92a8-63da6c9d9468,173.245.217.45,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,ef3db2f8-e275-444f-9a9a-5e39327e0eca,128.90.65.228,united states,zh-CN,Windows 8.1,us,pittsburgh,pennsylvania,40.443,-79.955,zh-CN
+2.01711E+19,32999f4d-b68b-4c96-bdb3-db535bef8d65,173.245.217.132,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,13312eb8-5e00-41e9-91f3-f582e53437e1,172.94.27.21,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,9e0d88e3-b72b-45a3-8dcd-bf4ca4c5ac46,45.254.253.112,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,e68cd755-e67a-4ec2-babb-87aae5232c5b,104.37.5.153,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,
+2.01711E+19,c1f71d49-e3ac-4ea6-afb6-a10ba0ccf998,173.245.217.135,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,a56089d1-cf09-46e8-b6a2-bf1e193b79ab,173.245.217.131,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,81854ee3-f00e-4b69-83d2-9e2ddaf7efa5,104.37.5.134,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,50603898-5a1c-4619-bcdd-61777d10e0d9,104.37.5.161,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,717fe7a6-3eae-4c83-b25e-7a95409aaa2a,172.94.27.11,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,
+2.01711E+19,284fcf69-32ad-4528-b0e8-3f4da6862e26,104.37.5.171,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,836a6f80-30e1-49a8-88a2-550a0dd57bc2,104.37.5.179,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,d27961fc-2fc5-4d56-9ad7-7f10ebbcc202,104.37.5.153,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,d27961fc-2fc5-4d56-9ad7-7f10ebbcc202,104.37.5.153,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,ede1a221-2eaf-46d6-a730-694763a07c65,104.37.5.152,australia,zh-CN,Windows 8.1,au,sydney,new south wales,-33.867,151.207,zh-CN
+2.01711E+19,7cebde52-5176-488e-b142-040f398c76d2,106.156.65.14,japan,zh-CN,Windows 8.1,jp,narita,chiba,35.766,140.38,zh-CN
+2.01711E+19,73795363-a75f-4c31-9a35-8bc05a55ed74,106.161.175.135,japan,zh-CN,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01711E+19,6d689af1-4261-4f20-a04b-57ff15c01a67,110.232.15.78,japan,zh-CN,Windows 8.1,jp,funabashi,chiba,35.788,140.074,zh-CN
+2.01711E+19,7ac77c1d-7a81-4028-b1b5-b4c81e50d27b,119.244.222.93,japan,zh-CN,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,zh-CN
+2.01711E+19,5bf7aa63-c8e4-4f0c-9df4-e968ea018715,114.171.96.178,japan,zh-CN,Windows 8.1,jp,nakagyo-ku,kyoto,35.017,135.758,zh-CN
+2.01711E+19,45e42393-2217-4933-8fa0-adaf0818c368,49.250.25.153,japan,zh-CN,Windows 8.1,jp,suginami-ku,tokyo,35.706,139.635,zh-CN
+2.01711E+19,14049d96-4b4d-4f09-9736-aa1d33aa310c,124.18.85.50,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01711E+19,14049d96-4b4d-4f09-9736-aa1d33aa310c,124.18.85.50,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01711E+19,1cdc044a-b897-42cf-93b3-ff667cc57177,175.108.18.45,japan,zh-CN,Windows 8.1,jp,taito-ku,tokyo,35.727,139.766,zh-CN
+2.01711E+19,9cafd940-583c-4ea0-a434-8cce917446dc,106.165.49.73,japan,zh-CN,Windows 8.1,jp,itabashi-ku,tokyo,35.759,139.708,zh-CN
+2.01711E+19,439600df-7379-4eb6-9276-74aae7f659bd,133.206.59.128,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,39d09569-a01b-4235-ab59-2056076877da,222.2.78.92,japan,zh-CN,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,zh-CN
+2.01711E+19,39d09569-a01b-4235-ab59-2056076877da,222.2.78.92,japan,zh-CN,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,zh-CN
+2.01711E+19,44b79ca9-8093-46c2-a1ad-41ca341dc84f,126.31.214.14,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,44b79ca9-8093-46c2-a1ad-41ca341dc84f,126.31.214.14,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,545cd670-216b-4797-9a04-53414674829c,61.4.166.139,japan,zh-CN,Windows 8.1,jp,minami-ku (okayama),okayama,34.62,133.944,zh-CN
+2.01711E+19,71595a5d-0193-4cea-90c3-6e6a55769b6e,114.185.65.7,japan,zh-CN,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,zh-CN
+2.01711E+19,bdaf6c53-4396-496d-ab4d-d7b15748209a,124.213.7.222,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01711E+19,d79d2f12-e46b-4846-86e8-6790b02e34e5,150.147.154.119,japan,zh-CN,Windows 8.1,jp,hyogo-ku,hyogo,34.705,135.156,zh-CN
+2.01711E+19,d79d2f12-e46b-4846-86e8-6790b02e34e5,150.147.154.119,japan,zh-CN,Windows 8.1,jp,hyogo-ku,hyogo,34.705,135.156,zh-CN
+2.01711E+19,e47ea26b-f0ab-4643-b6b3-7cf923b3a28f,118.86.68.188,japan,zh-CN,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,zh-CN
+2.01711E+19,0ff52af8-c384-42fb-ba32-4814b7f31344,180.35.66.144,japan,zh-CN,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,zh-CN
+2.01711E+19,2e417e4c-95e0-4836-bf6a-9a6ed0f35a15,49.128.18.216,japan,zh-CN,Windows 8.1,jp,higashi-ku (nagoya),aichi,35.171,136.918,zh-CN
+2.01711E+19,b995a4da-735c-4666-9d9c-5add2744af47,180.58.87.66,japan,zh-CN,Windows 8.1,jp,utsunomiya,tochigi,36.561,139.853,zh-CN
+2.01711E+19,e7717cc4-0ddc-4065-91e9-5794bcfa45ba,111.102.200.225,japan,zh-CN,Windows 8.1,jp,nerima-ku,tokyo,35.739,139.656,zh-CN
+2.01711E+19,bf7dabaf-ad82-41c1-a107-438949220a0b,106.172.179.132,japan,zh-CN,Windows 8.1,jp,tobata-ku,fukuoka,33.903,130.826,zh-CN
+2.01711E+19,9de59814-9ec8-4f77-8d64-616e9b884113,60.114.169.178,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01711E+19,d344681e-0150-4432-af46-e046d302782b,125.192.178.140,japan,zh-CN,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,zh-CN
+2.01711E+19,583418f4-f5f0-4000-97a9-d1c87613df5b,112.139.220.84,japan,zh-CN,Windows 8.1,jp,yaizu,shizuoka,34.854,138.285,zh-CN
+2.01803E+19,5b87fae3-0c91-43e9-a381-e27d218c5eaf,182.165.135.79,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,dfb70ee0-f5a5-4998-ab7f-99f5517927d8,180.40.161.142,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01803E+19,4cbf223b-4bdd-42d1-81d9-c4cd0d99ae05,223.218.6.174,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,a08c5358-87b6-4622-936d-573608268f10,153.186.145.73,japan,ja,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,ja
+2.01803E+19,a7e8d67c-051c-4db7-bf98-c3a0f857ab0f,153.219.81.87,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01803E+19,7a13f106-7b85-4044-a30f-a81db3b28286,122.25.183.187,japan,ja,Windows 8.1,jp,sendai,miyagi,38.272,140.878,ja
+2.01803E+19,e20b1a99-d803-47fc-8396-15fcc34d8401,223.219.93.158,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,08523d06-51ef-4d53-a4da-8db1770150d5,210.143.27.172,japan,ja,Windows 8.1,jp,aomori-shi,aomori,40.804,140.727,ja
+2.01803E+19,a7e8d67c-051c-4db7-bf98-c3a0f857ab0f,153.219.81.87,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01803E+19,bc316900-57ab-4949-a296-3bed07c66f85,221.184.148.48,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01803E+19,ea945aeb-424d-4589-a764-8bfe5072df4e,210.254.253.193,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.691,139.769,ja
+2.01803E+19,f6cf49fe-d6cd-48a5-9437-f9a02c5d5132,153.225.95.167,japan,ja,Windows 8.1,jp,aomori-shi,aomori,40.804,140.727,ja
+2.01803E+19,4c8d7da8-2aac-4587-9a13-17f64ec9c358,114.168.151.84,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01803E+19,36652242-79f6-44e8-8fd5-a75a3fcc4287,153.175.89.156,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01803E+19,53d4e6bb-1396-4cb6-a8b4-4c4a240f64c6,122.17.221.81,japan,ja,Windows 8.1,jp,takasaki,gunma,36.278,139.003,ja
+2.01803E+19,53d4e6bb-1396-4cb6-a8b4-4c4a240f64c6,122.17.221.81,japan,ja,Windows 8.1,jp,takasaki,gunma,36.278,139.003,ja
+2.01803E+19,14b43e5d-5a87-4dc3-baa1-e43dc2da149d,60.46.46.204,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,a1ecf927-5c7c-43cb-87b1-1d8e5a36134d,60.38.26.128,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,d7aba521-5e54-4a74-9933-437b8a8f05b0,58.94.81.119,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01803E+19,d7aba521-5e54-4a74-9933-437b8a8f05b0,58.94.81.119,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01803E+19,afaab8ba-5ff6-4c9b-b975-b609914b9014,122.25.79.105,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01803E+19,d9ad71ac-ed13-4cfb-b232-9c3afb3f7521,153.203.163.162,japan,ja,Windows 8.1,jp,soka,saitama,35.826,139.805,ja
+2.01803E+19,faced7d6-bd5f-4e3f-9c25-fac617ce59f6,219.162.241.157,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,faced7d6-bd5f-4e3f-9c25-fac617ce59f6,219.162.241.157,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,0321a173-658f-4cd6-8f85-556af6bf6efe,122.20.97.130,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,3a63a9bb-4a9e-40b3-807c-1f48e438fb80,153.134.102.178,japan,ja,Windows 8.1,jp,fukushima-shi,fukushima,37.805,140.491,ja
+2.01803E+19,09d903f2-d357-41d1-8dac-ad4db9bd612c,222.144.36.56,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,3279edfb-047b-498f-8217-33ebac1ba16b,223.219.59.105,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,00639b94-1dc8-4ab7-b81d-3df54b0ed5f5,180.47.73.161,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01803E+19,00639b94-1dc8-4ab7-b81d-3df54b0ed5f5,180.47.73.161,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01803E+19,b7915cfc-2610-490e-9d16-7458e1426584,114.171.67.252,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01803E+19,22a46a0f-5dfb-42ba-8227-92fdbd8b0c29,180.32.3.11,japan,ja,Windows 8.1,jp,naha,okinawa,26.242,127.68,ja
+2.01803E+19,db5a0f18-f59f-4716-9de6-52e7d4563fdb,60.41.66.206,japan,ja,Windows 8.1,jp,naha,okinawa,26.242,127.68,ja
+2.01803E+19,786273f1-2e7f-4fe6-88d2-5721608c020f,153.130.239.202,japan,ja,Windows 8.1,jp,chuo-ku (kobe),hyogo,34.698,135.193,ja
+2.01803E+19,460e81ae-6f35-4064-87b2-726e4c9d0f07,210.160.35.59,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.691,139.769,ja
+2.01803E+19,0f863c61-b780-489a-b21e-f986c55f12b0,124.102.185.133,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,85e4b58c-640d-44fe-bf84-c3563f6861c3,118.241.108.32,japan,ja,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,ja
+2.01803E+19,980d14d4-fab2-4662-93d6-19a0d655b79b,118.19.145.118,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01803E+19,b16762a9-c3fb-484d-ba00-4f9b060c8048,153.200.241.223,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01803E+19,047055c9-a063-4eac-a38f-509d3ec0d4fe,60.41.209.58,japan,ja,Windows 8.1,jp,otsu,shiga,35.046,135.864,ja
+2.01803E+19,09746cb9-b8bf-44ac-a24d-03328a5e3312,122.27.149.26,japan,ja,Windows 8.1,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.01803E+19,09746cb9-b8bf-44ac-a24d-03328a5e3312,122.27.149.26,japan,ja,Windows 8.1,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.01803E+19,ff299942-2b89-4436-be5e-a819d5c4f6e9,180.20.108.131,japan,ja,Windows 8.1,jp,kumamoto-shi,kumamoto,32.807,130.709,ja
+2.01803E+19,88158521-2830-4c7a-8bb5-38dd81d8eac6,180.30.103.88,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01804E+19,c3b51b5d-d720-4ae5-838e-ba634116077d,114.157.97.129,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01804E+19,83f31147-0bb7-4b51-b7ae-77ada626334e,180.15.68.86,japan,ja,Windows 8.1,jp,chuo-ku (sapporo),hokkaido,43.061,141.342,ja
+2.01804E+19,5a3ec5f5-175f-4086-aaee-66698d70f761,153.164.173.234,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01804E+19,54843eba-4d34-486a-a425-ff574846a922,118.21.22.77,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,b79b859f-4691-493b-b1dc-47303cd85fe4,180.46.185.96,japan,ja,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,ja
+2.01804E+19,c314d7bb-6590-46b6-b111-b28d1a0bc45f,153.131.16.41,japan,ja,Windows 8.1,jp,chuo-ku (kobe),hyogo,34.698,135.193,ja
+2.01804E+19,c314d7bb-6590-46b6-b111-b28d1a0bc45f,153.131.16.41,japan,ja,Windows 8.1,jp,chuo-ku (kobe),hyogo,34.698,135.193,ja
+2.01804E+19,ee6f91f1-cdbd-4766-afa3-6c4570f80a46,153.208.80.129,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01804E+19,ee6f91f1-cdbd-4766-afa3-6c4570f80a46,153.208.80.129,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01804E+19,54b477a9-c03a-4b66-be90-04385c220873,121.114.103.57,japan,ja,Windows 8.1,jp,sendai,miyagi,38.272,140.878,ja
+2.01804E+19,17fd1853-fa86-4383-bccd-cc6df9583877,116.67.141.134,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01804E+19,17fd1853-fa86-4383-bccd-cc6df9583877,116.67.141.134,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01804E+19,19fb90f5-3bad-4754-bb0d-bebfb2cdc72c,60.36.31.54,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01804E+19,19fb90f5-3bad-4754-bb0d-bebfb2cdc72c,114.153.95.83,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01804E+19,89d18d27-c294-4cfb-8db7-6967e56b4735,153.206.112.78,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01804E+19,89d18d27-c294-4cfb-8db7-6967e56b4735,153.206.112.78,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01804E+19,983aff5e-f76d-4a50-bd2b-7fb71a7f2e3f,180.47.229.38,japan,ja,Windows 8.1,jp,funabashi,chiba,35.788,140.074,ja
+2.01804E+19,24322bee-a566-4b51-b006-b38a531d071c,153.163.178.157,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01804E+19,24322bee-a566-4b51-b006-b38a531d071c,153.163.178.157,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01804E+19,deb06bc1-8a8b-4006-a432-7c6d04a46e38,124.86.47.182,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,a97faf98-718b-4a26-82ff-4f97efefdcd7,153.171.171.33,japan,ja,Windows 8.1,jp,utsunomiya,tochigi,36.561,139.853,ja
+2.01804E+19,a97faf98-718b-4a26-82ff-4f97efefdcd7,153.171.171.33,japan,ja,Windows 8.1,jp,utsunomiya,tochigi,36.561,139.853,ja
+2.01804E+19,469ddb34-25ff-4848-bc6e-925cbf2bb2ad,101.143.174.60,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01804E+19,fdf71dcb-0a8f-410d-850f-b37f4b3e81eb,120.136.229.102,japan,ja,Windows 8.1,jp,numazu,shizuoka,35.158,138.858,ja
+2.01804E+19,54e2df0c-3527-449d-b7da-9b390b8d76d6,123.227.122.141,japan,ja,Windows 8.1,jp,hamamatsu,shizuoka,34.782,137.747,ja
+2.01804E+19,87eeb2f6-515c-4ad5-a21e-ea61ef5340e2,220.107.201.95,japan,ja,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,ja
+2.01804E+19,2b7ec7cc-2c8d-4199-921c-d64412f75710,222.8.78.90,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01804E+19,4b0bb4fc-2e5f-490c-bbbe-0e51759741b9,220.99.231.206,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01804E+19,c5b0bc94-ba43-4546-8101-f76373e10220,114.174.165.56,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01804E+19,c5b0bc94-ba43-4546-8101-f76373e10220,114.174.165.56,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01804E+19,3e549068-156e-4e29-8a0b-d52ef643b199,153.171.155.20,japan,ja,Windows 8.1,jp,funabashi,chiba,35.788,140.074,ja
+2.01804E+19,fffc0507-99cd-49fd-9e50-3fa9414ae843,153.198.6.143,japan,ja,Windows 8.1,jp,otsu,shiga,35.046,135.864,ja
+2.01804E+19,8d520414-bf0e-4b4e-a4e0-23da6f500db8,180.19.189.191,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01804E+19,3e4f5bfc-6afc-4b4d-9eeb-650fe6bee45c,124.154.149.205,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01804E+19,578bc2c0-428c-43ff-9418-1db95757649e,121.116.100.162,japan,ja,Windows 8.1,jp,sendai,miyagi,38.272,140.878,ja
+2.01804E+19,64e9ebba-2d78-453e-b327-2b366ba2eb65,210.234.12.31,japan,ja,Windows 8.1,jp,kanazawa,ishikawa,36.567,136.588,ja
+2.01804E+19,82c4c3fd-642b-4994-9e95-80d97f550f20,180.25.167.32,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01804E+19,a5ff7a79-19f8-448e-8921-8b3f98d2d593,114.176.128.228,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01804E+19,01e75145-bfa9-48f8-b761-919f48b6f3ff,153.136.161.31,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01804E+19,28493945-c753-4167-b69d-f3aea36be63d,153.178.128.233,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01804E+19,7d92e7b1-d454-4f21-9a09-8eca73e9294b,114.191.57.46,japan,ja,Windows 8.1,jp,hamamatsu,shizuoka,34.782,137.747,ja
+2.01804E+19,6d220ed4-8734-48c8-bc18-4523b34735e8,60.38.59.199,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,6d220ed4-8734-48c8-bc18-4523b34735e8,60.38.59.199,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,6ba7c6b3-15b1-477f-99d3-836fed8d6456,121.116.96.55,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01804E+19,7b22b07c-f201-4505-9a5f-6d882fa982f0,153.136.62.90,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01804E+19,7b22b07c-f201-4505-9a5f-6d882fa982f0,153.136.62.90,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01804E+19,bfdf45fe-382a-46b1-8549-87b38fc92ff9,180.6.184.174,japan,ja,Windows 8.1,jp,kanazawa,ishikawa,36.567,136.588,ja
+2.01804E+19,bfdf45fe-382a-46b1-8549-87b38fc92ff9,180.6.184.174,japan,ja,Windows 8.1,jp,kanazawa,ishikawa,36.567,136.588,ja
+2.01804E+19,,,,,,,,,0,0,
+2.01804E+19,61a3d246-25ff-46c1-b17c-8c54f860c4ba,220.104.237.36,japan,ja,Windows 8.1,jp,kochi-shi,kochi,33.613,133.564,ja
+2.01804E+19,,,,,,,,,0,0,
+2.01804E+19,1d73b958-9b2d-4800-9e5a-c517ec0787e3,118.14.50.129,japan,ja,Windows 8.1,jp,wakayama-shi,wakayama,34.307,135.089,ja
+2.01711E+19,6b86d517-9d59-4783-901c-2423a640e669,211.1.206.44,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01712E+19,280527bc-ebbf-4740-a405-2612f37898bf,111.96.120.22,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01712E+19,03f34e12-a75b-4f20-91ad-0f5f44c5d903,118.15.116.229,japan,zh-CN,Windows 8.1,jp,maebashi,gunma,36.426,139.003,zh-CN
+2.01712E+19,96152aad-2a69-41b3-a3de-8ccd04b9dcf5,118.240.103.76,japan,zh-CN,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,zh-CN
+2.01712E+19,caf9873b-0f0b-48d5-b05a-107f191f6e34,182.23.253.57,japan,zh-CN,Windows 8.1,jp,kariya,aichi,34.976,137.028,zh-CN
+2.01712E+19,862f10d8-0602-470e-b1b0-e18a35c77e14,219.106.110.68,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,1f89ce30-33f7-4946-8bb3-e522919bc275,114.154.206.185,japan,zh-CN,Windows 8.1,jp,miyazaki-shi,miyazaki,44.683,142.701,zh-CN
+2.01712E+19,d19e16cc-8b93-40bd-8876-7a43bf6cb2b7,219.111.104.79,japan,zh-CN,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,zh-CN
+2.01712E+19,a733d3c7-fe4e-4eb8-9e94-e909cdf508d3,118.109.95.83,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,d2985de2-9eb1-42b7-8438-946ae2de4ccf,114.173.35.119,japan,zh-CN,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,zh-CN
+2.01712E+19,b9458b84-7b59-407e-9265-6103f6abd574,60.113.158.225,japan,zh-CN,Windows 8.1,jp,toyama-shi,toyama,36.701,137.214,zh-CN
+2.01712E+19,d63510a3-5cbd-45ae-a48e-cc22710693f8,125.4.80.169,japan,zh-CN,Windows 8.1,jp,kita-ku (osaka),osaka,34.693,135.494,zh-CN
+2.01712E+19,f00f423a-c707-4340-bfe4-0804320b65fa,125.0.162.78,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01712E+19,b4cec394-428d-4203-a3e2-d738b931d815,113.53.250.193,thailand,zh-CN,Windows 8.1,th,bangkok,krung thep,13.734,100.529,zh-CN
+2.01712E+19,b2009b38-87ba-49a1-9d3d-26616a076f1e,210.128.207.251,japan,zh-CN,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,zh-CN
+2.01712E+19,208adf80-8f7a-4cd6-b53a-33fc2d4acaa8,58.94.172.133,japan,zh-CN,Windows 8.1,jp,shimonoseki,yamaguchi,33.981,130.945,zh-CN
+2.01712E+19,8e584898-cdeb-4537-998e-ea9c6e0b083e,60.90.201.135,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,c4cb2fbc-f68c-42ca-be3c-aa72c3931fb2,106.161.251.38,japan,zh-CN,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01712E+19,04542f50-1120-4faa-8f8b-8e0e86eab8ce,180.52.69.237,japan,zh-CN,Windows 8.1,jp,chuo-ku (kobe),hyogo,34.698,135.193,zh-CN
+2.01712E+19,1fe8e482-21af-4e5f-a333-a851e30582d3,114.17.196.76,japan,zh-CN,Windows 8.1,jp,asahi-ku,kanagawa,35.5,139.538,zh-CN
+2.01712E+19,f47a71ec-50a4-4251-8fdb-bdbc1949bad4,121.1.203.201,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,a83d22ab-ca44-417b-9fe8-47f36d835de9,218.226.95.240,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,b4899357-1af3-4e62-b717-d305849f6441,27.89.122.115,japan,zh-CN,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01712E+19,b4899357-1af3-4e62-b717-d305849f6441,27.89.122.115,japan,zh-CN,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01712E+19,ce0f857b-7def-453d-8035-fded8d03a3f2,124.103.43.191,japan,zh-CN,Windows 8.1,jp,gifu-shi,gifu,35.411,136.713,zh-CN
+2.01712E+19,ef3f346d-6d16-4313-a2ca-858409ffba00,153.203.24.210,japan,zh-CN,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,zh-CN
+2.01712E+19,bdce65f5-b61b-4834-8db3-044cbca04eb0,153.200.65.1,japan,zh-CN,Windows 8.1,jp,nakamura-ku,aichi,35.173,136.89,zh-CN
+2.01712E+19,bdce65f5-b61b-4834-8db3-044cbca04eb0,153.200.65.1,japan,zh-CN,Windows 8.1,jp,nakamura-ku,aichi,35.173,136.89,zh-CN
+2.01712E+19,399a67c9-dd00-4c64-9c37-17ff27c05906,182.164.235.97,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,e5dc9d17-bf69-4f8d-8050-456a7081931f,153.136.192.10,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,975cce55-640e-4e63-9d26-eee2d4981ccc,211.132.48.161,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01712E+19,6beb31b2-0060-4200-9854-c664f2bcb30a,111.96.62.78,japan,zh-CN,Windows 8.1,jp,nagoya,aichi,35.149,136.919,zh-CN
+2.01712E+19,2c98a21e-7938-4c64-80ab-9820a70e38ef,114.19.83.235,japan,zh-CN,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,zh-CN
+2.01712E+19,4b7e6cc8-c8cc-4a52-9c04-763e1b2c96b0,126.64.173.254,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,e05d7163-f568-4c5d-a7cc-82b5b9b5efa2,180.24.103.106,japan,zh-CN,Windows 8.1,jp,naha,okinawa,26.242,127.68,zh-CN
+2.01712E+19,47d0105b-ea12-47da-989f-07264b3c0744,182.248.244.202,japan,zh-CN,Windows 8.1,jp,naha,okinawa,26.242,127.68,zh-CN
+2.01712E+19,47d0105b-ea12-47da-989f-07264b3c0744,182.248.244.202,japan,zh-CN,Windows 8.1,jp,naha,okinawa,26.242,127.68,zh-CN
+2.01712E+19,0d4a1a08-cbe0-42f5-9066-2b0db604f25b,126.94.218.15,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,20aabedd-89c7-4cdd-a030-24052d15b565,203.140.210.59,japan,zh-CN,Windows 8.1,jp,miyazaki-shi,miyazaki,44.683,142.701,zh-CN
+2.01712E+19,20aabedd-89c7-4cdd-a030-24052d15b565,203.140.210.59,japan,zh-CN,Windows 8.1,jp,miyazaki-shi,miyazaki,44.683,142.701,zh-CN
+2.01712E+19,fad5b5b9-8ce7-4331-9fad-0fb7b7ca0e64,219.167.235.143,japan,zh-CN,Windows 8.1,jp,kofu,yamanashi,35.685,138.56,zh-CN
+2.01712E+19,851dac47-e249-456a-915c-477f6f70a8db,114.17.232.113,japan,zh-CN,Windows 8.1,jp,zama,kanagawa,35.504,139.425,zh-CN
+2.01712E+19,6e2a15cd-b1fb-454d-a375-eee17187b2a4,126.115.144.248,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,8f959600-22b1-4a7b-a89d-59f22c526dff,114.177.180.174,japan,zh-CN,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,zh-CN
+2.01712E+19,1d62fea1-2e88-4573-9be9-ea02c35b1b6a,36.8.215.119,japan,zh-CN,Windows 8.1,jp,nishi-ku (hiroshima),hiroshima,34.421,132.461,zh-CN
+2.01712E+19,79faffc5-97cf-4cc9-aa8a-da9e82aa892e,153.168.92.62,japan,zh-CN,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,zh-CN
+2.01712E+19,8c962a50-c0ec-4587-bca4-770cf7ec2d62,153.191.187.176,japan,zh-CN,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,zh-CN
+2.01712E+19,8c962a50-c0ec-4587-bca4-770cf7ec2d62,153.191.187.176,japan,zh-CN,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,zh-CN
+2.01712E+19,43decc3d-ebf7-4a4c-bcc7-ae3f0a4305a4,58.183.44.24,japan,zh-CN,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,zh-CN
+2.01712E+19,b41205e0-d1e6-49b7-81c3-e2763988c002,153.162.217.100,japan,zh-CN,Windows 8.1,jp,aoba-ku,miyagi,38.268,140.869,zh-CN
+2.01712E+19,2ff38d21-615d-4c74-bfaf-42557ca73ad7,153.201.218.138,japan,zh-CN,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,zh-CN
+2.01712E+19,2ff38d21-615d-4c74-bfaf-42557ca73ad7,153.201.218.138,japan,zh-CN,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,zh-CN
+2.01712E+19,252d995f-c13c-4aa5-a288-e64c5e158645,183.180.53.156,japan,zh-CN,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,zh-CN
+2.01712E+19,252d995f-c13c-4aa5-a288-e64c5e158645,183.180.53.156,japan,zh-CN,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,zh-CN
+2.01712E+19,24c0b89b-11af-4903-b8a1-6c37063dcb2b,119.241.94.178,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,1d4f3f86-b725-4d2e-bc5f-611f2881a98a,49.250.198.178,japan,zh-CN,Windows 8.1,jp,suginami-ku,tokyo,35.706,139.635,zh-CN
+2.01712E+19,4d5bfec2-15e6-4962-b360-9e7073aa0d85,133.30.67.161,japan,zh-CN,Windows 8.1,jp,kobe,hyogo,34.693,135.14,zh-CN
+2.01712E+19,d4ba9c8b-d837-4465-894a-0322715c2f21,123.255.135.69,japan,zh-CN,Windows 8.1,jp,kita-ku (osaka),osaka,34.692,135.492,zh-CN
+2.01712E+19,d4ba9c8b-d837-4465-894a-0322715c2f21,123.255.135.69,japan,zh-CN,Windows 8.1,jp,kita-ku (osaka),osaka,34.692,135.492,zh-CN
+2.01712E+19,5f6f4d74-8dd8-4158-8935-48077be49cd8,36.8.217.124,japan,zh-CN,Windows 8.1,jp,tonami,toyama,36.612,137.006,zh-CN
+2.01712E+19,2cb6e274-39f7-4e8a-a467-4fbe0be7f82a,119.106.157.47,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,5e290f93-95a7-43c2-a792-6841f76ec181,123.222.45.136,japan,zh-CN,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,zh-CN
+2.01712E+19,1a019ab3-10d7-47d0-bc02-8432da2df845,133.236.62.106,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,dd3b8525-c421-4669-8379-af86794052b4,210.146.156.143,japan,zh-CN,Windows 8.1,jp,hyogo-ku,hyogo,34.705,135.156,zh-CN
+2.01712E+19,f9bbedd5-2d18-4afc-b1da-be481288733d,133.123.3.153,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,62933850-d2fe-4d45-98bb-dd4ff7762ace,115.179.54.210,japan,zh-CN,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,zh-CN
+2.01712E+19,44365a72-3715-4d5a-ad9e-8fe8350b5efc,143.189.1.201,japan,zh-CN,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,zh-CN
+2.01712E+19,e9b9ddc4-c183-487b-9994-709f24d7a6cf,49.250.32.87,japan,zh-CN,Windows 8.1,jp,suginami-ku,tokyo,35.706,139.635,zh-CN
+2.01712E+19,e9b9ddc4-c183-487b-9994-709f24d7a6cf,49.250.32.87,japan,zh-CN,Windows 8.1,jp,suginami-ku,tokyo,35.706,139.635,zh-CN
+2.01712E+19,e9ca8bc5-fb54-4e2b-bdc7-f0f87953080e,143.189.178.88,japan,zh-CN,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,zh-CN
+2.01712E+19,0e265abb-f888-40ec-96bc-5b00556003c3,153.181.79.35,japan,zh-CN,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,zh-CN
+2.01712E+19,fb3fb5bc-ee6b-4a25-8fca-d5f589e05772,219.110.253.9,japan,zh-CN,Windows 8.1,jp,chiyoda-ku,tokyo,35.691,139.769,zh-CN
+2.01712E+19,6cd32dfa-26b6-444b-ba08-850505fcf5fc,180.29.228.66,japan,zh-CN,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,zh-CN
+2.01712E+19,6cd32dfa-26b6-444b-ba08-850505fcf5fc,180.29.228.66,japan,zh-CN,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,zh-CN
+2.01712E+19,725783ec-49a4-4e58-a59b-18d620b3185f,222.168.216.193,china,zh-CN,Windows 8.1,cn,tonghua,jilin,41.714,125.934,zh-CN
+2.01712E+19,213d4988-3a27-4666-a48d-11c092d789f5,153.133.198.85,japan,zh-CN,Windows 8.1,jp,nakagyo-ku,kyoto,35.017,135.758,zh-CN
+2.01712E+19,213d4988-3a27-4666-a48d-11c092d789f5,153.133.198.85,japan,zh-CN,Windows 8.1,jp,nakagyo-ku,kyoto,35.017,135.758,zh-CN
+2.01712E+19,9d5f6e8d-8d96-4511-855d-577bc5047660,121.115.9.217,japan,zh-CN,Windows 8.1,jp,aomori-shi,aomori,40.804,140.727,zh-CN
+2.01712E+19,3ed7835f-9fb4-445d-a0bf-f218819c7a7d,133.204.241.173,japan,zh-CN,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,zh-CN
+2.01712E+19,b1149149-408f-4cbb-acdf-4767b4c32346,114.164.27.160,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,4805cd30-93fb-453d-aa97-dd6d343416bd,27.94.97.88,japan,zh-CN,Windows 8.1,jp,shinjuku-ku,tokyo,35.693,139.724,zh-CN
+2.01712E+19,4805cd30-93fb-453d-aa97-dd6d343416bd,27.94.97.88,japan,zh-CN,Windows 8.1,jp,shinjuku-ku,tokyo,35.693,139.724,zh-CN
+2.01712E+19,0d84ef3a-98c6-4b2e-806c-98ca3a002e77,114.183.165.135,japan,zh-CN,Windows 8.1,jp,kofu,yamanashi,35.685,138.56,zh-CN
+2.01712E+19,0d84ef3a-98c6-4b2e-806c-98ca3a002e77,114.183.165.135,japan,zh-CN,Windows 8.1,jp,kofu,yamanashi,35.685,138.56,zh-CN
+2.01712E+19,8d9d5bab-d963-45aa-a772-d11695974ad7,60.134.79.251,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,b5da9ddc-980a-426b-8d3a-a745b5d0de29,153.130.181.238,japan,zh-CN,Windows 8.1,jp,shizuoka-shi,shizuoka,35.013,138.42,zh-CN
+2.01712E+19,9aef890d-691a-447b-8599-ee48b583a04f,133.149.193.220,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,bcef933b-c0c2-4036-a011-913644c7ea37,210.163.222.63,japan,zh-CN,Windows 8.1,jp,chiyoda-ku,tokyo,35.691,139.769,zh-CN
+2.01712E+19,bcef933b-c0c2-4036-a011-913644c7ea37,210.163.222.63,japan,zh-CN,Windows 8.1,jp,chiyoda-ku,tokyo,35.691,139.769,zh-CN
+2.01712E+19,1e7baaf4-e0c4-483d-85de-3dc813962d0a,122.20.196.158,japan,zh-CN,Windows 8.1,jp,kagoshima-shi,kagoshima,31.562,130.523,zh-CN
+2.01712E+19,1e7baaf4-e0c4-483d-85de-3dc813962d0a,122.20.196.158,japan,zh-CN,Windows 8.1,jp,kagoshima-shi,kagoshima,31.562,130.523,zh-CN
+2.01712E+19,8d99b0dc-0aa9-406b-9209-272a5980f9b5,113.197.247.91,japan,zh-CN,Windows 8.1,jp,matsuyama,ehime,33.841,132.772,zh-CN
+2.01712E+19,8d99b0dc-0aa9-406b-9209-272a5980f9b5,113.197.247.91,japan,zh-CN,Windows 8.1,jp,matsuyama,ehime,33.841,132.772,zh-CN
+2.01712E+19,7b332d1f-0f6b-4ed9-a54b-d48f96cd892f,118.241.68.55,japan,zh-CN,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,zh-CN
+2.01712E+19,14187ac3-dcb2-46b3-93fb-2ef9dbf5d9af,113.146.22.181,japan,zh-CN,Windows 8.1,jp,koshigaya,saitama,35.942,139.785,zh-CN
+2.01712E+19,eab37d09-1efe-44af-9070-e51ea6630194,221.77.179.164,japan,zh-CN,Windows 8.1,jp,nagasaki-shi,nagasaki,32.765,129.889,zh-CN
+2.01712E+19,edd4806b-42b4-49d4-82a9-e94bcc5f6946,153.140.245.96,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01712E+19,e771cecf-fde8-41e2-bbf9-5976d08eb900,114.160.241.134,japan,zh-CN,Windows 8.1,jp,nakamura-ku,aichi,35.173,136.89,zh-CN
+2.01712E+19,16e35e88-a02b-47b7-a50b-57c0b817d118,106.172.133.172,japan,zh-CN,Windows 8.1,jp,higashi-ku (hiroshima),hiroshima,34.44,132.49,zh-CN
+2.01712E+19,9c554848-ddf3-4308-9b19-409b6b1bb844,153.195.123.237,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,86b63a73-9255-45a2-9bda-0d021f231d08,122.25.56.78,japan,zh-CN,Windows 8.1,jp,soka,saitama,35.826,139.805,zh-CN
+2.01712E+19,86b63a73-9255-45a2-9bda-0d021f231d08,122.25.56.78,japan,zh-CN,Windows 8.1,jp,soka,saitama,35.826,139.805,zh-CN
+2.01712E+19,2c430c76-66ee-4ecb-bee9-a27542279672,60.119.98.240,japan,zh-CN,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,zh-CN
+2.01712E+19,f4561e5c-2e98-4894-92bd-8660b792615c,220.23.89.149,japan,zh-CN,Windows 8.1,jp,gifu-shi,gifu,35.411,136.713,zh-CN
+2.01712E+19,f9cb702e-7642-43a0-852e-ddb0f112c422,153.220.194.86,japan,zh-CN,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,zh-CN
+2.01712E+19,aea30560-4535-4e53-9ddd-1a634d1fa2a2,114.142.42.34,japan,zh-CN,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,zh-CN
+2.01712E+19,6fc6ff51-7fca-4c9f-9c2c-f21e915ac143,203.139.13.224,japan,zh-CN,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,zh-CN
+2.01712E+19,c11a1dbb-0f8f-4ef7-84d5-b17041b44f52,114.181.41.131,japan,zh-CN,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,zh-CN
+2.01712E+19,9d9a533e-d1a5-45b8-945a-f1336ad62762,121.103.78.221,japan,zh-CN,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,zh-CN
+2.01712E+19,9d9a533e-d1a5-45b8-945a-f1336ad62762,121.103.78.221,japan,zh-CN,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,zh-CN
+2.01712E+19,19b3374e-9be7-4997-a906-30dfee8a7922,222.225.21.128,japan,zh-CN,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,
+2.01712E+19,59c8fb7d-3487-4e8b-bee6-d387f8e5ea0e,115.179.223.10,japan,en-US,Windows 7,jp,nagoya,aichi,35.149,136.919,en-US
+2.01712E+19,59c8fb7d-3487-4e8b-bee6-d387f8e5ea0e,115.179.223.10,japan,en-US,Windows 7,jp,nagoya,aichi,35.149,136.919,en-US
+2.01712E+19,7b9cc6f4-ffd1-4431-889c-e025fa5a06fe,153.156.191.9,japan,ja,Windows Vista,jp,kita-ku (osaka),osaka,34.693,135.494,ja
+2.01712E+19,7b9cc6f4-ffd1-4431-889c-e025fa5a06fe,153.156.191.9,japan,ja,Windows Vista,jp,kita-ku (osaka),osaka,34.693,135.494,
+2.01712E+19,59c8fb7d-3487-4e8b-bee6-d387f8e5ea0e,115.179.223.10,japan,en-US,Windows 7,jp,nagoya,aichi,35.149,136.919,en-US
+2.01712E+19,6ba91261-d7d7-4f4d-9665-491e0c3d83ea,121.116.127.51,japan,zh-CN,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,zh-CN
+2.01712E+19,ec7a63bf-2961-4642-917d-f84293633385,59.139.204.156,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01712E+19,ec7a63bf-2961-4642-917d-f84293633385,59.139.204.156,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01712E+19,89494f29-8ec5-4bf0-bfc9-5f749de7cb32,153.191.96.91,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01712E+19,4a83f7ef-0296-465b-af05-395ba1ed5a11,58.183.41.85,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01712E+19,4a83f7ef-0296-465b-af05-395ba1ed5a11,58.183.41.85,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01712E+19,a1e7ecf1-85dc-4f14-8257-2fc79dd5f96b,116.91.135.171,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja
+2.01712E+19,7d3c8f01-a8af-4c2d-82fa-b9a0bd60a751,126.169.60.75,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,7d3c8f01-a8af-4c2d-82fa-b9a0bd60a751,126.169.60.75,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,87b760cb-1fa9-47d7-a431-b797b1d5b609,121.118.8.32,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01712E+19,842acdc1-244f-44f7-a4f2-55dc6fd9e3e1,60.135.206.84,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,842acdc1-244f-44f7-a4f2-55dc6fd9e3e1,60.135.206.84,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,842acdc1-244f-44f7-a4f2-55dc6fd9e3e1,60.135.206.84,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,842acdc1-244f-44f7-a4f2-55dc6fd9e3e1,60.135.206.84,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,e51738c3-89ac-441c-8a5f-f5fad7a77ab7,60.100.239.247,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,e51738c3-89ac-441c-8a5f-f5fad7a77ab7,60.100.239.247,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,333a28a3-120a-4368-9502-1729077076d9,180.196.34.246,japan,ja,Windows 8.1,jp,toyohashi,aichi,34.798,137.412,ja
+2.01712E+19,44cf1f79-14c2-4d15-b50e-6dec61e075ba,60.144.247.236,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,b1757017-2aa0-4dcc-b7bb-ce7f587e541f,122.251.191.15,japan,ja,Windows 8.1,jp,ube-shi,yamaguchi,34.117,131.32,ja
+2.01712E+19,429c8e45-9604-4e74-8e3f-587d1113dc4e,219.110.58.23,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01712E+19,9430c958-a678-4ffc-a603-d3acd4364ab8,14.11.144.96,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01712E+19,703e91ec-7189-4494-8e82-c3092051fcc0,124.213.138.102,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,43969a9a-85ea-43da-8712-45e30e0032b7,60.119.114.26,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,2dbc10f0-781a-408d-a0c2-38b0e68240a0,122.19.94.50,japan,ja,Windows 8.1,jp,otsu,shiga,35.046,135.864,ja
+2.01712E+19,68207052-c0fa-47ca-82a3-0a38b51e3285,117.74.30.98,japan,ja,Windows 8.1,jp,kariya,aichi,34.976,137.028,ja
+2.01712E+19,09664fbf-4623-475f-ac05-ce1825737fac,133.218.205.48,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01712E+19,09664fbf-4623-475f-ac05-ce1825737fac,133.218.205.48,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01712E+19,01c461c3-5c32-4ef0-8044-3c0ce32609d1,182.164.203.9,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,01c461c3-5c32-4ef0-8044-3c0ce32609d1,182.164.203.9,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,a500f5e1-6719-4696-81b7-7f735b8b3b9f,121.114.208.161,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01712E+19,d0794554-aad6-4071-a0cb-c65e1f8f94f0,153.196.153.41,japan,ja,Windows 8.1,jp,matsuyama,ehime,33.841,132.772,ja
+2.01801E+19,9b78dcf6-e546-4baf-af49-dc1ec8197f0d,60.42.171.133,japan,ja,Windows 8.1,jp,kumamoto-shi,kumamoto,32.807,130.709,ja
+2.01801E+19,1837010a-f749-4ac0-9eb4-f1b00d888253,110.54.2.58,Japan,ja,Windows 8.1,,Fukuoka,Fukuoka,33.606,130.418,ja
+2.01801E+19,026a39ee-43c2-4dcb-9ef0-f872e9dbcbb1,60.130.77.180,Japan,ja,Windows 8.1,,Habikino,？saka,34.534,135.583,ja
+2.01801E+19,026a39ee-43c2-4dcb-9ef0-f872e9dbcbb1,60.130.77.180,Japan,ja,Windows 8.1,,Habikino,？saka,34.534,135.583,ja
+2.01801E+19,6df63cff-6bb6-4a15-9cc5-5f0ca40cfc08,27.121.237.175,japan,ja,Windows 8.1,jp,narita,chiba,35.766,140.38,ja
+2.01803E+19,a593759b-f1df-4892-b141-299aacad7ad2,118.16.255.227,japan,ja,Windows 8.1,jp,toyama-shi,toyama,36.701,137.214,ja
+2.01804E+19,3a1dd362-eb02-4047-9e5e-8282668b4ab2,27.81.43.139,japan,ja,Windows 8.1,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.01804E+19,ddf3c02d-741f-4154-8e31-496542355354,60.46.231.84,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01804E+19,ddf3c02d-741f-4154-8e31-496542355354,60.46.231.84,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01804E+19,96e8e61f-c214-46f1-8075-6042da2a326e,115.163.183.154,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,96e8e61f-c214-46f1-8075-6042da2a326e,115.163.183.154,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,86078c45-6232-4dba-abe1-9276bd1fd999,133.204.232.7,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01804E+19,63f355a3-a271-40c4-86a7-f8a663f4a96e,220.108.18.67,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01804E+19,3cd86e76-6595-4b72-bf95-9221300b14eb,121.119.22.50,japan,ja,Windows 8.1,jp,iwaki,fukushima,37.065,140.938,ja
+2.01804E+19,2df53ea3-6d2b-4f70-a8c4-fba206f3331a,118.2.97.229,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01804E+19,b07e2eb0-23d9-4650-b70c-73ac6a1b3185,60.239.251.188,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,0f830485-654f-4ee1-8751-9c30db7fdbb7,14.133.173.29,japan,ja,Windows 8.1,jp,tsu-shi,mie,34.804,136.552,ja
+2.01804E+19,0f830485-654f-4ee1-8751-9c30db7fdbb7,14.133.173.29,japan,ja,Windows 8.1,jp,tsu-shi,mie,34.804,136.552,ja
+2.01804E+19,c2dfd849-4d93-4809-b4b8-2431dce27408,210.161.187.190,japan,ja,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,ja
+2.01804E+19,099253aa-41d0-42b7-8c91-f7252cfd6d96,121.111.146.32,japan,ja,Windows 8.1,jp,shinjuku-ku,tokyo,35.693,139.724,ja
+2.01804E+19,a4776370-71a3-45a3-87c0-ab9cde70ae2d,60.42.0.103,japan,ja,Windows 8.1,jp,oita-shi,oita,33.248,131.581,ja
+2.01804E+19,a4776370-71a3-45a3-87c0-ab9cde70ae2d,60.42.0.103,japan,ja,Windows 8.1,jp,oita-shi,oita,33.248,131.581,ja
+2.01804E+19,e4a74815-d770-464b-9bce-dd077db70e88,180.18.199.205,japan,ja,Windows 8.1,jp,matsuyama,ehime,33.841,132.772,ja
+2.01804E+19,cc769aa9-6291-4281-bb5b-fdd9ffba109a,219.160.179.245,japan,ja,Windows 8.1,jp,shizuoka-shi,shizuoka,35.013,138.42,ja
+2.01804E+19,51f4f9ea-9bd2-4be0-bb6a-91b12e077464,58.91.81.176,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01804E+19,b2a665e9-56dc-40e7-9eab-fe8022c6f794,153.165.63.231,japan,ja,Windows 8.1,jp,utsunomiya,tochigi,36.561,139.853,ja
+2.01804E+19,4afaedd1-4a00-4b28-85f9-6d3bdad8f6a4,153.223.65.239,japan,ja,Windows 8.1,jp,soka,saitama,35.826,139.805,ja
+2.01804E+19,4afaedd1-4a00-4b28-85f9-6d3bdad8f6a4,153.223.65.239,japan,ja,Windows 8.1,jp,soka,saitama,35.826,139.805,ja
+2.01804E+19,9e723027-7aee-42b6-9810-ef115a675c9a,27.92.159.54,japan,ja,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01804E+19,0d712042-abab-4a5d-8b6e-fde039037eb7,60.117.78.169,japan,zh-CN,iOS,jp,tokyo,tokyo,35.696,139.739,zh-CN
+2.01804E+19,bfc9d357-1ac1-4230-8bb7-9d2de13cbbac,119.245.5.66,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01804E+19,bfc9d357-1ac1-4230-8bb7-9d2de13cbbac,119.245.5.66,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01804E+19,6827957a-f9a0-4bed-bd97-3e1d8ffa1532,153.226.33.17,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01804E+19,6827957a-f9a0-4bed-bd97-3e1d8ffa1532,153.226.33.17,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01804E+19,bceb9e6d-c856-4a66-96f0-6553e46e0ecc,180.44.193.230,japan,ja,Windows 8.1,jp,nakagyo-ku,kyoto,35.017,135.758,ja
+2.01804E+19,c03a85a8-7750-44e0-884f-a1edc8c6e713,126.72.245.31,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,0ee94b0a-86cd-40b2-abdf-0dee08206a15,211.1.223.19,japan,ja,Windows 8.1,jp,toyota,aichi,35.247,137.54,ja
+2.01804E+19,0e301a10-a9c6-4c0c-bdce-5c0a455c10e8,121.117.162.54,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01804E+19,acd79e20-37bf-4027-80b0-d206273bec11,153.130.54.123,japan,ja,Windows 8.1,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01804E+19,acd79e20-37bf-4027-80b0-d206273bec11,153.130.54.123,japan,ja,Windows 8.1,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01804E+19,86bdeaaa-fdb1-488a-92c8-bad056dd9d53,60.34.33.205,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01804E+19,e9360778-bc2d-429f-b55d-27d579dc2e8d,218.47.109.43,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01804E+19,536163f6-0b75-4236-b9cd-8efe3c830448,114.162.51.3,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,2ff12005-90f4-4968-976b-fafbd5a9d3b9,153.160.74.32,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01804E+19,727645db-884a-4576-a3b8-7353f3f4e753,218.219.221.48,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01804E+19,596e6b89-2e95-4b90-8898-430bc1fad644,61.197.198.46,japan,ja,Windows 8.1,jp,nagasaki-shi,nagasaki,32.765,129.889,ja
+2.01804E+19,180afc86-780d-42ed-8e61-144bd46e541c,58.89.109.148,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01804E+19,180afc86-780d-42ed-8e61-144bd46e541c,58.89.109.148,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01804E+19,fe836378-46e3-40f6-b9e8-cdc659784831,125.203.14.249,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01804E+19,fe836378-46e3-40f6-b9e8-cdc659784831,125.203.14.249,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01804E+19,eae1b382-c936-4dbb-bfab-e3b9fbe42395,114.172.86.45,japan,ja,Windows 8.1,jp,nakagyo-ku,kyoto,35.017,135.758,ja
+2.01804E+19,eae1b382-c936-4dbb-bfab-e3b9fbe42395,114.172.86.45,japan,ja,Windows 8.1,jp,nakagyo-ku,kyoto,35.017,135.758,ja
+2.01804E+19,5b36f78b-ca47-4a1f-a788-02ac638b2340,220.110.3.60,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01804E+19,5b36f78b-ca47-4a1f-a788-02ac638b2340,220.110.3.60,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01804E+19,ce5f6ab9-943a-4142-9162-f71db757592c,153.222.248.144,japan,ja,Windows 8.1,jp,fukushima-shi,fukushima,37.805,140.491,ja
+2.01804E+19,ce5f6ab9-943a-4142-9162-f71db757592c,153.222.248.144,japan,ja,Windows 8.1,jp,fukushima-shi,fukushima,37.805,140.491,ja
+2.01804E+19,cb666c44-2162-4487-94f8-b88485aa0d4f,114.172.6.92,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01804E+19,050827b3-09ac-4355-899c-eae8c7b45997,114.188.152.6,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01804E+19,21ba706e-8109-44f0-8ef9-143bcc5a89bd,219.164.131.250,japan,ja,Windows 8.1,jp,morioka,iwate,39.702,141.154,ja
+2.01804E+19,21ba706e-8109-44f0-8ef9-143bcc5a89bd,219.164.131.250,japan,ja,Windows 8.1,jp,morioka,iwate,39.702,141.154,ja
+2.01804E+19,f07c8b98-908f-44ee-bf5c-9e89ecb0780e,153.201.254.183,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01804E+19,74d8edf3-2bc1-45f4-92a0-6aa329cfb61c,125.207.130.65,japan,ja,Windows 8.1,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.01804E+19,ab8c1021-09cd-41be-a690-cc9136b18546,153.187.104.213,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01804E+19,ab8c1021-09cd-41be-a690-cc9136b18546,153.187.104.213,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01804E+19,0402d5a2-2786-44c5-9aa6-1990b0db9ff3,124.146.226.139,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01804E+19,6e0fe068-bea9-48a8-ac54-140ad3ae6e44,180.17.61.72,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01804E+19,5fcb70a6-a9c3-4d92-a2f7-6a712affd390,180.47.10.149,japan,ja,Windows 8.1,jp,chuo-ku (sapporo),hokkaido,43.061,141.342,ja
+2.01804E+19,9a8c64c0-08e0-492b-b4c5-947ae56ab4cb,122.16.153.254,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,164dc232-3dc6-49c7-8da0-3cfcacae39fa,153.202.55.179,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01804E+19,3f0ad734-b10f-424b-a57a-1bb3354a9bca,153.194.58.174,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01804E+19,3f0ad734-b10f-424b-a57a-1bb3354a9bca,153.194.58.174,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01804E+19,e57ece50-6d67-43f3-9630-7d76647d0967,114.151.49.27,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01804E+19,e57ece50-6d67-43f3-9630-7d76647d0967,114.151.49.27,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01804E+19,3e7c168a-d354-4962-ba23-4a383efa9ef4,114.160.111.83,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01804E+19,ef8e677e-37df-45a6-8b41-a71baaadb4e4,180.24.103.106,japan,ja,Windows 8.1,jp,naha,okinawa,26.242,127.68,ja
+2.01804E+19,99329171-558e-47a2-8913-e65f55e00222,153.186.104.217,japan,ja,Windows 8.1,jp,matsuyama,ehime,33.841,132.772,ja
+2.01804E+19,6125d660-b40a-4f35-9a55-2fc22f117012,60.42.0.68,japan,ja,Windows 8.1,jp,oita-shi,oita,33.248,131.581,ja
+2.01804E+19,b0449a7f-04f2-4bf3-9eda-0f3b34abda05,153.165.219.173,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01804E+19,095fc326-952a-4aa1-a88b-97d0fe685c01,180.45.158.173,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01804E+19,095fc326-952a-4aa1-a88b-97d0fe685c01,180.45.158.173,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01804E+19,16adb71c-8586-4bcc-bed4-00f5b3f27041,153.181.163.27,japan,ja,Windows 8.1,jp,kumamoto-shi,kumamoto,32.807,130.709,ja
+2.01804E+19,16adb71c-8586-4bcc-bed4-00f5b3f27041,153.181.163.27,japan,ja,Windows 8.1,jp,kumamoto-shi,kumamoto,32.807,130.709,ja
+2.01804E+19,1afec3d2-2acc-4d4b-8178-e84d0e33cb7b,125.172.117.214,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01805E+19,fe6b1405-45ca-452b-b554-331a3ab886df,60.117.78.169,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01805E+19,fe6b1405-45ca-452b-b554-331a3ab886df,60.117.78.169,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01805E+19,92eef6fa-c99d-4962-8594-767a75bafc72,160.13.225.187,japan,ja,Windows 7,jp,yokkaichi,mie,34.993,136.642,ja
+2.01805E+19,92eef6fa-c99d-4962-8594-767a75bafc72,160.13.225.187,japan,ja,Windows 7,jp,yokkaichi,mie,34.993,136.642,ja
+2.01805E+19,ed40d0c6-d084-4a82-a22f-1a51c467e938,125.207.131.79,japan,ja,Windows 7,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.01805E+19,ed40d0c6-d084-4a82-a22f-1a51c467e938,125.207.131.79,japan,ja,Windows 7,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.01805E+19,e38713aa-22f8-4ee1-a96d-59627065fc7c,126.247.213.41,japan,ja-JP,iOS,jp,tokyo,tokyo,35.696,139.739,ja-JP
+2.01805E+19,73e25154-3688-4cff-a514-66d4ec525823,121.106.146.221,japan,ja,Windows 7,jp,tokyo,tokyo,35.696,139.739,ja
+2.01805E+19,accd4ab8-d196-4e6d-ae5c-2254e7548e3e,153.213.148.254,japan,ja,Windows 7,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01805E+19,accd4ab8-d196-4e6d-ae5c-2254e7548e3e,153.213.148.254,japan,ja,Windows 7,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01805E+19,4dc8fa54-8af9-4036-8d90-999a3830808f,123.219.1.241,japan,ja,Windows 7,jp,hamamatsu,shizuoka,34.782,137.747,
+2.01805E+19,aa06835a-410f-4f15-9ddf-757a4df605a1,118.243.78.21,japan,ja,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.01805E+19,281aa2f2-8875-4cc8-ae5c-6ad3ef457dbb,124.26.90.234,japan,ja,Windows 7,jp,nagoya,aichi,35.149,136.919,
+2.01805E+19,efc936b4-2e3e-4ca2-9e68-4abe6c88b0f2,126.91.186.207,japan,ja,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.01805E+19,efc936b4-2e3e-4ca2-9e68-4abe6c88b0f2,126.91.186.207,japan,ja,Windows 7,jp,tokyo,tokyo,35.696,139.739,ja
+2.01805E+19,1cad681c-85dc-429b-a1e9-52568cb731b8,222.150.154.74,japan,ja,Windows 7,jp,gifu-shi,gifu,35.411,136.713,
+2.01805E+19,1cad681c-85dc-429b-a1e9-52568cb731b8,222.150.154.74,japan,ja,Windows 7,jp,gifu-shi,gifu,35.411,136.713,ja
+2.01805E+19,cab40261-d062-41b5-a906-0df4aeb39aba,153.194.206.160,japan,ja,Windows 7,jp,osaka-shi,osaka,34.671,135.508,
+2.01805E+19,3cf35c5d-69c0-4254-b607-18b67e530490,223.219.93.158,japan,ja,Windows 7,jp,sapporo,hokkaido,43.069,141.357,
+2.01712E+19,43969a9a-85ea-43da-8712-45e30e0032b7,60.119.114.26,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,b91a9ee3-7f62-4dd0-a5fe-5b1f79903fe9,118.18.10.196,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,a3fc6a29-ff17-4085-acfd-ba761a3ebd17,111.216.206.223,japan,ja,Windows 8.1,jp,yamagata-shi,yamagata,38.286,140.321,ja
+2.01712E+19,d53cc19a-c51d-411c-b564-1230623e7081,203.104.117.134,japan,ja,Windows 8.1,jp,kani,gifu,35.458,137.093,ja
+2.01712E+19,6470b407-3304-406e-8298-2904328647f6,219.106.101.141,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01712E+19,86574bd9-f112-49e2-9dd8-03688bebb97c,121.86.9.105,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01712E+19,d563bd30-5aa4-4a86-9df0-27b429fa262f,180.63.245.13,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,d563bd30-5aa4-4a86-9df0-27b429fa262f,180.63.245.13,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,f043fc5d-2623-4fa1-bba8-d3b71b0806e8,182.164.15.113,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01712E+19,82c32e33-7a3f-4630-830f-691700c2e922,114.158.126.132,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01712E+19,baede23f-c0c5-4a52-9ce1-890aa5394c77,183.76.114.130,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,baede23f-c0c5-4a52-9ce1-890aa5394c77,183.76.114.130,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,c0d86005-4bd4-40f7-bad9-82fe42872a06,126.34.50.8,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,c0d86005-4bd4-40f7-bad9-82fe42872a06,126.34.50.8,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,c0d86005-4bd4-40f7-bad9-82fe42872a06,126.34.50.8,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,7f8f2d93-f4b9-45cd-a82b-2c760b7f50dc,114.144.1.69,japan,ja,Windows 8.1,jp,tokushima-shi,tokushima,34.099,134.529,ja
+2.01712E+19,7f8f2d93-f4b9-45cd-a82b-2c760b7f50dc,114.144.1.69,japan,ja,Windows 8.1,jp,tokushima-shi,tokushima,34.099,134.529,ja
+2.01712E+19,894781c2-21c1-4c94-83eb-f9ff36179961,116.64.206.15,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,d847e8bb-1416-4a0d-b615-f5dc86ac5912,118.241.80.180,japan,ja,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,ja
+2.01712E+19,cc5b9ffc-3d17-4623-b2cb-9f7dd8710810,153.156.83.207,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01712E+19,cc5b9ffc-3d17-4623-b2cb-9f7dd8710810,153.156.83.207,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01712E+19,efd33fff-3359-4c54-b656-7fa8f233a647,150.249.122.133,japan,ja,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,ja
+2.01712E+19,e72c1a8a-0b34-46c0-96dd-000b958732b0,27.137.0.17,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01712E+19,e72c1a8a-0b34-46c0-96dd-000b958732b0,27.137.0.17,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01712E+19,de3e3129-74b1-448c-9f29-5baaab2532ca,203.139.62.201,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01712E+19,a662c252-fe54-479e-903d-5de4a53aaa16,124.159.161.122,japan,ja,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,ja
+2.01712E+19,a662c252-fe54-479e-903d-5de4a53aaa16,124.159.161.122,japan,ja,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,ja
+2.01712E+19,db780124-10a2-4f7d-b60f-c3e69acbfa80,58.190.175.60,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01712E+19,57bbea3e-ceee-4fac-b4a8-16e84d69c2fd,124.87.102.186,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01712E+19,b563c1c2-38fe-4053-8032-da2417c4c5d6,202.232.184.25,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01712E+19,80dc8e6d-e56c-4d05-b824-11e241b99afa,202.247.34.232,japan,ja,Windows 8.1,jp,shizuoka-shi,shizuoka,35.013,138.42,ja
+2.01712E+19,80dc8e6d-e56c-4d05-b824-11e241b99afa,202.247.34.232,japan,ja,Windows 8.1,jp,shizuoka-shi,shizuoka,35.013,138.42,ja
+2.01712E+19,80dc8e6d-e56c-4d05-b824-11e241b99afa,202.247.34.232,japan,ja,Windows 8.1,jp,shizuoka-shi,shizuoka,35.013,138.42,ja
+2.01712E+19,80dc8e6d-e56c-4d05-b824-11e241b99afa,202.247.34.232,japan,ja,Windows 8.1,jp,shizuoka-shi,shizuoka,35.013,138.42,ja
+2.01712E+19,c8ceeb54-ad4e-41ac-b7b4-5c64d060a581,14.132.254.112,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.167,136.897,ja
+2.01712E+19,00f287db-ead7-449f-90da-ccc8fb9fe5f8,59.147.172.160,japan,ja,Windows 8.1,jp,aomori-shi,aomori,40.804,140.727,ja
+2.01712E+19,3a132a2b-50ba-4d4b-943d-cf49f656dee5,126.83.118.233,japan,ja,Windows 8.1,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.01712E+19,6cf1eba3-c545-4b0c-a2de-75ee61c9b73c,150.100.253.98,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,d8c9af8d-c0a3-4f4d-8c3c-9860b18563dd,180.51.22.92,japan,ja,Windows 8.1,jp,beppu,oita,33.348,131.496,ja
+2.01801E+19,ffac0dcc-cf19-497b-8063-d5706b61e113,153.133.212.224,japan,ja,Windows 8.1,jp,nakagyo-ku,kyoto,35.017,135.758,ja
+2.01801E+19,6002f269-c6e1-48c9-8b16-3a2d7678d637,122.214.118.71,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01801E+19,71771ea5-8b41-4620-9624-fbcb89f5f088,115.177.194.245,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01801E+19,71771ea5-8b41-4620-9624-fbcb89f5f088,115.177.194.245,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01801E+19,341d5dc3-ac22-4327-82f4-ae2e2f6b0774,126.150.127.177,Japan,ja,Windows 8.1,,Tokyo,Tokyo,35.643,139.768,ja
+2.01801E+19,a2b4a8ea-7b72-4ec9-858c-22a395b3e7be,118.106.241.57,Japan,ja,Windows 8.1,,Seto,Aichi,35.233,137.1,ja
+2.01801E+19,a2b4a8ea-7b72-4ec9-858c-22a395b3e7be,118.106.241.57,Japan,ja,Windows 8.1,,Seto,Aichi,35.233,137.1,ja
+2.01801E+19,94d20806-5a42-49ea-8515-b7d167da634e,221.171.239.47,Japan,ja,Windows 8.1,,Fukuoka,Fukuoka,33.606,130.418,ja
+2.01801E+19,94d20806-5a42-49ea-8515-b7d167da634e,221.171.239.47,Japan,ja,Windows 8.1,,Fukuoka,Fukuoka,33.606,130.418,ja
+2.01801E+19,94d20806-5a42-49ea-8515-b7d167da634e,221.171.239.47,Japan,ja,Windows 8.1,,Fukuoka,Fukuoka,33.606,130.418,ja
+2.01801E+19,94d20806-5a42-49ea-8515-b7d167da634e,223.216.170.107,Japan,ja,Windows 8.1,,Matsuyama,Ehime,33.842,132.766,ja
+2.01801E+19,e4db5486-94f6-44e3-832d-1cd1464e0577,121.115.4.94,Japan,ja,Windows 8.1,,Aomori,Aomori,40.824,140.74,ja
+2.01801E+19,e4db5486-94f6-44e3-832d-1cd1464e0577,121.115.4.94,Japan,ja,Windows 8.1,,Aomori,Aomori,40.824,140.74,ja
+2.01801E+19,a74a3179-eb99-489d-ba3d-d8a8c34bca63,123.48.48.215,Japan,ja,Windows 8.1,,Nagoya,Aichi,35.18,136.907,ja
+2.01801E+19,a4cda75e-280e-4571-b0d9-3cea67127573,126.142.158.38,Japan,ja,Windows 8.1,,Kyoto,Kyoto,35.021,135.756,ja
+2.01801E+19,9f6fe374-1003-4031-a719-81d3163ac5e6,153.232.64.203,Japan,ja,Windows 8.1,,,Tokyo,35.717,139.747,ja
+2.01801E+19,8da4ed1b-0d28-4823-a709-fc43d289399b,60.100.220.189,Japan,ja,Windows 8.1,,,,35.69,139.69,ja
+2.01801E+19,8da4ed1b-0d28-4823-a709-fc43d289399b,60.100.220.189,Japan,ja,Windows 8.1,,,,35.69,139.69,ja
+2.01801E+19,52565ada-765f-4732-b6ab-d428e8db02d2,218.228.138.196,Japan,ja,Windows 8.1,,Neyagawa,？saka,34.75,135.633,ja
+2.01801E+19,6f7de017-52f3-46e6-b8be-4a5b842e8be6,118.243.239.237,Japan,ja,Windows 8.1,,Saitama,Saitama,35.857,139.649,ja
+2.01801E+19,6f7de017-52f3-46e6-b8be-4a5b842e8be6,118.243.239.237,Japan,ja,Windows 8.1,,Saitama,Saitama,35.857,139.649,ja
+2.01801E+19,,,,,,,,,0,0,
+2.01801E+19,6926406a-432d-41c9-b5bf-4d674791d948,45.41.135.150,Japan,ja,Windows 8.1,,Tokyo,Tokyo,35.643,139.768,ja
+2.01801E+19,6926406a-432d-41c9-b5bf-4d674791d948,45.41.135.150,Japan,ja,Windows 8.1,,Tokyo,Tokyo,35.643,139.768,ja
+2.01801E+19,6926406a-432d-41c9-b5bf-4d674791d948,45.41.135.150,Japan,ja,Windows 8.1,,Tokyo,Tokyo,35.643,139.768,ja
+2.01801E+19,b9043984-fa57-4824-b062-1d233f6375e2,223.216.133.14,Japan,ja,Windows 8.1,,Iwata,Shizuoka,34.7,137.85,ja
+2.01801E+19,690021b9-eeff-470e-a2e7-eb1ab9e9493f,60.130.45.241,Japan,ja,Windows 8.1,,,,35.69,139.69,ja
+2.01801E+19,690021b9-eeff-470e-a2e7-eb1ab9e9493f,60.130.45.241,Japan,ja,Windows 8.1,,,,35.69,139.69,ja
+2.01801E+19,f20fe2d2-8a46-4c24-8aed-58458364d221,60.101.191.221,Japan,ja,Windows 8.1,,Tokyo,Tokyo,35.643,139.768,ja
+2.01801E+19,a46e3eae-add4-4c7e-84f6-06d2ce7f5b97,126.36.147.123,Japan,ja,Windows 8.1,,Minamiashigara,Kanagawa,35.32,139.11,ja
+2.01801E+19,46ed356b-9a99-4069-aa4f-8fb26c9e07d7,60.107.47.102,Japan,ja,Windows 8.1,,,,35.69,139.69,ja
+2.01801E+19,70fa7b4d-085d-4811-886f-1eb2fb73da30,124.39.86.122,Japan,ja,Windows 8.1,,Tokyo,Tokyo,35.643,139.768,ja
+2.01801E+19,d2c4f278-9c1f-4b70-8bbe-b373bd471b64,126.93.118.229,Japan,ja,Windows 8.1,,,,35.643,139.768,ja
+2.01801E+19,6bf499a0-ef3e-4868-a5d3-ac0569ac70bd,219.42.202.1,Japan,ja,Windows 8.1,,Kawasaki,Kanagawa,35.521,139.717,ja
+2.01801E+19,6bf499a0-ef3e-4868-a5d3-ac0569ac70bd,219.42.202.1,Japan,ja,Windows 8.1,,Kawasaki,Kanagawa,35.521,139.717,ja
+2.01801E+19,ec94f0de-e6ea-4072-a518-fcd029adc46f,120.50.234.19,Japan,ja,Windows 8.1,,Iga,Mie,34.774,136.13,ja
+2.01801E+19,ec94f0de-e6ea-4072-a518-fcd029adc46f,120.50.234.19,Japan,ja,Windows 8.1,,Iga,Mie,34.774,136.13,ja
+2.01801E+19,267e3dc0-540e-4155-b11c-fc87ae11e036,222.14.213.139,Japan,ja,Windows 8.1,,Uruma,Okinawa,26.376,127.859,ja
+2.01801E+19,b3a76c1f-85b9-4b03-9367-aa70c2ae8686,219.100.41.189,Japan,ja,Windows 8.1,,,,35.69,139.69,ja
+2.01801E+19,cb224684-777f-4d61-926a-6cf022e3fc7e,219.5.174.47,Japan,ja,Windows 8.1,,Tokyo,Tokyo,35.643,139.768,ja
+2.01801E+19,75819aa9-872a-45c9-a560-6143b0652b4f,219.99.9.202,Japan,ja,Windows 8.1,,Obu,Aichi,35,136.967,ja
+2.01801E+19,26ec1e6e-5159-4bfe-a8b1-b1ad66195346,60.158.30.48,Japan,ja,Windows 8.1,,Aomori,Aomori,40.824,140.74,ja
+2.01801E+19,e0906d25-ac41-4d92-b0bf-9562ae9587cf,124.255.122.26,Japan,ja,Windows 8.1,,Kokubunji,Tokyo,35.702,139.476,ja
+2.01801E+19,49732350-41a0-42a4-9a21-70e7143fba78,125.193.145.151,Japan,ja,Windows 8.1,,Yokohama,Kanagawa,35.448,139.642,ja
+2.01801E+19,49732350-41a0-42a4-9a21-70e7143fba78,125.193.145.151,Japan,ja,Windows 8.1,,Yokohama,Kanagawa,35.448,139.642,ja
+2.01801E+19,31fc51d5-4cc5-472d-9509-f7cfc6863692,126.54.214.128,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,d187b6be-3f62-4045-aad1-a94c728cd952,182.168.46.97,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01801E+19,17153931-8be0-46e4-815b-28cc91a4cd7c,118.104.10.61,japan,ja,Windows 8.1,jp,ichinomiya,aichi,35.332,136.836,ja
+2.01801E+19,fb6421ba-935a-43df-b5ec-4fbc7221773a,121.104.176.228,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01801E+19,20ef4a04-7b69-400a-a698-a75cceb2dc3c,60.100.210.45,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,a7003858-62e7-499c-a7c4-165e4d421199,58.95.141.135,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01801E+19,173fc1c8-6bfc-4e38-a3fe-8fb79db7b6fd,58.93.236.207,japan,ja,Windows 8.1,jp,takasaki,gunma,36.278,139.003,ja
+2.01801E+19,03fc8118-e397-46ba-887d-3089af7a0354,119.238.242.105,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,
+2.01801E+19,944bfc41-7b19-44e7-b483-2e7422d26d9d,180.146.234.10,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01801E+19,a411681b-caf1-4c9a-ad58-85c07310bdf8,124.18.6.146,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01801E+19,df40c1d0-51e2-4abf-a5ae-7faec59b1fa6,114.150.38.95,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,df40c1d0-51e2-4abf-a5ae-7faec59b1fa6,114.150.38.95,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,59133b3a-c281-4d7e-9505-3045216e2d54,202.225.164.131,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01801E+19,59133b3a-c281-4d7e-9505-3045216e2d54,202.225.164.131,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01801E+19,202986e0-dcf8-4ecd-8f6b-2ded581771d3,115.30.191.19,japan,ja,Windows 8.1,jp,yawatahama,ehime,33.465,132.423,ja
+2.01801E+19,202986e0-dcf8-4ecd-8f6b-2ded581771d3,115.30.191.19,japan,ja,Windows 8.1,jp,yawatahama,ehime,33.465,132.423,ja
+2.01801E+19,09f18248-ca5a-48f7-9081-0f9326d8c153,118.109.95.83,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,e6663071-31b2-4067-9f5f-cf8e987bbea9,180.2.63.44,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01801E+19,1bf9f9ab-6f69-4516-98a7-75289868e47c,101.1.230.221,japan,ja,Windows 8.1,jp,kasuga,fukuoka,33.533,130.47,ja
+2.01801E+19,37646658-237a-4798-93b1-b412b7628556,122.22.58.133,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,
+2.01801E+19,37646658-237a-4798-93b1-b412b7628556,122.22.58.133,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,
+2.01801E+19,33641b2b-03e2-4f67-b36b-de0634893574,119.104.0.75,japan,ja,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.01801E+19,33641b2b-03e2-4f67-b36b-de0634893574,119.104.0.75,japan,ja,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.01801E+19,e2626d85-d2b0-438d-9ee1-ba518802f12b,175.135.179.188,japan,ja,Windows 8.1,jp,natori,miyagi,38.172,140.892,
+2.01801E+19,9104dd2a-9519-4ec7-9dd6-c7aacc2f0e9a,223.217.217.80,japan,ja,Windows 8.1,jp,toyama-shi,toyama,36.701,137.214,ja
+2.01801E+19,9104dd2a-9519-4ec7-9dd6-c7aacc2f0e9a,223.217.217.80,japan,ja,Windows 8.1,jp,toyama-shi,toyama,36.701,137.214,ja
+2.01801E+19,b4e1c0da-c5aa-40ab-88e3-8312177d6806,182.158.80.6,japan,ja,Windows 8.1,jp,yamagata-shi,yamagata,38.286,140.321,ja
+2.01801E+19,b4e1c0da-c5aa-40ab-88e3-8312177d6806,182.158.80.6,japan,ja,Windows 8.1,jp,yamagata-shi,yamagata,38.286,140.321,ja
+2.01801E+19,ac2f082d-ccd6-4306-89ef-f6c79adcf24c,202.189.199.114,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja
+2.01801E+19,3e1f4157-2ace-4055-a174-5a2001a85277,182.158.128.29,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01801E+19,3e1f4157-2ace-4055-a174-5a2001a85277,182.158.128.29,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01801E+19,15cd3a85-d17a-4294-b5cf-10600fb3327d,111.105.163.75,japan,ja,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01801E+19,a66630df-e192-4223-849d-b9b2842d27da,123.230.15.49,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.663,139.761,ja
+2.01801E+19,d1db1fec-f9c8-4f8e-9139-f3faecd4ccb4,60.86.132.196,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01801E+19,d1db1fec-f9c8-4f8e-9139-f3faecd4ccb4,60.86.132.196,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01801E+19,3512ab0d-0e6c-4258-87cf-8541a011376e,131.129.140.158,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01801E+19,33b96286-02fd-4e51-87fb-f575156c07b8,218.251.39.84,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01801E+19,9284636c-353a-4e36-bb4a-702bbaf55b08,61.213.104.26,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01801E+19,82e23300-ce4e-48bd-a01d-a6d5c7263171,122.217.0.235,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja
+2.01801E+19,82e23300-ce4e-48bd-a01d-a6d5c7263171,122.217.0.235,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja
+2.01801E+19,088c4197-cfcb-474e-a959-f75881db8f4b,113.146.59.198,japan,ja,Windows 8.1,jp,warabi,saitama,35.831,139.68,ja
+2.01801E+19,088c4197-cfcb-474e-a959-f75881db8f4b,113.146.59.198,japan,ja,Windows 8.1,jp,warabi,saitama,35.831,139.68,ja
+2.01801E+19,008efa33-fcb7-43af-b820-d5cc6fa81e10,59.190.180.17,japan,ja,Windows 8.1,jp,wakayama-shi,wakayama,34.307,135.089,ja
+2.01801E+19,008efa33-fcb7-43af-b820-d5cc6fa81e10,59.190.180.17,japan,ja,Windows 8.1,jp,wakayama-shi,wakayama,34.307,135.089,ja
+2.01801E+19,ef123890-df07-4924-bc97-b58463b7e4f2,219.17.118.213,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,5fe6d76f-7177-459e-aa67-93907da7f57d,126.7.225.213,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,308fe37b-192f-4070-88e1-90fba5acf79c,222.10.33.175,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01801E+19,2d08a1c2-1617-4db2-8551-a0877d1fa774,153.172.112.150,japan,ja,Windows 8.1,jp,akita-shi,akita,39.715,140.126,ja
+2.01801E+19,554edcf4-6862-48e2-b58c-1e867b6abf6c,124.110.165.85,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01801E+19,a8a2930c-cebd-4fe3-9ff7-ccdcc341216c,114.179.94.159,japan,ja,Windows 8.1,jp,miyazaki-shi,miyazaki,44.683,142.701,ja
+2.01801E+19,e1f644a9-5e86-46e2-9819-cfbe44fb9d4f,126.28.170.236,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,e1f644a9-5e86-46e2-9819-cfbe44fb9d4f,126.28.170.236,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,1cfe5c0f-487d-4409-8998-153f988987c9,61.22.197.11,japan,ja,Windows 8.1,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.01801E+19,b2b41bb0-1dde-4555-a8ad-1dceedb44327,126.79.5.38,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,2559825a-2557-489d-8089-3b6bf3547050,126.81.123.193,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,956aa237-0053-41b5-aed5-45114c8a5d9c,126.27.223.11,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,07c02db4-173c-4a60-a180-8c9629a40e37,121.102.102.235,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01801E+19,aa8fde28-7042-489b-a958-a8600fda1271,60.99.131.146,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01801E+19,6e2e2a0c-c89e-4c86-9512-63d30bd8ab36,27.132.119.64,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01801E+19,9bf6463e-42ed-496d-a290-8d25f04c8363,183.76.50.46,japan,ja,Windows 8.1,jp,nagasaki-shi,nagasaki,32.765,129.889,ja
+2.01801E+19,413ea12e-f128-4593-87a1-050b4f4397d1,59.171.244.2,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01801E+19,94b390ad-d11e-4402-9c3e-a1c1b3752045,121.200.163.191,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01801E+19,12262107-3aa1-43c2-8706-d3ea0c14c266,118.104.126.249,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.167,136.897,ja
+2.01801E+19,12262107-3aa1-43c2-8706-d3ea0c14c266,118.104.126.249,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.167,136.897,ja
+2.01801E+19,8e3f8745-9260-4ad4-8fbd-5c37cd2088a3,180.57.44.85,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01801E+19,a7a7acd0-3b52-4e9e-8c4c-000657743a4d,182.236.12.104,japan,ja,Windows 8.1,jp,shinjuku-ku,tokyo,35.693,139.724,ja
+2.01801E+19,9fc08471-237d-43c5-ac5d-cafdee3c4cf4,180.28.223.16,japan,ja,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,ja
+2.01801E+19,99f7b64d-7e33-4f9e-848b-bd26bac59430,123.103.160.243,japan,ja,Windows 8.1,jp,ena-shi,gifu,35.452,137.404,ja
+2.01801E+19,f47f5d2d-42df-49ad-a7d4-7301418e8eb5,118.87.116.148,japan,ja,Windows 8.1,jp,suginami-ku,tokyo,35.706,139.635,ja
+2.01801E+19,08bc3f65-fd3d-43ca-afea-81ddbcca9276,128.53.139.129,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01801E+19,deef65b9-2d0d-41da-9092-39618faf6021,106.161.200.241,japan,ja,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01801E+19,d8faef2f-0b0b-4ba0-adb0-43dcf8af11b7,42.151.9.171,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,d8faef2f-0b0b-4ba0-adb0-43dcf8af11b7,42.151.9.171,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,1ba35468-3ded-4fc5-9a82-9f67aec86bff,180.4.115.244,japan,ja,Windows 8.1,jp,gifu-shi,gifu,35.411,136.713,ja
+2.01801E+19,bfb2360d-ac17-460a-a8f0-30d48318e677,182.22.129.39,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.663,139.761,ja
+2.01801E+19,6c371a93-5c7f-44de-9b61-6880db5e247a,36.8.217.124,japan,ja,Windows 8.1,jp,tonami,toyama,36.612,137.006,ja
+2.01801E+19,aa1b5b5a-7d10-4d0e-b101-b93b7e99470c,113.153.104.202,japan,ja,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01801E+19,e0bfc10a-f88d-4fce-9566-3ce5114b322d,60.114.169.178,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,5fd006ae-d3e5-47c6-84b8-03f77f9edd1c,124.246.160.47,japan,ja,Windows 8.1,jp,suwa,nagano,36.057,138.116,ja
+2.01801E+19,f1f15948-334f-45b5-99a9-93c361ff2b69,160.13.238.100,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,bfb70418-590c-474c-8de7-763ed78244c0,126.18.2.19,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,d7c6e166-c243-4ca9-80b2-5577eb1218fe,118.241.219.184,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01801E+19,1ec456b0-52ba-447f-9cd5-12dbce87ae67,153.184.164.102,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01801E+19,753c0263-3c34-40de-95fb-c5225c703a81,153.209.190.10,japan,ja,Windows 8.1,jp,chuo-ku (sapporo),hokkaido,43.061,141.342,ja
+2.01801E+19,73a5584b-291a-47f6-9502-a9e1e7f8fd3d,219.106.135.101,japan,ja,Windows 8.1,jp,amagasaki,hyogo,34.686,135.391,ja
+2.01801E+19,4031d0a5-9085-4832-bf0c-8fbee072db17,153.182.188.250,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01801E+19,3489f112-e568-49fd-9bc5-b25a23f1322d,114.186.52.148,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01801E+19,3489f112-e568-49fd-9bc5-b25a23f1322d,114.186.52.148,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01801E+19,10f5190d-9984-46fc-924e-04e548f49ea1,114.184.39.113,japan,ja,Windows 8.1,jp,iwaki,fukushima,37.065,140.938,ja
+2.01801E+19,37875441-4029-44d1-b2e1-fdab9cb32d3c,122.249.138.131,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01801E+19,94dcc424-65d6-4a8c-a5d7-910305755b09,60.35.236.38,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01801E+19,3dd83d86-c311-4600-9a1d-ab5691c5ee1e,153.183.175.90,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01801E+19,cfb3a7b0-f471-4a3e-b02b-5140ff3eb712,101.1.254.97,japan,ja,Windows 8.1,jp,kasuga,fukuoka,33.533,130.47,ja
+2.01801E+19,cfb3a7b0-f471-4a3e-b02b-5140ff3eb712,101.1.254.97,japan,ja,Windows 8.1,jp,kasuga,fukuoka,33.533,130.47,ja
+2.01801E+19,33f79e62-cc1f-40f9-87b8-95a0620f1dff,125.192.108.167,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,33f79e62-cc1f-40f9-87b8-95a0620f1dff,219.174.152.4,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01801E+19,83cf55c8-72ef-4553-bd65-136c8bfec061,116.220.100.168,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,9081a2d3-671c-4857-8ca4-05f02aa65534,121.115.234.20,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,9081a2d3-671c-4857-8ca4-05f02aa65534,121.115.234.20,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,39840ac3-dfbd-4b21-ac44-cc845d46dcad,27.127.173.162,japan,ja,Windows 8.1,jp,fukushima-ku,osaka,34.697,135.472,ja
+2.01801E+19,50559de7-cec4-4e01-90b2-a32671871f00,218.228.197.46,japan,ja,Windows 8.1,jp,nara-shi,nara,34.756,135.927,ja
+2.01801E+19,e88fe555-19fe-48bb-9a00-1b4fadd38096,133.87.226.25,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01801E+19,98cfcb54-ffe8-40a2-8517-0a549f0e62e9,143.189.95.201,japan,ja,Windows 8.1,jp,kanagawa-ku,kanagawa,35.497,139.647,
+2.01801E+19,61c7017e-df3e-4874-92f5-5c5dba1992d4,27.135.212.1,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,
+2.01801E+19,6fa7ab3f-82e3-4907-8bbd-2e6b113f8336,210.228.47.2,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,
+2.01801E+19,6fa7ab3f-82e3-4907-8bbd-2e6b113f8336,210.228.47.2,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01801E+19,77b2d1fc-6020-4127-a91f-42d34799fa41,118.106.145.183,japan,ja,Windows 8.1,jp,ichinomiya,aichi,35.332,136.836,
+2.01801E+19,88d199ae-bcbc-49b5-846e-3786c07a3f5f,123.219.78.237,japan,ja,Windows 8.1,jp,fukuoka-shi,fukuoka,33.585,130.381,
+2.01801E+19,9e1a02a4-d9bd-4af7-871d-ab191f8906c4,58.191.31.233,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,
+2.01801E+19,9e1a02a4-d9bd-4af7-871d-ab191f8906c4,58.191.31.233,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01801E+19,24524868-0938-4b43-832c-f4418b491a3f,14.8.104.32,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,
+2.01801E+19,c459730e-be95-4406-ad73-79cb912b3912,59.137.146.191,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01801E+19,e4ade362-1675-44f8-b890-f56f3fcb8bcb,121.83.108.134,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,
+2.01801E+19,c8c7e53c-80ba-4472-81f0-8555da137a1d,114.186.232.246,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,f69df37c-1d6d-4207-b2c9-d5b9b20b44c3,210.139.167.148,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01801E+19,f9000421-bf83-49da-bc5d-c0fb5c7dd6fc,60.125.118.30,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01801E+19,0c13e07c-935d-4151-9e4b-3d01d4a2cbe5,131.147.82.28,japan,ja,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,ja
+2.01801E+19,0c13e07c-935d-4151-9e4b-3d01d4a2cbe5,131.147.82.28,japan,ja,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,ja
+2.01801E+19,9d4d7064-957d-4601-9a3b-3ed4eabc17b9,118.21.138.137,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01801E+19,08e7a41d-035d-4eeb-b92a-9c8c7dd1bdc9,119.245.137.216,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01801E+19,da455b7f-04b2-4c74-a75f-dc5f422c116a,106.154.44.17,japan,ja,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01801E+19,cffbcae5-ecfd-48eb-9f64-7bb67635eda8,126.203.196.12,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,
+2.01801E+19,11de8733-6c27-4b7a-8d3b-8d0b5083714e,180.14.108.4,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01801E+19,5731205a-181c-47da-b4e1-4ee017213276,118.110.154.208,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01801E+19,413c6379-8dda-4745-b900-cb8296e92f28,202.59.118.49,japan,ja,Windows 8.1,jp,yonago,tottori,35.457,133.361,
+2.01801E+19,413c6379-8dda-4745-b900-cb8296e92f28,202.59.118.49,japan,ja,Windows 8.1,jp,yonago,tottori,35.457,133.361,ja
+2.01801E+19,25b8ffe6-ec42-4ecc-8d68-43044f749c21,60.128.90.71,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01801E+19,0f2d7a53-6d31-44b2-9d2a-c623132e1a5f,180.32.3.11,japan,ja,Windows 8.1,jp,naha,okinawa,26.242,127.68,ja
+2.01801E+19,8554bd9a-329d-42de-ac31-b408a9f8c04a,106.154.92.182,japan,ja,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,
+2.01802E+19,ae8a7929-099b-4eaf-8d8a-5608bdde159a,121.109.181.224,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01802E+19,f03d17f8-a1cc-42a6-a34c-cf17709bb51c,126.90.102.142,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,c9ec6e13-0dbb-42c1-9292-c4473baef879,222.149.209.12,japan,ja,Windows 8.1,jp,funabashi,chiba,35.788,140.074,ja
+2.01802E+19,aba39f06-3e5d-4464-b527-240c03909dfc,126.19.186.148,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,aba39f06-3e5d-4464-b527-240c03909dfc,126.19.186.148,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,beb1ac6e-ef51-42bb-b085-0e1271edde4a,60.110.216.164,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,beb1ac6e-ef51-42bb-b085-0e1271edde4a,60.110.216.164,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,00fddfc4-eba0-4229-8eed-598bfc670990,203.91.189.241,japan,ja,Windows 8.1,jp,higashi-ku (nagoya),aichi,35.171,136.918,
+2.01802E+19,c47ea828-25a4-4272-a4a1-e5f312e7b7fb,118.157.123.120,japan,ja,Windows 8.1,jp,kita-ku (sapporo),hokkaido,43.074,141.35,ja
+2.01802E+19,c47ea828-25a4-4272-a4a1-e5f312e7b7fb,118.157.123.120,japan,ja,Windows 8.1,jp,kita-ku (sapporo),hokkaido,43.074,141.35,ja
+2.01802E+19,ab71e6cf-05ea-4a52-9554-7c3f34e11959,124.140.29.214,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,
+2.01802E+19,100e6a5f-2a45-4ef6-a0de-ee8ecf203c89,14.12.5.0,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,
+2.01802E+19,5e650c29-ca9d-44e1-9ad8-0ba69edcc841,126.64.233.190,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01802E+19,c6b1eae2-66b0-4475-9972-e470fabc05a1,219.117.30.80,japan,ja,Windows 8.1,jp,ogaki,gifu,35.388,136.629,ja
+2.01802E+19,f247cfb2-4302-4598-a63c-f2c9adef35e5,210.234.25.213,japan,ja,Windows 8.1,jp,itabashi-ku,tokyo,35.759,139.708,
+2.01802E+19,babe8344-2418-4e8c-a346-a6f2b352b5d9,126.120.163.111,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,babe8344-2418-4e8c-a346-a6f2b352b5d9,126.120.163.111,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,70dd576c-461b-4970-a8d6-2a8407d25363,126.25.85.243,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,0c63faa5-b789-4f7b-8386-ef700643fe73,123.48.124.59,japan,ja,Windows 8.1,jp,gifu-shi,gifu,35.411,136.713,ja
+2.01802E+19,9cedc8d7-62c6-4635-85e0-a976bc878244,27.142.102.217,japan,ja,Windows 8.1,jp,sumida-ku,tokyo,35.709,139.803,ja
+2.01802E+19,9cedc8d7-62c6-4635-85e0-a976bc878244,27.142.102.217,japan,ja,Windows 8.1,jp,sumida-ku,tokyo,35.709,139.803,ja
+2.01802E+19,66d8657a-4545-44a2-91ee-d1eb92050c3c,219.107.203.84,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,
+2.01803E+19,ab7fcef2-2ccf-4f93-bdce-d324c61a07f7,133.34.33.136,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01803E+19,ab7fcef2-2ccf-4f93-bdce-d324c61a07f7,133.34.33.136,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01803E+19,95f08519-495f-4a56-b801-a5b48703c677,218.216.251.98,japan,ja,Windows 8.1,jp,kasugai,aichi,35.323,137.057,ja
+2.01803E+19,ae53076f-1c53-4ca8-802b-f7e7b37a1e38,58.89.8.143,japan,ja,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,ja
+2.01803E+19,e0fc3355-13c0-4729-8b77-f1f79624e5c0,126.82.186.211,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,176b5d60-4e7a-44bb-a8bc-808b6be62c57,222.228.110.77,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,176b5d60-4e7a-44bb-a8bc-808b6be62c57,222.228.110.77,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,dc958019-df44-49b0-9361-a31c9f7d3f27,118.110.11.237,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,e6ef0c3a-1c35-4671-91db-b4c325c82416,121.87.49.82,japan,ja,Windows 8.1,jp,kita-ku (osaka),osaka,34.693,135.494,ja
+2.01803E+19,b07e2eb0-23d9-4650-b70c-73ac6a1b3185,60.239.251.188,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,85b5efbc-4db2-4c81-b3be-6f6ac3687b30,183.177.188.137,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja
+2.01803E+19,85b5efbc-4db2-4c81-b3be-6f6ac3687b30,183.177.188.137,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja
+2.01803E+19,4828c857-137f-42d1-96d5-b34ef92934f9,183.176.38.7,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.691,139.769,ja
+2.01803E+19,71cc1eed-02a0-4f04-8ff5-03fc5a54de94,182.170.20.67,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01803E+19,71cc1eed-02a0-4f04-8ff5-03fc5a54de94,182.170.20.67,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01803E+19,bd7f76d2-22c3-4007-b1cb-ddab692cb2df,182.167.180.171,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,9f8f69c2-281d-42c3-97a1-2f1705c6b946,180.9.107.233,japan,ja,Windows 8.1,jp,shizuoka-shi,shizuoka,35.013,138.42,ja
+2.01803E+19,2f00e1b3-d774-4b88-99c6-342e9ac8bb00,180.42.132.138,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,8da8999c-4f0f-45b8-bf26-6d1d48b47dde,182.166.116.21,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,8da8999c-4f0f-45b8-bf26-6d1d48b47dde,182.166.116.21,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,b48d000a-9d02-4bec-a86c-29585cd465e9,180.58.109.169,japan,ja,Windows 8.1,jp,utsunomiya,tochigi,36.561,139.853,ja
+2.01803E+19,8d3d65b0-e6b1-4c12-a611-5ebca0dc7a33,180.21.83.55,japan,ja,Windows 8.1,jp,takamatsu,kagawa,34.353,134.026,ja
+2.01803E+19,8d3d65b0-e6b1-4c12-a611-5ebca0dc7a33,180.21.83.55,japan,ja,Windows 8.1,jp,takamatsu,kagawa,34.353,134.026,ja
+2.01803E+19,441e93ea-0d56-4acb-8b0e-067e919eeffa,182.171.96.99,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01803E+19,441e93ea-0d56-4acb-8b0e-067e919eeffa,182.171.96.99,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01803E+19,b15562fb-88cb-41ea-8a5c-d1293ef16f73,180.146.220.174,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,c89e28ed-1be1-46ec-b6ce-2a3330116bfe,180.32.0.237,japan,ja,Windows 8.1,jp,naha,okinawa,26.242,127.68,ja
+2.01803E+19,c89e28ed-1be1-46ec-b6ce-2a3330116bfe,180.32.0.237,japan,ja,Windows 8.1,jp,naha,okinawa,26.242,127.68,ja
+2.01803E+19,d1e4a777-41d7-43b8-bb40-07b9b2477239,180.35.187.25,japan,ja,Windows 8.1,jp,funabashi,chiba,35.788,140.074,ja
+2.01803E+19,35e6746f-43bc-4d0c-9a77-b3ecaa189b6d,180.38.192.178,japan,ja,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,ja
+2.01803E+19,2556f5ab-09c6-4d24-9533-53e8ce89534f,180.220.200.47,japan,ja,Windows 8.1,jp,chuo-ku (osaka),osaka,34.692,135.532,ja
+2.01803E+19,10eee7be-9c59-430d-bee9-7dedd6699f39,183.177.173.252,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01803E+19,10eee7be-9c59-430d-bee9-7dedd6699f39,183.177.173.252,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01803E+19,7732cab0-17f0-4dd0-aca3-44e692646cca,180.146.180.200,japan,ja,Windows 8.1,jp,otsu,shiga,35.046,135.864,ja
+2.01803E+19,e3fe8607-9a32-494e-b5b3-57bcce22f1cc,180.20.155.252,japan,ja,Windows 8.1,jp,matsuyama,ehime,33.841,132.772,ja
+2.01803E+19,073f482b-62ea-4345-b10b-b0e0b98af2c2,180.147.194.46,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,cf52b676-279b-4443-9c2c-207cf6c89ca8,180.11.30.173,japan,ja,Windows 8.1,jp,soka,saitama,35.826,139.805,ja
+2.01803E+19,deae8ebd-2139-48e3-aae0-a9eabb7aa8d3,180.2.87.155,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01803E+19,deae8ebd-2139-48e3-aae0-a9eabb7aa8d3,180.2.87.155,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01803E+19,ca791f64-d24a-4597-bc38-ab864ee04710,183.176.15.200,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.691,139.769,ja
+2.01803E+19,ee385716-3fa0-4787-b0a7-a1f4a3eefcf7,180.235.2.238,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,0f1f7179-e530-4db9-bfdf-3d83bf9bffe3,180.21.161.241,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01803E+19,9e697b69-eeb5-4100-ae57-cf53de9c3e75,183.177.209.114,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja
+2.01803E+19,852943e1-9d80-41ef-9ba6-766fd3986493,180.36.223.45,japan,ja,Windows 8.1,jp,takamatsu,kagawa,34.353,134.026,ja
+2.01803E+19,90c885ad-971f-400b-a02b-fbd36d3acf96,219.122.223.69,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,1913430f-ae83-481a-9587-6a306b0ff207,133.38.222.147,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01803E+19,1b396a1a-060f-41d6-8fab-94f293084300,133.218.121.209,japan,ja,Windows 8.1,jp,saga-shi,saga,33.263,130.324,ja
+2.01803E+19,e4bfb168-3fac-41fc-bab5-8497ba1e293c,133.232.133.122,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,e4bfb168-3fac-41fc-bab5-8497ba1e293c,133.232.133.122,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,0b911f4a-a7a9-42d4-abc9-766a69e7a800,180.146.159.206,japan,ja,Windows 8.1,jp,kyoto-shi,kyoto,35.005,135.752,ja
+2.01803E+19,9e76b3f6-cc4c-48d4-af5a-fcb477ba67ec,180.48.67.41,japan,ja,Windows 8.1,jp,otsu,shiga,35.046,135.864,ja
+2.01803E+19,9e76b3f6-cc4c-48d4-af5a-fcb477ba67ec,180.48.67.41,japan,ja,Windows 8.1,jp,otsu,shiga,35.046,135.864,ja
+2.01803E+19,9e441139-8448-4482-9788-1f8199a4cb52,133.155.164.111,japan,ja,Windows 8.1,jp,minoh,osaka,34.827,135.47,ja
+2.01803E+19,43b99865-35eb-4116-9728-3544b88bc36e,119.228.150.84,japan,ja,Windows 8.1,jp,kita-ku (osaka),osaka,34.693,135.494,ja
+2.01803E+19,f4ec7f62-0257-447a-a2ec-cffca19deecb,133.207.39.128,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,639c9fd0-a326-4976-88ee-4377ca97da61,153.178.81.162,japan,ja,Windows 8.1,jp,kochi-shi,kochi,33.613,133.564,ja
+2.01803E+19,639c9fd0-a326-4976-88ee-4377ca97da61,153.178.81.162,japan,ja,Windows 8.1,jp,kochi-shi,kochi,33.613,133.564,ja
+2.01803E+19,b387d33b-01c3-4594-81b2-31c7cdc466e3,153.164.180.85,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01803E+19,12b84edb-2f61-4207-99a2-9928cae8260d,153.190.249.231,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01803E+19,6d930fbb-a31c-4851-b7c7-0177e9410f4c,153.133.16.83,japan,ja,Windows 8.1,jp,gifu-shi,gifu,35.411,136.713,ja
+2.01803E+19,64d5631f-701c-4511-b40c-364f98a60e30,153.201.185.133,japan,ja,Windows 8.1,jp,fukushima-shi,fukushima,37.805,140.491,ja
+2.01803E+19,fd17abd1-c003-4bf2-8d15-cb4cdbb0f418,150.249.92.173,japan,ja,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,ja
+2.01803E+19,fd17abd1-c003-4bf2-8d15-cb4cdbb0f418,150.249.92.173,japan,ja,Windows 8.1,jp,shinagawa-ku,tokyo,35.621,139.745,ja
+2.01803E+19,b4c935e6-a38d-4670-9d72-f8bf5b06d610,133.6.58.100,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01803E+19,4cc4b30b-6a13-4b6f-ab74-cf83771fa8e2,153.221.149.229,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01803E+19,f91d81d3-9a6e-4932-9544-ba6982a3a2f6,153.151.203.124,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,fcf6b473-02a8-4a18-89b3-7c4297474ad8,153.193.44.152,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,fcf6b473-02a8-4a18-89b3-7c4297474ad8,153.193.44.152,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,4559c3b4-7003-4dd9-a6ff-d1f95b79b844,126.65.137.58,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01803E+19,ffdb3fe9-a855-406d-9e7a-2f53881da21e,58.3.225.64,japan,ja,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,ja
+2.01803E+19,96a44dac-2114-4017-8274-2db0dd508859,106.172.218.215,japan,ja,Windows 8.1,jp,kirishima,kagoshima,31.82,130.835,ja
+2.01803E+19,5d2af7aa-d5b5-413e-beba-6a964c134e3c,122.17.16.11,japan,ja,Windows 8.1,jp,niigata-shi,niigata,37.856,139.041,ja
+2.01803E+19,5384fa0e-f32e-44ce-ab46-30bb37239f66,210.150.142.85,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.691,139.769,ja
+2.01803E+19,53a61bf2-5fc5-4fef-b85d-8c1f51e716a7,114.191.69.233,japan,ja,Windows 8.1,jp,kagoshima-shi,kagoshima,31.562,130.523,ja
+2.01803E+19,aeb5d6a9-5961-4a72-bf40-0ff5c5355f7c,125.204.149.132,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01803E+19,47528381-edf6-4f78-88e8-324abeab9849,153.150.176.92,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,5ad200b8-f7b0-43c6-8c19-bc2eddedf9f1,153.171.135.169,japan,ja,Windows 8.1,jp,funabashi,chiba,35.788,140.074,ja
+2.01803E+19,5ad200b8-f7b0-43c6-8c19-bc2eddedf9f1,153.171.135.169,japan,ja,Windows 8.1,jp,funabashi,chiba,35.788,140.074,ja
+2.01803E+19,ab8c1021-09cd-41be-a690-cc9136b18546,153.187.104.213,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01803E+19,ac4e6ecf-02b1-4221-9fd0-6f85f963e3db,153.156.73.137,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01803E+19,79f40fbf-c0e1-4deb-8f80-deb08b793fbc,114.145.150.44,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01805E+19,f4478ddd-9e64-46c7-8400-52b9c284d21f,27.136.136.82,japan,ja,Windows 7,jp,kita-ku (osaka),osaka,34.693,135.494,
+2.01805E+19,f4478ddd-9e64-46c7-8400-52b9c284d21f,27.136.136.82,japan,ja,Windows 7,jp,kita-ku (osaka),osaka,34.693,135.494,
+2.01805E+19,92891841-3116-4901-b1bd-5d69e4477c51,222.2.78.92,japan,ja,Windows 7,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01805E+19,d984f225-1a9f-4721-81d7-535309250ad4,125.51.168.193,japan,ja,Windows 7,jp,osaka-shi,osaka,34.671,135.508,
+2.01805E+19,d984f225-1a9f-4721-81d7-535309250ad4,125.51.168.193,japan,ja,Windows 7,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01805E+19,4f61221b-3d3d-472a-9628-b71d6e5c7ba2,180.20.155.252,japan,ja,Windows 7,jp,matsuyama,ehime,33.841,132.772,ja
+2.01805E+19,21cb0a3b-ef75-4d9a-a254-380bf59b6a3c,121.104.158.20,japan,ja,Windows 7,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01805E+19,21cb0a3b-ef75-4d9a-a254-380bf59b6a3c,121.104.158.20,japan,ja,Windows 7,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01805E+19,747a7bc0-8d3d-400e-881a-0837642a06c1,60.38.26.128,japan,ja,Windows 7,jp,sapporo,hokkaido,43.069,141.357,
+2.01805E+19,639e3e6b-880e-4bd2-a853-ab1e411d27fa,220.157.240.192,japan,ja,Windows 7,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01805E+19,639e3e6b-880e-4bd2-a853-ab1e411d27fa,220.157.240.192,japan,ja,Windows 7,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01805E+19,659ff996-39f6-43b5-aeae-8b976a10dc0c,220.99.255.159,japan,ja,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.01805E+19,c35826bc-5b61-4d69-93de-012ae4ba28ef,180.45.174.175,japan,ja,Windows 7,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01805E+19,e0afc5ca-a6fc-4596-96e5-cd09470d6afe,118.21.1.151,japan,ja,Windows 7,jp,tokyo,tokyo,35.696,139.739,
+2.01805E+19,6f61fe43-3fb6-46eb-914d-a2ef7fec4349,114.174.200.227,japan,ja,Windows 7,jp,kita-ku (osaka),osaka,34.693,135.494,
+2.01805E+19,d5e2f4bd-c500-431c-9fe8-0fc8a7faccaf,124.102.65.115,japan,ja,Windows 7,jp,tokyo,tokyo,35.696,139.739,ja
+2.01805E+19,e4ae75df-9752-42d8-a9a5-cd58dfff4343,182.171.107.242,japan,ja,Windows 7,jp,nagoya,aichi,35.149,136.919,
+2.01802E+19,66d8657a-4545-44a2-91ee-d1eb92050c3c,219.107.203.84,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01802E+19,15234fb5-1f68-4a25-be07-3a3eec38623c,60.128.186.186,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01802E+19,41ace503-9b7d-49e8-8e9b-54c12c044b8c,124.144.58.114,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01802E+19,41ace503-9b7d-49e8-8e9b-54c12c044b8c,124.144.58.114,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01802E+19,e6ee31aa-1616-4c11-904b-bd03d183f019,153.129.42.12,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01802E+19,b090700a-146c-4b2c-b808-4803293357d4,175.131.177.214,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01802E+19,76573eef-438a-45f7-be4b-1aa359153148,219.164.119.37,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01802E+19,3279994c-7a93-4559-a1e2-0ac263ac47de,221.40.183.145,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01802E+19,4a8ace77-bd58-4c42-9240-95e7f803809d,175.108.236.117,japan,ja,Windows 8.1,jp,izumi-ku,miyagi,38.342,140.889,ja
+2.01802E+19,4a8ace77-bd58-4c42-9240-95e7f803809d,175.108.236.117,japan,ja,Windows 8.1,jp,izumi-ku,miyagi,38.342,140.889,ja
+2.01802E+19,219de379-f1b6-4816-8fe7-8467e099da29,106.158.227.22,japan,ja,Windows 8.1,jp,saeki-ku,hiroshima,34.445,132.379,ja
+2.01802E+19,6e9411ce-c9ab-4bf0-a2c4-4aa23f4e916d,111.102.200.225,japan,ja,Windows 8.1,jp,shinjuku-ku,tokyo,35.693,139.724,ja
+2.01802E+19,a18770b2-fc10-4386-9f20-a904efbfcd79,221.187.189.192,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01802E+19,27a45d7b-637c-4406-9029-e1be96203d69,119.245.195.39,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01802E+19,00f7c2e1-4280-4a44-a1bc-b7598a7df5b7,126.58.198.253,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,,,,,,,,,0,0,
+2.01802E+19,16de175a-195f-4788-a1f1-8ccccb2ee1e5,153.187.65.121,japan,ja,Windows 8.1,jp,beppu,oita,33.348,131.496,ja
+2.01802E+19,7e7a4208-b8b5-4a4c-a84b-b637b50abd7b,133.218.143.212,japan,ja,Windows 8.1,jp,sendai,miyagi,38.272,140.878,ja
+2.01802E+19,59e9fbba-d2f3-4160-8eec-b689299e2e10,58.138.59.150,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01802E+19,3dd24455-bd34-46d2-802a-c0be669b3db1,121.103.221.56,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,61d6862e-c729-4b2d-b8ef-9c83da06d0bb,211.132.48.161,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01802E+19,cf889f92-5703-48eb-b848-d516a6d14ff2,60.106.132.125,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,88bcefb5-ede0-4652-81f1-8483e75f5294,106.157.72.254,japan,ja,Windows 8.1,jp,kitamoto,saitama,36.047,139.523,ja
+2.01802E+19,93899c26-abfd-47ec-a193-18cddd000a36,220.209.229.126,japan,ja,Windows 8.1,jp,aomori-shi,aomori,40.804,140.727,ja
+2.01802E+19,8a10b3de-6f74-4cf0-9527-fd1571837a4d,60.124.54.209,japan,ja,Windows 8.1,jp,miyazaki-shi,miyazaki,44.683,142.701,ja
+2.01802E+19,94461b1c-4f3c-4aac-a58b-6cef9c19cffa,133.218.205.7,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01802E+19,94461b1c-4f3c-4aac-a58b-6cef9c19cffa,133.218.205.7,japan,ja,Windows 8.1,jp,hiroshima-shi,hiroshima,34.415,132.458,ja
+2.01802E+19,3eae5eb7-3003-438d-837b-9646a289e364,153.143.249.10,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01802E+19,37520655-9c0f-45ff-ac42-070a6e8004c7,153.175.48.2,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01802E+19,8d090902-13b3-4ea7-bcd6-86752f608615,122.24.2.31,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01802E+19,d171ba18-2e5e-46bc-b3c5-97336ffc6184,124.246.225.254,japan,ja,Windows 8.1,jp,suwa,nagano,36.057,138.116,ja
+2.01802E+19,303c0a0f-e297-4033-8134-ce13883176cd,118.13.66.130,japan,ja,Windows 8.1,jp,fukui-shi,fukui,36.084,136.229,ja
+2.01802E+19,e99199a2-3186-4786-bd05-85e40df606a7,118.8.149.245,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01802E+19,e99199a2-3186-4786-bd05-85e40df606a7,118.8.149.245,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01802E+19,6f145c8b-8b27-415d-a84b-aae9a4555df6,121.1.203.201,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,6f145c8b-8b27-415d-a84b-aae9a4555df6,121.1.203.201,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,32963aa1-13ff-47ec-8416-14e506048b73,126.94.199.181,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,eae93a85-0bbb-4f0d-a25a-ded718f80e3b,222.149.48.94,japan,ja,Windows 8.1,jp,soka,saitama,35.826,139.805,ja
+2.01802E+19,1fc2b26a-0ae8-46ad-9cd4-b0f478ffa3ec,210.128.207.251,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01802E+19,1fc2b26a-0ae8-46ad-9cd4-b0f478ffa3ec,210.128.207.251,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01802E+19,2432505d-6c6a-4386-954c-267443120e0b,153.150.180.3,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01802E+19,2432505d-6c6a-4386-954c-267443120e0b,153.150.180.3,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01802E+19,acd8c85e-6f7c-4f72-a4c4-5bc476bac580,60.134.8.117,japan,ja,Windows 8.1,jp,nagasaki-shi,nagasaki,32.765,129.889,ja
+2.01802E+19,acd8c85e-6f7c-4f72-a4c4-5bc476bac580,60.134.8.117,japan,ja,Windows 8.1,jp,nagasaki-shi,nagasaki,32.765,129.889,ja
+2.01802E+19,3224bede-afd2-4f21-9a2a-da7a79a63462,60.33.77.170,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01802E+19,247d671b-c372-4b8c-9eaf-e21b9d513c67,114.168.151.84,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01802E+19,18248fbd-2603-48be-9da3-ed246cbd4599,59.170.235.49,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,794d1341-34b5-4a23-8374-bfd21286ff9e,60.96.10.64,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01802E+19,37b44ff5-f671-4a3a-ac04-e5abad4222a9,14.101.92.19,japan,ja,Windows 8.1,jp,takasaki,gunma,36.278,139.003,ja
+2.01802E+19,37b44ff5-f671-4a3a-ac04-e5abad4222a9,14.101.92.19,japan,ja,Windows 8.1,jp,takasaki,gunma,36.278,139.003,ja
+2.01802E+19,2e1e2775-8f55-4bd0-869f-5cb649335f8b,124.214.160.141,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01802E+19,da579447-6f3d-47dd-a5ff-1c4082b86c28,116.80.124.241,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01802E+19,da579447-6f3d-47dd-a5ff-1c4082b86c28,116.80.124.241,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01802E+19,a2608d71-5350-4208-b8ea-29c5e3b1fa08,125.13.196.223,japan,ja,Windows 8.1,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.01802E+19,a2608d71-5350-4208-b8ea-29c5e3b1fa08,125.13.196.223,japan,ja,Windows 8.1,jp,fukuoka-shi,fukuoka,33.585,130.381,ja
+2.01802E+19,b9ad2139-23fc-4f70-af28-b7129938742a,116.91.135.171,japan,ja,Windows 8.1,jp,minato-ku (tokyo),tokyo,35.666,139.756,ja
+2.01802E+19,f84d08bb-8733-497a-806e-4a7c6dd0712d,143.189.79.207,japan,ja,Windows 8.1,jp,kanagawa-ku,kanagawa,35.497,139.647,ja
+2.01802E+19,a361063e-ed80-4e5d-904b-e1f09ec5d24a,27.138.248.132,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01802E+19,6b165fc7-ff2c-4d7b-a27a-5584edf2e48e,117.108.68.219,japan,ja,Windows 8.1,jp,ikoma,nara,34.742,135.722,ja
+2.01802E+19,2de3135d-ff9e-4b9d-9d0b-9cd705de3c69,113.197.245.150,japan,ja,Windows 8.1,jp,matsuyama,ehime,33.841,132.772,ja
+2.01802E+19,2de3135d-ff9e-4b9d-9d0b-9cd705de3c69,113.197.245.150,japan,ja,Windows 8.1,jp,matsuyama,ehime,33.841,132.772,ja
+2.01802E+19,f3e65aaa-5e1e-4d8f-b8c5-e6a2d835ee99,58.183.61.196,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01802E+19,f3e65aaa-5e1e-4d8f-b8c5-e6a2d835ee99,58.183.61.196,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01802E+19,73844bc2-8558-497f-8226-d27944011818,103.92.229.48,japan,ja,Windows 8.1,jp,tochigi-shi,tochigi,36.356,139.759,ja
+2.01802E+19,4159d84c-b5ae-4faf-8f46-5baed6fb9507,222.12.163.228,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01802E+19,2105c1fd-f354-4cd4-9722-18d51efa9303,121.82.29.207,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01802E+19,c459730e-be95-4406-ad73-79cb912b3912,59.137.146.191,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,b72752f7-71b7-40b0-9245-97d4e3729826,115.37.50.53,japan,ja,Windows 8.1,jp,ichinomiya,aichi,35.332,136.836,
+2.01803E+19,b72752f7-71b7-40b0-9245-97d4e3729826,115.37.50.53,japan,ja,Windows 8.1,jp,ichinomiya,aichi,35.332,136.836,
+2.01803E+19,f53d99cf-04ab-4cc5-872b-a9c7fd84f0b6,60.128.192.177,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,071fcdfe-6f78-43fd-886b-4defa3c9e2b5,115.37.40.157,japan,ja,Windows 8.1,jp,ichinomiya,aichi,35.332,136.836,ja
+2.01803E+19,0c8fdae6-f501-4c20-8cf4-b295e65f1ae4,222.168.224.1,china,ja,Windows 8.1,cn,tonghua,jilin,41.714,125.934,ja
+2.01803E+19,3afd0fdb-adca-49cb-b6a7-aa2cd8bc1d88,133.232.69.173,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01803E+19,619beee0-0d7a-4c3a-82d3-c6247ae11a79,106.158.91.87,japan,ja,Windows 8.1,jp,hachinohe,aomori,40.512,141.488,ja
+2.01803E+19,16d7d158-9e35-49fa-a85b-b80c0c983755,126.122.53.152,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,14690ba1-7b74-4691-9f32-270bd908bc94,58.1.156.62,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01803E+19,46061346-3555-44f3-a8a8-493bbb71e612,126.54.174.205,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,ee100f61-fa3a-4ff2-b805-9ada38c65e00,119.229.213.71,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,79f40fbf-c0e1-4deb-8f80-deb08b793fbc,114.145.150.44,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,0c5c155a-121f-4027-a932-0043f2a42649,180.29.125.41,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01803E+19,0c5c155a-121f-4027-a932-0043f2a42649,180.29.125.41,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01803E+19,b6ec6399-233c-4a3e-9cdd-eea1a663ce5a,153.219.63.241,japan,ja,Windows 8.1,jp,aoba-ku,miyagi,38.268,140.869,ja
+2.01803E+19,16187d35-cb2d-451c-a7f5-d4bf99e1b61a,58.92.186.128,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,ff1f9804-00f6-4de5-8614-fefe42c8b6b7,111.103.68.73,japan,ja,Windows 8.1,jp,tokorozawa,saitama,35.791,139.443,ja
+2.01803E+19,0e0731d4-5968-43a9-b9b9-5307a37d06d5,118.19.191.201,japan,ja,Windows 8.1,jp,nagano-shi,nagano,36.659,138.188,ja
+2.01803E+19,cf5caa5b-8332-4fc2-87dd-c4ba2220905c,153.181.87.157,japan,ja,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,ja
+2.01803E+19,6309acc8-8dd9-4f11-9c0d-19d10167ec13,122.30.134.145,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01803E+19,50f1afbc-a97f-420e-a30f-178c3c4003e0,153.169.211.121,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01803E+19,ce386877-251c-40af-91b5-8a211b9a9d65,49.109.156.91,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,92329c81-bea5-4d26-b2d2-e0e2e3d39558,106.154.54.74,japan,ja,Windows 8.1,jp,itabashi-ku,tokyo,35.759,139.708,ja
+2.01803E+19,dfcae905-99cc-4cba-b02b-677be838f8c9,219.167.132.182,japan,ja,Windows 8.1,jp,sendai,miyagi,38.272,140.878,ja
+2.01803E+19,dfcae905-99cc-4cba-b02b-677be838f8c9,219.167.132.182,japan,ja,Windows 8.1,jp,sendai,miyagi,38.272,140.878,ja
+2.01803E+19,870a4c57-33ab-4565-9e40-68cb4f50eea7,114.174.201.127,japan,ja,Windows 8.1,jp,kita-ku (osaka),osaka,34.693,135.494,ja
+2.01803E+19,297bea3b-2326-42e7-b7c9-1d9147f58a65,114.151.130.170,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01803E+19,a56a3d6c-93d1-4162-af0d-f905c5c8b8a1,124.44.9.196,japan,ja,Windows 8.1,jp,toshima-ku,tokyo,35.729,139.716,ja
+2.01803E+19,0d73afe7-4984-4085-821a-bc43570e6f6b,219.165.143.166,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,0d73afe7-4984-4085-821a-bc43570e6f6b,219.165.143.166,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,40cd8631-5949-408e-97c3-880e0a6e89f3,153.182.68.183,japan,ja,Windows 8.1,jp,saga-shi,saga,33.263,130.324,ja
+2.01803E+19,a4ae2cb5-3895-4ca5-a8a6-d9dfbb6e5780,153.142.32.32,japan,ja,Windows 8.1,jp,kita-ku (osaka),osaka,34.693,135.494,ja
+2.01803E+19,fc442ace-d50c-47a1-9e50-a58fd737c39a,60.47.115.94,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,48a27242-1cb8-4cdb-8767-d942fad7ca8d,123.218.206.97,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01803E+19,48a27242-1cb8-4cdb-8767-d942fad7ca8d,123.218.206.97,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01803E+19,a75e55ac-f67a-4af2-9d58-6f54d8fdafae,210.165.115.16,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01803E+19,e780acb9-b046-4874-810f-cc9ad1e0a32a,125.201.97.127,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,23ab4f1a-bc5e-4e91-8f3d-2542e14cafde,180.51.235.203,japan,ja,Windows 8.1,jp,naka-ku (nagoya),aichi,35.179,136.899,ja
+2.01803E+19,392e6b70-78e4-4f6b-a2c2-b9ad20100bdb,118.7.152.231,japan,ja,Windows 8.1,jp,chiba-shi,chiba,35.613,140.142,ja
+2.01803E+19,29645308-0917-4a18-9fa6-5b20348db652,223.216.157.38,japan,ja,Windows 8.1,jp,miyazaki-shi,miyazaki,44.683,142.701,ja
+2.01803E+19,44504048-423b-455b-acec-fc40bb601f4f,58.95.124.229,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01803E+19,44504048-423b-455b-acec-fc40bb601f4f,58.95.124.229,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01803E+19,2ff25823-373a-4a66-9ddb-ce493fa14357,153.210.142.193,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01803E+19,a12e8702-dcbd-4fa4-a22f-4ec394c940e0,180.30.130.225,japan,ja,Windows 8.1,jp,shizuoka-shi,shizuoka,35.013,138.42,ja
+2.01803E+19,a12e8702-dcbd-4fa4-a22f-4ec394c940e0,180.30.130.225,japan,ja,Windows 8.1,jp,shizuoka-shi,shizuoka,35.013,138.42,ja
+2.01803E+19,485dbd63-c083-42e7-9ebc-e4afa26545d3,223.218.218.1,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,4720cab4-ba2a-4195-977b-753c9fbc7eab,133.232.195.85,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,309f0f5c-c30f-4beb-9312-b50b0336d3b7,153.176.51.156,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,7aa65f65-2852-4002-b93d-130b5bde333c,153.142.106.25,japan,ja,Windows 8.1,jp,kita-ku (osaka),osaka,34.693,135.494,ja
+2.01803E+19,7aa65f65-2852-4002-b93d-130b5bde333c,153.142.106.25,japan,ja,Windows 8.1,jp,kita-ku (osaka),osaka,34.693,135.494,ja
+2.01803E+19,9f1274ac-bfb0-4250-8679-b45ccb61669c,153.222.53.84,japan,ja,Windows 8.1,jp,hodogaya-ku,kanagawa,35.463,139.573,ja
+2.01803E+19,cd09f680-9df6-4344-ae44-07041df2d42c,61.213.184.242,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,609322fd-59f6-4e2f-ab96-1e408984e929,60.41.228.253,japan,ja,Windows 8.1,jp,tottori-shi,tottori,35.532,134.209,ja
+2.01803E+19,c61f4394-ab24-45c5-8659-d5d4216aa7d1,123.218.8.217,japan,ja,Windows 8.1,jp,saitama-shi,saitama,35.909,139.657,ja
+2.01803E+19,1ea33774-c76c-4cb5-bbd3-131f42e6adcd,118.18.23.229,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,820a98d8-e081-4053-b6f2-452511baab5a,58.90.101.130,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01803E+19,adb0452f-bb2d-4caa-aacb-a3a660a6e5ba,219.165.247.52,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,adb0452f-bb2d-4caa-aacb-a3a660a6e5ba,219.165.247.52,japan,ja,Windows 8.1,jp,kobe,hyogo,34.693,135.14,ja
+2.01803E+19,853105f5-09cc-4dfb-be27-82e366a77fa4,121.115.225.153,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,c2c59635-1c44-475a-ae94-b66cb63b801f,61.112.180.172,japan,ja,Windows 8.1,jp,wakayama-shi,wakayama,34.307,135.089,ja
+2.01803E+19,d5928966-c0c9-4661-a26d-c267dca909f4,114.190.113.224,japan,ja,Windows 8.1,jp,matsuyama,ehime,33.841,132.772,ja
+2.01803E+19,d5928966-c0c9-4661-a26d-c267dca909f4,114.190.113.224,japan,ja,Windows 8.1,jp,matsuyama,ehime,33.841,132.772,ja
+2.01803E+19,1a1004ab-1715-45d3-840a-93951f86c067,180.5.158.149,japan,ja,Windows 8.1,jp,kita-ku (osaka),osaka,34.693,135.494,ja
+2.01803E+19,79d793eb-4cba-4120-bab6-8b23837e3f6e,180.25.64.19,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01803E+19,79d793eb-4cba-4120-bab6-8b23837e3f6e,180.25.64.19,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01803E+19,29cdbad5-eea7-4162-8e09-1d0061fcf2f1,223.218.161.174,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01803E+19,29cdbad5-eea7-4162-8e09-1d0061fcf2f1,223.218.161.174,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01803E+19,723e6536-63e0-4814-ab80-0414c91a5454,114.182.72.155,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01803E+19,5382f5d4-2dbc-4bfb-9886-1b6c4c7b052e,153.182.252.142,japan,ja,Windows 8.1,jp,otsu,shiga,35.046,135.864,ja
+2.01803E+19,5382f5d4-2dbc-4bfb-9886-1b6c4c7b052e,153.182.252.142,japan,ja,Windows 8.1,jp,otsu,shiga,35.046,135.864,ja
+2.01803E+19,6431451b-68e2-4a05-965f-88cbf5072b4d,153.189.132.182,japan,ja,Windows 8.1,jp,chuo-ku (kobe),hyogo,34.698,135.193,ja
+2.01803E+19,5726d071-d2f9-492d-826c-48de34c3ea13,114.184.174.168,japan,ja,Windows 8.1,jp,tokyo,tokyo,35.696,139.739,ja
+2.01803E+19,9ef1e95f-e328-4584-bad8-eecdf8b1d0d4,180.49.14.33,japan,ja,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,ja
+2.01803E+19,9ef1e95f-e328-4584-bad8-eecdf8b1d0d4,180.49.14.33,japan,ja,Windows 8.1,jp,chuo-ku (fukuoka),fukuoka,33.59,130.398,ja
+2.01803E+19,f63737b6-14bd-44e7-9005-9b404b04b36a,153.150.176.125,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,f63737b6-14bd-44e7-9005-9b404b04b36a,153.150.176.125,japan,ja,Windows 8.1,jp,osaka-shi,osaka,34.671,135.508,ja
+2.01803E+19,c5e4c973-d624-4496-8501-ab3e715cf129,118.8.154.226,japan,ja,Windows 8.1,jp,chiyoda-ku,tokyo,35.689,139.763,ja
+2.01803E+19,1000c615-74bc-4c23-a814-c035153f34aa,153.180.21.75,japan,ja,Windows 8.1,jp,okayama-shi,okayama,34.68,133.94,ja
+2.01803E+19,d4c447c5-4d8e-41e8-9274-6520ee781f52,123.223.167.227,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01803E+19,23d75c18-766d-4079-b5be-b107ce77939f,153.156.238.56,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01803E+19,23d75c18-766d-4079-b5be-b107ce77939f,153.156.238.56,japan,ja,Windows 8.1,jp,minami-ku (hiroshima),hiroshima,34.394,132.489,ja
+2.01803E+19,8574ff94-8b63-4366-ac5c-b6a7c0302c31,180.34.242.36,japan,ja,Windows 8.1,jp,nagano-shi,nagano,36.659,138.188,ja
+2.01803E+19,69ea6f41-049d-4f38-96df-caed24093a5e,58.93.188.223,japan,ja,Windows 8.1,jp,sapporo,hokkaido,43.069,141.357,ja
+2.01803E+19,e81eba09-9725-4b52-b6d5-8c7e67f3d76d,118.20.187.66,japan,ja,Windows 8.1,jp,takasaki,gunma,36.278,139.003,ja
+2.01803E+19,e81eba09-9725-4b52-b6d5-8c7e67f3d76d,118.20.187.66,japan,ja,Windows 8.1,jp,takasaki,gunma,36.278,139.003,ja
+2.01803E+19,fe76c98c-ac88-4757-9fc0-2cbc5779e3b0,125.204.155.152,japan,ja,Windows 8.1,jp,nagoya,aichi,35.149,136.919,ja
+2.01803E+19,17aa0ee1-a412-4c71-b1b8-590085782cd0,223.218.177.251,japan,ja,Windows 8.1,jp,yokohama,kanagawa,35.46,139.596,ja
+2.01803E+19,7431c41b-382d-4a47-9203-796ae4a424e5,121.114.245.11,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01803E+19,7431c41b-382d-4a47-9203-796ae4a424e5,121.114.245.11,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01803E+19,ab627f73-0302-4558-ad80-0877d8ce521b,153.217.82.154,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01803E+19,ab627f73-0302-4558-ad80-0877d8ce521b,153.217.82.154,japan,ja,Windows 8.1,jp,mito,ibaraki,36.416,140.457,ja
+2.01803E+19,3083f3bc-cd8c-4610-8c05-08ac5880331c,180.33.69.167,japan,ja,Windows 8.1,jp,nakagyo-ku,kyoto,35.017,135.758,ja
+2.01803E+19,14eb655d-40ea-4530-b22a-1b3c937f0911,118.5.64.244,japan,ja,Windows 8.1,jp,yokkaichi,mie,34.993,136.642,ja
+2.01805E+19,f55f9138-7924-4792-82b6-2655236dbe87,114.184.7.227,japan,ja,Windows 7,jp,mito,ibaraki,36.416,140.457,
